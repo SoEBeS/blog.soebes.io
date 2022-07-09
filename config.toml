@@ -1,37 +1,39 @@
-baseURL = 'https://blog.soebes.io/'
-languageCode = 'en-us'
-title = 'SoEBeS'
-copyright = "Copyright © 2004–222, SoftwareEnwicklung Beratung Schulung"
-theme = "hugo-clarity"
+baseurl = "/"
+title = "Mainroad"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[Author]
+name = "John Doe"
+bio = "John Doe's true identity is unknown. Maybe he is a successful blogger or writer. Nobody knows it."
+avatar = "logos/weblogo.gif"
 
-author = "khmarbaise"
-twitter = "khmarbaise"
-ga_analytics = false
+[Params]
+description = "John Doe's Personal blog about everything" # Description of your site
+opengraph = true
+twitter_cards = false
+readmore = false # Show "Read more" button in list if true
+authorbox = true
+pager = true
+post_meta = ["date", "categories"] # Order of post meta information
+mainSections = ["post", "docs"]
+customCSS = ["css/custom.css"] # Include custom CSS files
 
-[params]
-mainSections = ["posts"]
+[Params.sidebar]
+home = "right"   # Configure layout for home page
+list = "right"   # Configure layout for list pages
+single = "right" # Configure layout for single pages
+# Enable widgets in given order
+widgets = ["search", "recent", "categories", "taglist"]
 
-codeLineNumbers = true # Shows line numbers for all code blocks globally.
+[Params.widgets]
+recent_num = 5 # Set the number of articles in the "Recent articles" widget
+tags_counter = false # Enable counter for each tag in "Tags" widget (disabled by default)
 
-numberOfTagsShown = 10
-
-largeTwitterCard = true
-logo = "/logos/weblogo.gif"
-enableMathNotation = true
-showDate = true
-enable = true
-websiteDomain = "https://blog.soebes.io"
-
-mobileNavigation = "right" # Mobile nav menu will open to the left of the screen.
-customCSS = ["css/custom.css"]
-[taxonomies]
-category = "categories"
-tag = "tags"
-series = "series"
-
-
-[[menu.main]]
-Name = "Blog"
-URL = "/"
-weight = -10
+[Params.logo]
+image = "logos/weblogo.gif" # Logo image. Path relative to "static"
+title = "SoEBeS" # Logo title, otherwise will use site title
+subtitle = "Just another site" # Logo subtitle
