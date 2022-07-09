@@ -1,3 +1,37 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.soebes.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'SoEBeS'
+copyright = "Copyright © 2004–222, SoftwareEnwicklung Beratung Schulung"
+theme = "hugo-clarity"
+
+
+author = "khmarbaise"
+twitter = "khmarbaise"
+ga_analytics = false
+
+[params]
+mainSections = ["posts"]
+
+codeLineNumbers = true # Shows line numbers for all code blocks globally.
+
+numberOfTagsShown = 10
+
+largeTwitterCard = true
+logo = "/logos/weblogo.gif"
+enableMathNotation = true
+showDate = true
+enable = true
+websiteDomain = "https://blog.soebes.io"
+
+mobileNavigation = "right" # Mobile nav menu will open to the left of the screen.
+customCSS = ["css/custom.css"]
+[taxonomies]
+category = "categories"
+tag = "tags"
+series = "series"
+
+
+[[menu.main]]
+Name = "Blog"
+URL = "/"
+weight = -10
