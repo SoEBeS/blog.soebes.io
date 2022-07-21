@@ -1,0 +1,10 @@
+
+[en]
+  title = "XXXX"
+  LanguageName = "English"
+  weight = 2
+
+[de]
+  title = "XXX" # just for the sake of showing this is possible
+  LanguageName = "German"
+  weight = 1
