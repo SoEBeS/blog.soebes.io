@@ -1,10 +1,10 @@
 
 [en]
-  title = "XXXX"
+  title = "SoEBeS Blog"
   LanguageName = "English"
   weight = 2
 
 [de]
-  title = "XXX" # just for the sake of showing this is possible
+  title = "SoEBeS Blog" # just for the sake of showing this is possible
   LanguageName = "German"
   weight = 1
