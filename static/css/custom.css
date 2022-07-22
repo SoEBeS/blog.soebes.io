@@ -2,3 +2,9 @@
   max-width: 349px;
   max-height: 128px;
 }
+.nav_header {
+  background-color: #b7d6e6;
+}
+.nav_brand {
+  background-color: #6b6b6b;
+}

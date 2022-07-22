@@ -26,6 +26,10 @@
   name = "About"
   url = "about/"
   weight = -107
+[[main]]
+name = "Imprint"
+url = "imprint/"
+weight = -107
 
 # social menu links
 

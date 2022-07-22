@@ -27,21 +27,26 @@
   url = "about/"
   weight = -107
 
+[[main]]
+name = "Impressum"
+url = "https://soebes.io/impressum/"
+weight = -107
+
 # social menu links
 
 [[social]]
   name = "github"
   type = "social"
   weight = 1
-  url = "https://github.com/#"
+  url = "https://github.com/khmarbaise"
 [[social]]
   name = "twitter"
   weight = 2
-  url = "https://twitter.com/#"
+  url = "https://twitter.com/khmarbaise"
 [[social]]
   name = "linkedin"
   weight = 3
-  url = "https://www.linkedin.com/in/#"
+  url = "https://www.linkedin.com/in/karl-heinz-marbaise-17a15614"
 [[social]]
   name = "rss"
   weight = 4
