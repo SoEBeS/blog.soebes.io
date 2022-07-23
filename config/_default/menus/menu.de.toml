@@ -9,18 +9,18 @@
   weight = -109
 
 # Submenus are done this way: parent -> identifier
-[[main]]
-  name = "Links"
-  identifier = "Links"
-  weight = -108
-[[main]]
-  parent = "Links"
-  name = "LinkedIn"
-  url = "https://www.linkedin.com/"
-[[main]]
-  parent = "Links"
-  name = "Twitter"
-  url = "https://twitter.com/"
+#[[main]]
+#  name = "Links"
+#  identifier = "Links"
+#  weight = -108
+#[[main]]
+#  parent = "Links"
+#  name = "LinkedIn"
+#  url = "https://www.linkedin.com/"
+#[[main]]
+#  parent = "Links"
+#  name = "Twitter"
+#  url = "https://twitter.com/"
 
 [[main]]
   name = "About"
@@ -34,19 +34,19 @@ weight = -107
 
 # social menu links
 
-#[[social]]
-#  name = "github"
-#  type = "social"
-#  weight = 1
-#  url = "https://github.com/khmarbaise"
-#[[social]]
-#  name = "twitter"
-#  weight = 2
-#  url = "https://twitter.com/khmarbaise"
-#[[social]]
-#  name = "linkedin"
-#  weight = 3
-#  url = "https://www.linkedin.com/in/karl-heinz-marbaise-17a15614"
+[[social]]
+  name = "github"
+  type = "social"
+  weight = 1
+  url = "https://github.com/khmarbaise"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/khmarbaise"
+[[social]]
+  name = "linkedin"
+  weight = 3
+  url = "https://www.linkedin.com/in/karl-heinz-marbaise-17a15614"
 [[social]]
   name = "rss"
   weight = 4
