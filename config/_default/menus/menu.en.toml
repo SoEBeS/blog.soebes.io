@@ -28,7 +28,7 @@
   weight = -107
 [[main]]
 name = "Imprint"
-url = "imprint/"
+url = "https://soebes.io/impressum"
 weight = -107
 
 # social menu links
