@@ -3,7 +3,7 @@ title: "About me"
 date: 2022-07-22T20:14:03
 ---
 My name is Karl Heinz Marbaise currently I am the [Chairman of the Apache Maven Project](https://maven.apache.org/team.html), 
-[Apache Software Foundation Member](https://people.apache.org/phonebook.html?uid=khmarbaise), Mojo Haus Member, 
+[Apache Software Foundation Member](https://people.apache.org/phonebook.html?uid=khmarbaise), [Mojo Haus Member](https://www.mojohaus.org/team.html), 
 Java Developer, CI / CD Fan, and working as a Freelancer.
 
 I started programming ca. 1980 while I got in contact with BASIC programming on a 
