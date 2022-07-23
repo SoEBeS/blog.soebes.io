@@ -127,13 +127,14 @@ matomoSiteID = "1" # Default is set to 1, change this to the siteid being tracke
 #title = "SoEBeS" # Logo title, otherwise will use site title
 #subtitle = "Just another site" # Logo subtitle
 #
-#[widgets.social]
+[widgets.social]
 ## Enable parts of social widget
-#twitter = "khmarbaise"
+twitter = "khmarbaise"
 ##instagram = "username"
-#linkedin = "khmarbaise"
+linkedin = "khmarbaise"
 ##telegram = "username"
-#github = "khmarbaise"
-#gitlab = "khmarbaise"
+github = "khmarbaise"
+gitlab = "khmarbaise"
 #bitbucket = "khmarbaise"
 #email = "blog@soebes.de"
+youtube = "xxxyoutube"

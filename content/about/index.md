@@ -63,5 +63,5 @@ of patches and being invited to become a committer on Mojo Haus (former Codehaus
 invited to become an Apache Maven committer and continued with invitation to become an Apache Software Foundation Member and 
 finally become the Apache Maven Chairman.
 
-I've done a lot of trainings (Git, Maven, Jenkins, Nexus, CI/CD consultancy and other things) over the time and furthermore 
-done a lot of lectures on different conferences like BaselOn, JAX, FOSDEM, CyberJug, UGDarmstadt etc.
+I've done a lot of trainings (Git, Maven, Jenkins, Nexus, CI/CD consultancy and other things) over the time and 
+also made lectures on different conferences like BaselOne, JAX, FOSDEM, CyberJug, UGDarmstadt etc.
