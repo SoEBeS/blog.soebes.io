@@ -53,7 +53,7 @@ I have kept working in Java area and used Maven for building. Also using JUnit, 
 Testcontainers to write unit- integration and end-to-end tests. Checking via JaCoCo (code overage) and mutation
 testing (pitest) and checking things via SonarQube. Also using security check tools like oss-index/owasp or alike.
 
-All over that time I have always interacted with setting up the whole infrastructure for automatic building the software
+All over that time I have always interacted with setting up the infrastructure for automatic building the software
 for example via CruiseControl, Continuum, Hudson, Jenkins, Nexus, SonarQube, [Git](https://git-scm.com)
 , [Gitea](https://gitea.io), etc. Also used Subversion for branching/merging. Also got entries in frameworks like 
 Hibernate, Quartz, Spring, Axis2,
