@@ -11,7 +11,7 @@ I started programming ca. 1980 while I got in contact with BASIC programming on 
 and changed to assembly language ([6502](https://en.wikipedia.org/wiki/MOS_Technology_6502#Example_code)).
 
 Afterwards I started studying electrical engineering on the University of applied science(specializing in communications
-engineering)  and started working as a student assistent and implemented in different assembly languages like 
+engineering)  and started working as a student assistant and implemented in different assembly languages like 
 [80286](https://en.wikipedia.org/wiki/Intel_80286) at that time under [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS).
 Also worked with a lot of other things like [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal), Borland Pascal.
 
