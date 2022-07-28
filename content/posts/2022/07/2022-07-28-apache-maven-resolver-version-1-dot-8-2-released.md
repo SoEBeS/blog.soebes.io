@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Resolver 1.8.2 Released"
-date: 2022-07-28T22:14:14
-lastmod: 2022-07-28T22:14:14
+date: 2022-07-28T20:14:14
+lastmod: 2022-07-28T20:14:14
 categories:
   - Maven
   - Maven-Resolver
