@@ -32,8 +32,6 @@ You can download the appropriate sources etc. from the download page:
  
 https://maven.apache.org/plugins/maven-resources-plugin/download.cgi
 
-<!-- more -->
-
 [Release Notes - Apache Maven Resources Version 3.3.0](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317827&version=12348676)
 
 * Bugs:
