@@ -25,7 +25,7 @@ You can download the appropriate sources etc. from the [download page](https://m
 
 <!-- more -->
 
-[Release Notes - Maven Resolver - Version Maven Artifact Resolver 1.8.2](https://issues.apache.org/jira/secure/ReleaseNote.jspa?version=12351121&styleName=Text&projectId=12320628)
+[Release Notes - Maven Resolver - Version Maven Artifact Resolver 1.8.2](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12320628&version=12351875)
 
 * Bugs:
  
