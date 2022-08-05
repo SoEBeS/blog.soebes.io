@@ -39,17 +39,17 @@ Worked on an implementation of a basic like language, [GNU-Make](https://en.wiki
 [TeX](https://en.wikipedia.org/wiki/TeX)/[LaTeX](https://en.wikipedia.org/wiki/LaTeX), 
 [Perl](https://en.wikipedia.org/wiki/Perl) etc.
 
-I continued my career after graduating from the and continued to work with VBA, Rexx(OS/2), RCS, CVS, 
+I continued my career after graduating and continued to work with VBA, Rexx(OS/2), RCS, CVS, 
 [PHP](https://en.wikipedia.org/wiki/PHP), [ClearCase](https://en.wikipedia.org/wiki/Rational_ClearCase), and
 got in contact with [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) the first time. Also got working
 with more databases like PostGreSQL, MySQL etc. Started to work with PHP using a framework like phpmvc (Java Struts).
 
-In 2004/2005 I continued my work with PHP (PHPUnit, [PHPDocumentor](https://phpdoc.org/)) and got more involvement with Java
+In 2004/2005 I continued my work with PHP ([PHPDocumentor](https://phpdoc.org/)) and got more involvement with Java
 to do testing of a SOAP interface and started to use Java for that. Enhanced my knowledge of using version control
 systems(CVS) to decouple development and deployment. Started to use things like J2EE, JWebUnit, HTTPUnit, JavaDoc,
-Hibernate etc. We have migrated from PHP to Java.
+Hibernate etc. During that time we have migrated from PHP to Java.
 
-I have kept working in Java area and used [Maven](https://maven.apache.org) for building. 
+I kept working in Java area and used [Maven](https://maven.apache.org) for building the software. 
 Also using [JUnit](https://junit.org/junit4/), [JUnit Jupiter](https://https://junit.org/junit5/), 
 [TestNG](https://testng.org/doc/), [Mockito](https://site.mockito.org/), [AssertJ](https://assertj.github.io/doc/),
 [Testcontainers](https://www.testcontainers.org/) to write unit- integration and end-to-end tests. Checking via [JaCoCo (code overage)](https://www.jacoco.org/jacoco/)
@@ -62,10 +62,10 @@ SonarQube, [Git](https://git-scm.com), [Gitea](https://gitea.io), etc. Also used
 for branching/merging. Also got entries in frameworks like Hibernate, [Quartz](https://github.com/quartz-scheduler/quartz), 
 [Spring](https://spring.io), [Axis2](https://axis.apache.org/axis2/java/core/),
 
-I got more and more involved with [Mojo Haus Plugins](https://www.mojohaus.org/), because I had found a number of bugs 
-and provided a number of patches and being invited to become a committer on Mojo Haus (former Codehaus). This continued 
-to the time being invited to become an Apache Maven committer and continued with invitation to become an Apache Software
-Foundation Member and finally become the Apache Maven Chairman.
+I got more and more involved with [Mojo Haus Plugins](https://www.mojohaus.org/), because I had found a number of bugs.
+I got the chance to provide a number of patches and being invited to become a committer on Mojo Haus (former Codehaus). 
+This continued to the time being invited to become an Apache Maven committer and continued with invitation to become an 
+Apache Software Foundation Member and finally become the Apache Maven Chairman.
 
 I've done a lot of trainings (Git, Maven, Jenkins, Nexus, CI/CD consultancy and other things) over the time and 
 also made lectures on different conferences like BaselOne, JAX, FOSDEM, CyberJug, UGDarmstadt etc.
