@@ -5,7 +5,6 @@ lastmod: 2010-03-30T10:18:04
 categories:
   - Java
   - SKM
-  - Neuigkeiten
   - DVCS
   - GIT
 ---

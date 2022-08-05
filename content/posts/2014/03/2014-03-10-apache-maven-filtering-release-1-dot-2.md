@@ -3,7 +3,6 @@ title: "Apache Maven Filtering - Release 1.2"
 date: 2014-03-10T22:05:00
 lastmod: 2014-03-10T22:05
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

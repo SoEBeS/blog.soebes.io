@@ -5,7 +5,6 @@ lastmod: 2007-03-13T18:39:19
 categories:
   - Java
   - SKM
-  - Neue Versionen
   - PlugIn
   - Bug/Issue Tracking
 ---

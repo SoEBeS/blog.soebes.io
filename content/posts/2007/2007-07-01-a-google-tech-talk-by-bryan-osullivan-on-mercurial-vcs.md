@@ -4,7 +4,6 @@ date: 2007-07-01T21:52:25
 lastmod: 2007-07-01T21:52:25
 categories:
   - SKM
-  - Neuigkeiten
   - Mercurial
 ---
 Ein [technischer Vortrag](http://video.google.com/videoplay?docid=-7724296011317502612&hl=en) über Mercurial und 

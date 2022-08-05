@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting Impl. Version 3.1.0 Relea
 date: 2022-02-09T21:37:37
 lastmod: 2022-02-09T21:37:37
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

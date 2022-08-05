@@ -3,8 +3,6 @@ title: "Maven License Verifier Plugin - Release 0.4"
 date: 2011-05-07T21:36:13
 lastmod: 2011-05-07T21:36:13
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Maven
   - Maven-Plugins
 ---

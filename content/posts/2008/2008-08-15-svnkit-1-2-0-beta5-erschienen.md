@@ -5,7 +5,6 @@ lastmod: 2008-08-15T20:15:42
 categories:
   - Java
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Das [SVNKit Team](http://www.svnkit.com "SVNKit Team"), hat eine neue Release zur Annäherung an die Subversion 1.5. Funktionalität heraus gebracht.

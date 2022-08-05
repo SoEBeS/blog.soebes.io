@@ -3,7 +3,6 @@ title: "Apache Maven JavaDoc Version 2.10.2 Released"
 date: 2015-03-18T21:19:00
 lastmod: 2015-03-18T21:19
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

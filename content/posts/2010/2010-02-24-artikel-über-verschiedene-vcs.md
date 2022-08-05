@@ -4,7 +4,6 @@ date: 2010-02-24T12:57:47
 lastmod: 2010-02-24T12:57:47
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
   - Mercurial
   - ClearCase

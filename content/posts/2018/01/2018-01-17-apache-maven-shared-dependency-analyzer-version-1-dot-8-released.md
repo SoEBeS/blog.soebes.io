@@ -3,7 +3,6 @@ title: "Apache Maven Shared Dependency Analyzer Version 1.8 Released"
 date: 2018-01-17T21:30:34
 lastmod: 2018-01-17T21:30:34
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

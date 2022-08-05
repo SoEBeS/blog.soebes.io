@@ -4,8 +4,6 @@ date: 2008-03-14T00:06:13
 lastmod: 2008-03-14T00:06:13
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Nun wird es langsam Ernst mit Subversion 1.5....[die erste Beta Version](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=136032 "die erste Beta Version") ist 

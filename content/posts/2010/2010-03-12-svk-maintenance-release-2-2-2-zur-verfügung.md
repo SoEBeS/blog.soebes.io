@@ -4,7 +4,6 @@ date: 2010-03-12T13:36:35
 lastmod: 2010-03-12T13:36:35
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
   - SVK
 ---

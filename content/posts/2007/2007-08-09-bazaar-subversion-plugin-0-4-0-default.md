@@ -4,8 +4,6 @@ date: 2007-08-09T20:11:00
 lastmod: 2007-08-09T20:11
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
   - Bazaar
 ---

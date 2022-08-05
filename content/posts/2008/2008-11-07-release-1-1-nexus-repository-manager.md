@@ -3,8 +3,6 @@ title: "Release 1.1 - Nexus Repository Manager"
 date: 2008-11-07T15:16:28
 lastmod: 2008-11-07T15:16:28
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

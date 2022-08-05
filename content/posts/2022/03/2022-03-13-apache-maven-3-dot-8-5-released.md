@@ -3,7 +3,6 @@ title: "Apache Maven 3.8.5 Released"
 date: 2022-03-13T18:12:12
 lastmod: 2022-03-13T18:12:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Releases

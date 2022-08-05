@@ -3,7 +3,6 @@ title: "Apache Maven JAR Plugin Version 2.5 Released"
 date: 2014-06-24T12:06:00
 lastmod: 2014-06-24T12:06
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

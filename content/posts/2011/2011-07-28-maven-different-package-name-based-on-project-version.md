@@ -4,7 +4,6 @@ date: 2011-07-28T14:21:28
 lastmod: 2011-07-28T14:21:28
 categories:
   - Java
-  - Neuigkeiten
   - BM
   - Maven
 ---

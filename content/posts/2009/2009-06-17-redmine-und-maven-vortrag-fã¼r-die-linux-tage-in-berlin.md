@@ -4,7 +4,6 @@ date: 2009-06-17T17:52:24
 lastmod: 2009-06-17T17:52:24
 categories:
   - Java
-  - Neuigkeiten
   - Maven
   - Redmine
 ---

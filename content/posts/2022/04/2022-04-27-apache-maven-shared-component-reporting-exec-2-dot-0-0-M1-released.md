@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting Exec Version 2.0.0-M1"
 date: 2022-04-27T23:36:36
 lastmod: 2022-04-27T23:36:36
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Shared

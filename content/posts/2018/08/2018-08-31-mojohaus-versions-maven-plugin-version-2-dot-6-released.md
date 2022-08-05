@@ -3,7 +3,6 @@ title: "MojoHaus Version Maven Plugin Version 2.6 Released"
 date: 2018-08-31T08:30:43
 lastmod: 2018-08-31T08:30:43
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

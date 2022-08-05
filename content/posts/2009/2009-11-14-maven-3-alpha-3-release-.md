@@ -3,8 +3,6 @@ title: "Maven 3 - Alpha 3 Release "
 date: 2009-11-14T15:37:50
 lastmod: 2009-11-14T15:37:50
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

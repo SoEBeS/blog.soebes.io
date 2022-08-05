@@ -4,8 +4,6 @@ date: 2010-06-21T17:58:26
 lastmod: 2010-06-21T17:58:26
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 In der <a href="http://svn.haxx.se/dev/archive-2010-06/0320.shtml">Entwickler- als auch der Users Liste ist bekannt gegeben worden</a>, dass eine neue Release von <a href="http://subversion.apache.org">Subversion</a> zur Verfügung steht. Die  <a href="http://subversion.apache.org/docs/release-notes/1.6.html">Release Notes geben Auskunft was in 1.6 geändert wurde</a>      

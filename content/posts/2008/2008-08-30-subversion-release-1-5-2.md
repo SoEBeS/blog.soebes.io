@@ -4,7 +4,6 @@ date: 2008-08-30T21:25:07
 lastmod: 2008-08-30T21:25:07
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Nun ist es so weit, es gibt einen neue Release von <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2164"  title="Subversion 1.5.2">Subversion 1.5.2</a>.

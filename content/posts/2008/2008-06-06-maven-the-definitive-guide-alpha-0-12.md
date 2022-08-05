@@ -3,7 +3,6 @@ title: "Maven: The Definitive Guide - Alpha 0.12"
 date: 2008-06-06T11:11:30
 lastmod: 2008-06-06T11:11:30
 categories:
-  - Neuigkeiten
   - BM
   - Maven
 ---

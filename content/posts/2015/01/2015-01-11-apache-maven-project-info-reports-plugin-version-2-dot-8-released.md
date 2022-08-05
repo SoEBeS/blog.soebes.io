@@ -3,7 +3,6 @@ title: "Apache Maven Project Info Reports Plugin Version 2.8 Released"
 date: 2015-01-11T14:11:00
 lastmod: 2015-01-11T14:11
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

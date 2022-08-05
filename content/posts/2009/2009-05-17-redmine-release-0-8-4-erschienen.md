@@ -3,8 +3,6 @@ title: "Redmine Release 0.8.4 erschienen"
 date: 2009-05-17T16:36:45
 lastmod: 2009-05-17T16:36:45
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Redmine
 ---

@@ -4,7 +4,6 @@ date: 2010-04-29T11:07:08
 lastmod: 2010-04-29T11:07:08
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 Ich hatte ein kleines Problem und wollte in einem Subversion Repository rausfinden, in welcher Version ein Änderung vorliegt. Also habe ich mir 

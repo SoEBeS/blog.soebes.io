@@ -3,7 +3,6 @@ title: "Artikel über eine alte Idee"
 date: 2012-12-17T21:45:02
 lastmod: 2012-12-17T21:45:02
 categories:
-  - Neuigkeiten
   - Maven
   - Ant
   - Ivy

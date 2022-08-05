@@ -5,8 +5,6 @@ lastmod: 2009-09-16T20:54:47
 categories:
   - Java
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
 ---
 Das [Release 1.3.1 GA](http://www.svnkit.com "SVNKit Development Team") hat bekannt gegeben, dass eine neue 
 [Release](http://www.nabble.com/-ANN--SVNKit-1.3.1-(GA)-is-available.-td25461911.html) zur Verfügung steht.

@@ -4,8 +4,6 @@ date: 2008-12-22T22:34:00
 lastmod: 2008-12-22T22:34
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Das <a href="http://subversion.tigris.org/">Subversion Team</a> hat <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2223">bekannt gegeben</a>, 

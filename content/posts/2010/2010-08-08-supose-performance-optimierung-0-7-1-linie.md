@@ -4,8 +4,6 @@ date: 2010-08-08T18:24:52
 lastmod: 2010-08-08T18:24:52
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Test
   - SupoSE
 ---

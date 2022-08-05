@@ -4,8 +4,6 @@ date: 2007-08-17T19:57:42
 lastmod: 2007-08-17T19:57:42
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Es ist nun eine neue Release der [CVS nach Subversion](http://cvs2svn.tigris.org) Konverters erschienen. Die Änderungen, die 

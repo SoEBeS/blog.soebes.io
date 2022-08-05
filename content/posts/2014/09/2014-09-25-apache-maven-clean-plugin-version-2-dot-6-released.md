@@ -3,7 +3,6 @@ title: "Apache Maven Clean Plugin Version 2.6 Released"
 date: 2014-09-25T22:47:00
 lastmod: 2014-09-25T22:47
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

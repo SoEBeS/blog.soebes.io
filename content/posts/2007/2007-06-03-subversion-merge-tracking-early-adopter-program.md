@@ -4,8 +4,6 @@ date: 2007-06-03T14:31:12
 lastmod: 2007-06-03T14:31:12
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Im <a href="http://blogs.open.collab.net/svn/2007/05/subversion_merg.html">Blog von CollabNet</a> ist der Hinweis zu finden, dass man am Subversion Merge Tracking Early Adopter Program(SMTEAP) teilnehmen soll, um möglichst früh Tests bzgl. der Merge Tracking Funktionalität zu bekommen. 

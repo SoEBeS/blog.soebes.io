@@ -4,7 +4,6 @@ date: 2007-10-28T22:08:18
 lastmod: 2007-10-28T22:08:18
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
   - DVCS
 ---

@@ -3,8 +3,6 @@ title: "Maven: The Definitive Guide"
 date: 2009-01-10T22:00:02
 lastmod: 2009-01-10T22:00:02
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

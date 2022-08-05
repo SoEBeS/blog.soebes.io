@@ -4,8 +4,6 @@ date: 2009-01-20T12:27:07
 lastmod: 2009-01-20T12:27:07
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Bazaar
 ---
 Es gibt eine neue Release von [Bazaar](http://www.bazaar-vcs.org), dem verteilten Versionskontroll System. 

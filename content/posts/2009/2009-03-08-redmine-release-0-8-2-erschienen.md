@@ -3,8 +3,6 @@ title: "Redmine Release 0.8.2 erschienen"
 date: 2009-03-08T20:11:37
 lastmod: 2009-03-08T20:11:37
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Bug/Issue Tracking
   - Redmine
 ---

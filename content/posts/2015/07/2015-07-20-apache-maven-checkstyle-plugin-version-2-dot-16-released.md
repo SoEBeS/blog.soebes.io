@@ -3,7 +3,6 @@ title: "Apache Maven Checkstyle Plugin Version 2.16 Released"
 date: 2015-07-20T19:39:00
 lastmod: 2015-07-20T19:39
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

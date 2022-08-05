@@ -3,7 +3,6 @@ title: "Mojo Maven 2.x Keytool plugin Version 1.5 Released"
 date: 2014-05-08T19:14:00
 lastmod: 2014-05-08T19:14
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

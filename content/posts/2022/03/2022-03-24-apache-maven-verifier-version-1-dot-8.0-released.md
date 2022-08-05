@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component - Maven Verifier Version 1.8.0 Released"
 date: 2022-03-24T22:16:16
 lastmod: 2022-03-24T22:16:16
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

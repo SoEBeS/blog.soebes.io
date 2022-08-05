@@ -3,7 +3,6 @@ title: "Apache Maven Surefire Plugin Version 2.19.1 Released"
 date: 2016-01-03T20:45:33
 lastmod: 2016-01-03T20:45:33
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

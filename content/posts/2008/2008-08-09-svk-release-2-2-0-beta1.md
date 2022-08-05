@@ -4,8 +4,6 @@ date: 2008-08-09T19:25:35
 lastmod: 2008-08-09T19:25:35
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - SVK
 ---
 Chia-liang Kao hat auf der [SVK User Liste](http://lists.bestpractical.com/pipermail/svk-users/2008-August/000311.html "SVK User Liste") bekannt gegeben, 

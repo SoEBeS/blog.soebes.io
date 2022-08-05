@@ -3,7 +3,6 @@ title: "Apache Maven SCM Version 1.10.0 Released"
 date: 2018-05-28T18:15:33
 lastmod: 2018-05-28T18:15:33
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

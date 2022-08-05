@@ -3,7 +3,6 @@ title: "Apache Maven Linkcheck Plugin Version 1.2 Released"
 date: 2014-10-11T15:02:00
 lastmod: 2014-10-11T15:02
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

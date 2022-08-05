@@ -3,7 +3,6 @@ title: "Plexus Codehaus: Plexus Interpolation Version 1.25 Released"
 date: 2018-06-02T11:00:00
 lastmod: 2018-06-02T11:00
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Plexus-Components

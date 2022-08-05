@@ -3,7 +3,6 @@ title: "Apache Maven Invoker Plugin Version 1.9 Released"
 date: 2014-07-01T19:55:00
 lastmod: 2014-07-01T19:55
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

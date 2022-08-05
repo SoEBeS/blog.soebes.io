@@ -3,7 +3,6 @@ title: "Apache Maven Wagon Version 2.7 Released"
 date: 2014-09-18T07:53:00
 lastmod: 2014-09-18T07:53
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

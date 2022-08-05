@@ -3,7 +3,6 @@ title: "MojoHaus Build Number Maven Plugin Version 1.4 Released"
 date: 2015-10-17T10:35:00
 lastmod: 2015-10-17T10:35
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

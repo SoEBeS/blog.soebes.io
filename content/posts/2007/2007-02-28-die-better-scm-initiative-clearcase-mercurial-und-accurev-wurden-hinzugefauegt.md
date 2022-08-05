@@ -4,7 +4,6 @@ date: 2007-02-28T07:38:05
 lastmod: 2007-02-28T07:38:05
 categories:
   - SKM
-  - Neuigkeiten
 ---
 Die <a href="http://better-scm.berlios.de/"  title="Better SCM Initiative">Better SCM Initiative</a> 
 hat Ihren Vergleich unterschiedlicher SKM System um ClearCase, Mercurial und AccuRev erweitert.

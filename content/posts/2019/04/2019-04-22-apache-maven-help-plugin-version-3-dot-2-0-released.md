@@ -3,7 +3,6 @@ title: "Apache Maven Help Plugin Version 3.2.0 Released"
 date: 2019-04-22T12:45:31
 lastmod: 2019-04-22T12:45:31
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

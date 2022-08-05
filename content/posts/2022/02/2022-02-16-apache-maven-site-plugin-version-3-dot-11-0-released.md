@@ -3,7 +3,6 @@ title: "Apache Maven Site Plugin Version 3.11.0 Released"
 date: 2022-02-16T23:06:12
 lastmod: 2022-02-16T23:06:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

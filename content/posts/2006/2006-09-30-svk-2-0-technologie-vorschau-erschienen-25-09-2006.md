@@ -4,6 +4,5 @@ date: 2006-09-30T12:35:00
 lastmod: 2006-09-30T12:35
 categories:
   - SKM
-  - Neuigkeiten
 ---
 Chia-Liang Kao hat auf der Entwickler Liste des <a href="http://svk.elixus.org"  title="SVK Tool">SVK Tools (Verteilte Versionskontrolle)</a> bekannt gegeben, dass ein technologie Vorschau vorliegt. Die Release 2.0 wurde für Weihnachten angekündigt.

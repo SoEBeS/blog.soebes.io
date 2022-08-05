@@ -3,7 +3,6 @@ title: "Coderetreat?"
 date: 2012-09-02T12:29:17
 lastmod: 2012-09-02T12:29:17
 categories:
-  - Neuigkeiten
   - Test
 ---
 I have shared the first time a [coderetreat](http://coderetreat-dus-1.eventbrite.de/ "coderetreat") which was a really amazing thing 

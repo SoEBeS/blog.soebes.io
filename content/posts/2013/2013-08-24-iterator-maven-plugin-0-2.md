@@ -3,7 +3,6 @@ title: "Iterator-Maven Plugin Release 0.2"
 date: 2013-08-24T11:16:26
 lastmod: 2013-08-24T11:16:26
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

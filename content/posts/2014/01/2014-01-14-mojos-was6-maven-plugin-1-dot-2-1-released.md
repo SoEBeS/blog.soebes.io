@@ -3,7 +3,6 @@ title: "Mojo's WAS6 Maven Plugin 1.2.1 - Released"
 date: 2014-01-14T22:56:00
 lastmod: 2014-01-14T22:56
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

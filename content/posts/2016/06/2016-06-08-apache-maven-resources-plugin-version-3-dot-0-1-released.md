@@ -3,7 +3,6 @@ title: "Apache Maven Resources Plugin Version 3.0.1 Released"
 date: 2016-06-08T19:45:00
 lastmod: 2016-06-08T19:45
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

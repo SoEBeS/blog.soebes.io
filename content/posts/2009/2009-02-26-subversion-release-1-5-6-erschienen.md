@@ -4,8 +4,6 @@ date: 2009-02-26T21:27:51
 lastmod: 2009-02-26T21:27:51
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Die <a href="http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2251">Subversion Community</a> hat bekannt gegeben, dass Subversion 1.5.6 zur Verfügung steht. Im <a href="http://svn.collab.net/repos/svn/tags/1.5.6/CHANGES">ChangeLog</a> kann genau nachgelesen werden welche Änderungen im Detail gemacht wurden. 

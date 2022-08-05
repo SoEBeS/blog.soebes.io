@@ -3,7 +3,6 @@ title: "Apache Maven Shared Utils 0.6 - Released"
 date: 2014-03-24T09:02:00
 lastmod: 2014-03-24T09:02
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

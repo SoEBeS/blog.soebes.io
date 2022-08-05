@@ -4,8 +4,6 @@ date: 2008-04-24T14:55:47
 lastmod: 2008-04-24T14:55:47
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Es ist so weit, ein [vierter Release Candiate von der SVN 1.5.](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=137752 "vierter Release Candiate von der SVN 1.5.") 

@@ -4,8 +4,6 @@ date: 2009-02-20T20:40:21
 lastmod: 2009-02-20T20:40:21
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Gerade wurde [bekannt gegeben](http://subversion.tigris.org/ds/viewMessage.do?dsForumId=445&dsMessageId=1200068 ), dass Subversion in der Release 1.6.0 RC2 

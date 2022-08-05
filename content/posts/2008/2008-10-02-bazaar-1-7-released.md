@@ -3,7 +3,6 @@ title: "Bazaar 1.7 - Released"
 date: 2008-10-02T09:58:10
 lastmod: 2008-10-02T09:58:10
 categories:
-  - Neue Versionen
   - PlugIn
   - Bazaar
 ---

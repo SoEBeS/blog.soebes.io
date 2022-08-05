@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Dependency Analyzer version 1.11.0 
 date: 2018-12-12T19:38:04
 lastmod: 2018-12-12T19:38:04
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,7 +3,6 @@ title: "Apache Maven Shade Plugin Version 3.2.4 Released"
 date: 2020-06-04T10:30:32
 lastmod: 2020-06-04T10:30:32
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,8 +3,6 @@ title: "Artifactory - Release 2.0"
 date: 2009-01-07T10:46:27
 lastmod: 2009-01-07T10:46:27
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

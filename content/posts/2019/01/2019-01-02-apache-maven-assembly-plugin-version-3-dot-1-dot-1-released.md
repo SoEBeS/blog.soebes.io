@@ -3,7 +3,6 @@ title: "Apache Maven Assembly Plugin Version 3.1.1 Released"
 date: 2019-01-02T23:36:42
 lastmod: 2019-01-02T23:36:42
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

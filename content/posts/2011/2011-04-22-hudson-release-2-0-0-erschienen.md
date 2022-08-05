@@ -3,8 +3,6 @@ title: "Hudson Release 2.0.0 erschienen"
 date: 2011-04-22T16:29:54
 lastmod: 2011-04-22T16:29:54
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Hudson
 ---

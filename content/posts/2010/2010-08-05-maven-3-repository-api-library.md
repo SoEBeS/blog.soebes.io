@@ -3,7 +3,6 @@ title: "Maven 3 - Repository API Library"
 date: 2010-08-05T08:45:30
 lastmod: 2010-08-05T08:45:30
 categories:
-  - Neuigkeiten
   - BM
   - Maven
 ---

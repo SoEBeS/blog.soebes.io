@@ -3,7 +3,6 @@ title: "The Unknown creature - The Maven Release Cycle"
 date: 2011-05-08T11:18:54
 lastmod: 2011-05-08T11:18:54
 categories:
-  - Neuigkeiten
   - Maven
 ---
 In the meantime often people use [Maven](http://maven.apache.org) to build their software, but when it comes to the time

@@ -3,7 +3,6 @@ title: "Hudson - 1.218 erschienen"
 date: 2008-05-22T16:07:38
 lastmod: 2008-05-22T16:07:38
 categories:
-  - Neue Versionen
   - CI
 ---
 Mit der [Release 1.218](https://hudson.dev.java.net/ "Release 1.218") hat Kohsuke Kawaguchi eine neue Release der Continous 

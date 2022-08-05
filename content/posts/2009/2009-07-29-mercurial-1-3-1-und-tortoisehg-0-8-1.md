@@ -4,8 +4,6 @@ date: 2009-07-29T09:29:53
 lastmod: 2009-07-29T09:29:53
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Mercurial
 ---
 Es ist eine neue <a href="http://mercurial.selenic.com/wiki/WhatsNew#Version_1.3.1_-_2009-07-23">Bug Fix Release von Mercurial</a> erschienen. Eine Übersicht über Mercurial selbst gibt die <a href="http://mercurial.selenic.com/wiki/">Homepage</a>.

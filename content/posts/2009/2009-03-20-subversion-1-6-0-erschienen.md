@@ -4,8 +4,6 @@ date: 2009-03-20T19:50:28
 lastmod: 2009-03-20T19:50:28
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Die [Release 1.6.0](http://subversion.tigris.org/ds/viewMessage.do?dsForumId=462&dsMessageId=1365516) 

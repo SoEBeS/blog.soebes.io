@@ -3,7 +3,6 @@ title: "Maven-Echo-Plugin"
 date: 2012-01-19T22:47:01
 lastmod: 2012-01-19T22:47:01
 categories:
-  - Neuigkeiten
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

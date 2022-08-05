@@ -3,8 +3,6 @@ title: "Maven 3.0 - RC 2 - verfügbar"
 date: 2010-09-23T09:05:18
 lastmod: 2010-09-23T09:05:18
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

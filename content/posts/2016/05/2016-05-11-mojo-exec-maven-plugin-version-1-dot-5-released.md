@@ -3,7 +3,6 @@ title: "MojoHaus Exec Maven Plugin Version 1.5.0 Released"
 date: 2016-05-11T19:37:00
 lastmod: 2016-05-11T19:37
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

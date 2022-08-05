@@ -3,7 +3,6 @@ title: "Building For Multiple Environments"
 date: 2016-05-08T19:17:00
 lastmod: 2016-05-08T19:17
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven Best Practice

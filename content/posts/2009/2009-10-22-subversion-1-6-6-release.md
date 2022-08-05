@@ -4,8 +4,6 @@ date: 2009-10-22T08:08:06
 lastmod: 2009-10-22T08:08:06
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Die neue Release von Subversion 1.6.6 ist nun da. Die [Release Notes]( http://subversion.tigris.org/svn_1.6_releasenotes.html) geben Auskunft über die 

@@ -3,8 +3,6 @@ title: "Trac Maintenance Release 0.11.2"
 date: 2008-11-09T11:29:51
 lastmod: 2008-11-09T11:29:51
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Bug/Issue Tracking
   - trac
 ---

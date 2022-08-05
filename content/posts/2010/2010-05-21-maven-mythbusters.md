@@ -3,7 +3,6 @@ title: "Maven - Mythbusters"
 date: 2010-05-21T17:35:38
 lastmod: 2010-05-21T17:35:38
 categories:
-  - Neuigkeiten
   - BM
   - Maven
 ---

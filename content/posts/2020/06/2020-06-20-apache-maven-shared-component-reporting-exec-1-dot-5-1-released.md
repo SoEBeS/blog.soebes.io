@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting Exec Version 1.5.1"
 date: 2020-06-20T12:30:34
 lastmod: 2020-06-20T12:30:34
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Shared

@@ -3,7 +3,6 @@ title: "Apache Maven JXR Plugin Version 3.2.0 Released"
 date: 2022-03-20T21:27:12
 lastmod: 2022-03-20T21:27:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

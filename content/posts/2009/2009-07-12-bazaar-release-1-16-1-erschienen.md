@@ -4,8 +4,6 @@ date: 2009-07-12T14:07:32
 lastmod: 2009-07-12T14:07:32
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Bazaar
 ---
 Es gibt ein Update von [Bazaar](http://www.bazaar-vcs.org).  

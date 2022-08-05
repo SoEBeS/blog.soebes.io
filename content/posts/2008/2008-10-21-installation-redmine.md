@@ -3,7 +3,6 @@ title: "Installation Redmine"
 date: 2008-10-21T20:56:10
 lastmod: 2008-10-21T20:56:10
 categories:
-  - Neuigkeiten
   - Redmine
 ---
 Ich habe die Schritte zur Installation von [Redmine](http://www.redmine.org) einmal aufgeführt, damit man sieht wie einfach es ist Redmine zu installieren. 

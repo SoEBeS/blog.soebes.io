@@ -4,7 +4,6 @@ date: 2010-05-15T20:04:32
 lastmod: 2010-05-15T20:04:32
 categories:
   - SKM
-  - Neuigkeiten
   - SupoSE
 ---
 Nachdem nun die Vorbereitungen abgeschlossen sind habe ich nun mal SupoSE in der aktuellen Release (0.6.2 RC1 - 447) darauf losgelassen.

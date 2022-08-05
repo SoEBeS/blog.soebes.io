@@ -4,8 +4,6 @@ date: 2007-08-17T18:38:07
 lastmod: 2007-08-17T18:38:07
 categories:
   - Java
-  - Neuigkeiten
-  - Neue Versionen
   - BM
 ---
 Das [Build System Continuum](http://maven.apache.org/continuum) liegt nun in einer überarbeiteten neuen Version vor. 

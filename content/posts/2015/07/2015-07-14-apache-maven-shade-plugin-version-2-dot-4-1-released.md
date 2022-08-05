@@ -3,7 +3,6 @@ title: "Apache Maven Shade Plugin Version 2.4.1 Released"
 date: 2015-07-14T20:43:00
 lastmod: 2015-07-14T20:43
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

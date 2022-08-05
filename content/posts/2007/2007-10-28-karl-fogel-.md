@@ -4,7 +4,6 @@ date: 2007-10-28T21:52:11
 lastmod: 2007-10-28T21:52:11
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 [Karl Fogel](http://www.red-bean.com/kfogel/ "Karl Fogel"), der das zweite Kapitel des 

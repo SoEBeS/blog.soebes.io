@@ -4,7 +4,6 @@ date: 2007-06-17T22:40:11
 lastmod: 2007-06-17T22:40:11
 categories:
   - Java
-  - Neue Versionen
   - Bug/Issue Tracking
   - JaGoSI
 ---

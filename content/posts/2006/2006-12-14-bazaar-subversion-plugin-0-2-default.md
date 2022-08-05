@@ -4,8 +4,6 @@ date: 2006-12-14T13:05:47
 lastmod: 2006-12-14T13:05:47
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
 ---
 Vom Bazaar Plug für Subversion gibt es nun wieder eine neue Version.
 

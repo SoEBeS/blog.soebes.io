@@ -4,7 +4,6 @@ date: 2007-11-24T19:47:06
 lastmod: 2007-11-24T19:47:06
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 Nach dem nun die Änderungen an einem <a href="/blog/2007/10/12/perl-und-die-subversion-bindings.html"  title="Perl Bindings">Repository per Perl-Bindings</a> geklappt haben, wollte ich das Ganze ein wenig erweitern. Zum einen ein Repository per Perl erzeugen und selbstverständlich auch Dateien und Verzeichnisse hinzufügen. 

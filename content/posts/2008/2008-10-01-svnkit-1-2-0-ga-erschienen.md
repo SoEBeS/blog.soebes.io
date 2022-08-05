@@ -4,7 +4,6 @@ date: 2008-10-01T21:20:09
 lastmod: 2008-10-01T21:20:09
 categories:
   - Java
-  - Neue Versionen
 ---
 Das [SVNKit Development Team](http://www.svnkit.com) hat 
 [bekannt gegeben](http://www.nabble.com/-ANN--SVNKit-1.2.0-(GA)-is-available.-td19750286.html), dass die Finale Release 1.2 der Java Bibliothek 

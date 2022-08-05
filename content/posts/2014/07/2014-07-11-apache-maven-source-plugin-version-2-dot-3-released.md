@@ -3,7 +3,6 @@ title: "Apache Maven Source Plugin Version 2.3 Released"
 date: 2014-07-11T10:21:00
 lastmod: 2014-07-11T10:21
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,7 +3,6 @@ title: "Apache Maven Site Plugin Version 3.7.1 Released"
 date: 2018-04-29T09:30:45
 lastmod: 2018-04-29T09:30:45
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,7 +3,6 @@ title: "Tomcat as Daemon"
 date: 2010-04-29T09:21:37
 lastmod: 2010-04-29T09:21:37
 categories:
-  - Neuigkeiten
   - CI
   - Tomcat
 ---

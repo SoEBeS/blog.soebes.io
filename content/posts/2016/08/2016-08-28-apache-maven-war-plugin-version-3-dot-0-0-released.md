@@ -3,7 +3,6 @@ title: "Apache Maven WAR Plugin Version 3.0.0 Released"
 date: 2016-08-28T13:00:10
 lastmod: 2016-08-28T13:00:10
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

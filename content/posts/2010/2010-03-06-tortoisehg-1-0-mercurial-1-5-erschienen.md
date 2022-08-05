@@ -4,7 +4,6 @@ date: 2010-03-06T22:13:07
 lastmod: 2010-03-06T22:13:07
 categories:
   - SKM
-  - Neue Versionen
   - Mercurial
 ---
 Es ist nun eine <a href="http://bitbucket.org/tortoisehg/stable/wiki/ReleaseNotes#tortoisehg-10">neue Release</a> von 

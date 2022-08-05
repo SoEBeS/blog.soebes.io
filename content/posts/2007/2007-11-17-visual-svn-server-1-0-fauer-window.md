@@ -4,7 +4,6 @@ date: 2007-11-17T21:38:21
 lastmod: 2007-11-17T21:38:21
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 [Visual SVN Server](http://www.visualsvn.com/server/ "Visual SVN Server") ist eine vollständige Administration Integration für Windows. 

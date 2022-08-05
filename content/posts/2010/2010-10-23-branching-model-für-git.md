@@ -4,7 +4,6 @@ date: 2010-10-23T19:20:25
 lastmod: 2010-10-23T19:20:25
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
   - GIT
 ---

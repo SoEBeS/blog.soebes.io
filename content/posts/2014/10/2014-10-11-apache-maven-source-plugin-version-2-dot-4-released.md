@@ -3,7 +3,6 @@ title: "Apache Maven Source Plugin Version 2.4 Released"
 date: 2014-10-11T13:40:00
 lastmod: 2014-10-11T13:40
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

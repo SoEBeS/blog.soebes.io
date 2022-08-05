@@ -5,7 +5,6 @@ lastmod: 2007-12-30T11:32:43
 categories:
   - Java
   - SKM
-  - Neue Versionen
   - Subversion
   - SupoSE
 ---

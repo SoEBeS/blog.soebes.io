@@ -4,7 +4,6 @@ date: 2007-08-25T18:50:41
 lastmod: 2007-08-25T18:50:41
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 [Chia-liang Kao hat Pushmi in der Release 1.0.0 auf der Subversion User Mailing Liste bekannt gegeben](http://subversion.tigris.org/servlets/ReadMsg?list=users&msgNo=69347). 

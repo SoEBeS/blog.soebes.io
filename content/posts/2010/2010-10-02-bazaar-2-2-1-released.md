@@ -4,8 +4,6 @@ date: 2010-10-02T13:09:38
 lastmod: 2010-10-02T13:09:38
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - DVCS
   - Bazaar
 ---

@@ -3,7 +3,6 @@ title: "Apache Maven Artifact Plugin Version 3.3.0 Released"
 date: 2022-04-07T09:30:30
 lastmod: 2022-04-07T09:30:30
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

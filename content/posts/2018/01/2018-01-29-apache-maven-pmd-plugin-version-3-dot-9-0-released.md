@@ -3,7 +3,6 @@ title: "Apache Maven PMD Plugin Version 3.9.0 Released"
 date: 2018-01-29T22:30:00
 lastmod: 2018-01-29T22:30
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

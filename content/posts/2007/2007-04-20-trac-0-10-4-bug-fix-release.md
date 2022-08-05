@@ -4,7 +4,6 @@ date: 2007-04-20T19:54:07
 lastmod: 2007-04-20T19:54:07
 categories:
   - SKM
-  - Neue Versionen
   - Bug/Issue Tracking
 ---
 Es ist eine Bug Fix Release von [Trac](http://trac.edgewall.com "Trac") erschienen. Die neueste Release 

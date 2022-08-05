@@ -3,8 +3,6 @@ title: "Maven 3 - beta - 1 -- Released"
 date: 2010-04-23T16:38:33
 lastmod: 2010-04-23T16:38:33
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

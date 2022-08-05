@@ -3,7 +3,6 @@ title: "Apache Maven Assembly Plugin Version 3.3.0 Released"
 date: 2020-04-30T22:15:12
 lastmod: 2020-04-30T22:15:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

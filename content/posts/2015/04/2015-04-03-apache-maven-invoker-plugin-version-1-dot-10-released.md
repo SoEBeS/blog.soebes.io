@@ -3,7 +3,6 @@ title: "Apache Maven Invoker Plugin Version 1.10 Released"
 date: 2015-04-03T17:04:00
 lastmod: 2015-04-03T17:04
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

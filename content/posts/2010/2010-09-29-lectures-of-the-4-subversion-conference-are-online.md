@@ -3,7 +3,6 @@ title: "Lectures of the 4. Subversion Conference are online"
 date: 2010-09-29T17:59:52
 lastmod: 2010-09-29T17:59:52
 categories:
-  - Neuigkeiten
   - BM
   - CI
   - SupoSE

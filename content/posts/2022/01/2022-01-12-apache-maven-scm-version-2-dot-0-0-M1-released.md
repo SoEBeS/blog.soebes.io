@@ -3,7 +3,6 @@ title: "Apache Maven SCM Version 2.0.0-M1 Released"
 date: 2022-01-12T11:21:21
 lastmod: 2022-01-12T11:21:21
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -4,7 +4,6 @@ date: 2008-03-21T20:26:07
 lastmod: 2008-03-21T20:26:07
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 Es wurde die Übersetzung des [Subversion Buches](http://www.svnbook.org "Subversion Buches") in deutsch begonnen. Weitere Informationen sind unter 

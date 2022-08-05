@@ -3,7 +3,6 @@ title: "Apache Maven Release Plugin Version 3.0.0-M5 Released"
 date: 2022-01-05T13:21:12
 lastmod: 2022-01-05T13:21:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

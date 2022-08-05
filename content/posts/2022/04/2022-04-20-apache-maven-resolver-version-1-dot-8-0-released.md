@@ -3,7 +3,6 @@ title: "Apache Maven Resolver 1.8.0 Released"
 date: 2022-04-20T19:26:26
 lastmod: 2022-04-20T19:26:26
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

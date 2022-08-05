@@ -3,7 +3,6 @@ title: "Apache Maven Compiler Plugin Version 3.7.0 Released"
 date: 2017-09-05T19:00:15
 lastmod: 2017-09-05T19:00:15
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

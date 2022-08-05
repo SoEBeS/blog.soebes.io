@@ -4,7 +4,6 @@ date: 2010-12-28T09:58:00
 lastmod: 2010-12-28T09:58
 categories:
   - Java
-  - Neuigkeiten
 ---
 Es passiert doch dann und wann, dass man noch einen Kommandozeile unterstützen muss. Das Problem ist dann, wie löst man das Problem mit Java? 
 

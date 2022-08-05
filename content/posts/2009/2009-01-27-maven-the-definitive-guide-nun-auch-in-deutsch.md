@@ -3,7 +3,6 @@ title: "Maven: The Definitive Guide....nun auch in deutsch"
 date: 2009-01-27T16:28:42
 lastmod: 2009-01-27T16:28:42
 categories:
-  - Neuigkeiten
   - BM
   - Maven
 ---

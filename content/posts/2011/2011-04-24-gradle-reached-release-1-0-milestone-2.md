@@ -3,8 +3,6 @@ title: "Gradle Reached Release 1.0 Milestone-2"
 date: 2011-04-24T12:22:25
 lastmod: 2011-04-24T12:22:25
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Gradle
 ---

@@ -3,7 +3,6 @@ title: "Apache Maven PDF Plugin Version 1.6.0 Released"
 date: 2022-04-21T22:42:42
 lastmod: 2022-04-21T22:42:42
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

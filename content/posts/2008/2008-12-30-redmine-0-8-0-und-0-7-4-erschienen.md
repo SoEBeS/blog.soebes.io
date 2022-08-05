@@ -3,8 +3,6 @@ title: "Redmine 0.8.0 und 0.7.4 Erschienen"
 date: 2008-12-30T13:18:28
 lastmod: 2008-12-30T13:18:28
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Bug/Issue Tracking
   - Redmine
 ---

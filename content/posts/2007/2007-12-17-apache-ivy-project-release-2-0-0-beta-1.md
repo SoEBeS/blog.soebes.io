@@ -4,7 +4,6 @@ date: 2007-12-17T20:58:37
 lastmod: 2007-12-17T20:58:37
 categories:
   - Java
-  - Neuigkeiten
   - BM
   - Ivy
 ---

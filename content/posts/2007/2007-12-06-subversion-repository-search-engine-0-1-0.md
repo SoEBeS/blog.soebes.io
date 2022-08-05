@@ -4,7 +4,6 @@ date: 2007-12-06T00:54:44
 lastmod: 2007-12-06T00:54:44
 categories:
   - Java
-  - Neuigkeiten
   - Subversion
   - SupoSE
 ---

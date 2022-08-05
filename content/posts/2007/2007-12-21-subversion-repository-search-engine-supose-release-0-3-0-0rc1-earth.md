@@ -4,7 +4,6 @@ date: 2007-12-21T12:39:21
 lastmod: 2007-12-21T12:39:21
 categories:
   - Java
-  - Neue Versionen
   - Subversion
   - SupoSE
 ---

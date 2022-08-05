@@ -3,7 +3,6 @@ title: "MojoHaus License Maven Plugin Version 1.12 Released"
 date: 2017-01-12T18:12:00
 lastmod: 2017-01-12T18:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,7 +3,6 @@ title: "Hudson - 1.256 - Erschienen"
 date: 2008-10-25T18:16:23
 lastmod: 2008-10-25T18:16:23
 categories:
-  - Neue Versionen
   - Hudson
 ---
 Es ist eine aktualisierte Release der Continous Integration Lösung [Hudson](https://hudson.dev.java.net/) erschienen.

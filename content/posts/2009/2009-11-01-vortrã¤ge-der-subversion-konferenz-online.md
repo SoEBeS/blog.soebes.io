@@ -5,8 +5,6 @@ lastmod: 2009-11-01T18:56:46
 categories:
   - Java
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
   - DVCS
   - SupoSE

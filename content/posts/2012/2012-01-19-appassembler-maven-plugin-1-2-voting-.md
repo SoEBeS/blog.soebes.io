@@ -3,8 +3,6 @@ title: "Appassembler-Maven-Plugin 1.2 - Voting..."
 date: 2012-01-19T22:37:45
 lastmod: 2012-01-19T22:37:45
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Maven
   - Maven-Plugins
 ---

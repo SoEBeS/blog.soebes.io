@@ -3,7 +3,6 @@ title: "Interessanter Artikel: Mitgration von Subversion nach Git"
 date: 2012-10-17T18:59:08
 lastmod: 2012-10-17T18:59:08
 categories:
-  - Neue Versionen
   - Subversion
   - DVCS
   - GIT

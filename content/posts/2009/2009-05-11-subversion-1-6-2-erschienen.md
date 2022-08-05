@@ -4,8 +4,6 @@ date: 2009-05-11T14:19:47
 lastmod: 2009-05-11T14:19:47
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 [Hyrum K. Wright hat bekannt gegeben](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2278), dass einen neue 

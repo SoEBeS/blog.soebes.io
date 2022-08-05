@@ -3,7 +3,6 @@ title: "Apache Maven Changes Plugin Version 2.11 Released"
 date: 2014-09-28T12:39:00
 lastmod: 2014-09-28T12:39
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -4,7 +4,6 @@ date: 2010-07-11T18:26:23
 lastmod: 2010-07-11T18:26:23
 categories:
   - SKM
-  - Neue Versionen
   - Maven
   - Gradle
 ---

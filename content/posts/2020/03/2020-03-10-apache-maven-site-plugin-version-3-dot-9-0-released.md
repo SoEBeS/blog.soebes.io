@@ -3,7 +3,6 @@ title: "Apache Maven Site Plugin Version 3.9.0 Released"
 date: 2020-03-10T21:30:27
 lastmod: 2020-03-10T21:30:27
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

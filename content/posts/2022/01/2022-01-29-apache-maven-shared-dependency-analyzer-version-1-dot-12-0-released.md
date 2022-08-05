@@ -3,7 +3,6 @@ title: "Apache Maven Shared Dependency Analyzer Version 1.12.0 Released"
 date: 2022-01-29T12:55:55
 lastmod: 2022-01-29T12:55:55
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

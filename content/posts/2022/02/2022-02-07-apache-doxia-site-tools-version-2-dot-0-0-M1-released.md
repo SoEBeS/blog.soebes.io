@@ -3,7 +3,6 @@ title: "Apache Doxia Site Tools Version 2.0.0-M1 Released"
 date: 2022-02-07T22:37:37
 lastmod: 2022-02-07T22:37:37
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Components

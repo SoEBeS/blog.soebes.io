@@ -3,8 +3,6 @@ title: "SupoSE Release 0.6.0"
 date: 2009-06-01T23:44:20
 lastmod: 2009-06-01T23:44:20
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - SupoSE
 ---
 Eine neue <a href="http://www.supose.org/versions/show/22">Release 0.6.0</a> der <a href="http://www.supose.org/">Subversion Repository Search Engine</a> steht zur Verfügung. 

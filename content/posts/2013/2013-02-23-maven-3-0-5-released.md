@@ -3,8 +3,6 @@ title: "Maven 3.0.5 Released"
 date: 2013-02-23T18:40:14
 lastmod: 2013-02-23T18:40:14
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
   - Maven-Release

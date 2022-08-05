@@ -3,8 +3,6 @@ title: "Redmine 0.8.1 erschienen"
 date: 2009-02-15T16:16:07
 lastmod: 2009-02-15T16:16:07
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Bug/Issue Tracking
   - Redmine
 ---

@@ -4,7 +4,6 @@ date: 2010-12-20T13:26:36
 lastmod: 2010-12-20T13:26:36
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
 ---
 [WANdisco](http://www.wandisco.com/) hat nun in 

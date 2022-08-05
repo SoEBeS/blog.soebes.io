@@ -3,7 +3,6 @@ title: "MojoHaus Build Helper Maven Plugin Version 1.11 Released"
 date: 2016-07-05T21:00:00
 lastmod: 2016-07-05T21:00
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

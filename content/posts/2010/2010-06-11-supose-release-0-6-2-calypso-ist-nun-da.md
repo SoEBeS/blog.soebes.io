@@ -4,7 +4,6 @@ date: 2010-06-11T18:59:57
 lastmod: 2010-06-11T18:59:57
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
   - SupoSE
 ---

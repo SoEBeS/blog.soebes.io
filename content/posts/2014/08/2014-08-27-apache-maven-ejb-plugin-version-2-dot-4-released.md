@@ -3,7 +3,6 @@ title: "Apache Maven EJB Plugin Version 2.4 Released"
 date: 2014-08-27T19:58:00
 lastmod: 2014-08-27T19:58
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

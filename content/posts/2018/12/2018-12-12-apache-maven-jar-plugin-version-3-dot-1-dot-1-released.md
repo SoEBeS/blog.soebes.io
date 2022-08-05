@@ -3,7 +3,6 @@ title: "Apache Maven Jar Plugin Version 3.1.1 Released"
 date: 2018-12-12T20:10:36
 lastmod: 2018-12-12T20:10:36
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

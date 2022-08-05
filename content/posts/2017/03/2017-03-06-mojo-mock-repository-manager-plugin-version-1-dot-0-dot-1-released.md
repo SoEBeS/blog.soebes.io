@@ -3,7 +3,6 @@ title: "Mojo Mock Repository Manager Plugin Version 1.0.1 Released"
 date: 2017-03-06T20:33:25
 lastmod: 2017-03-06T20:33:25
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -5,8 +5,6 @@ lastmod: 2007-02-15T13:21:56
 categories:
   - Java
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - PlugIn
 ---
 Am 13.02.2007 ist nun eine neue Release von <a href="http://subclipse.tigris.org"  title="Subclipse">Subclipse</a> für Eclipse 3.2 heraus gekommen.

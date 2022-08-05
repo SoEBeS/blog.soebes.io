@@ -3,7 +3,6 @@ title: "Apache Maven Enforcer Version 1.4.1 - Released"
 date: 2015-08-28T17:33:00
 lastmod: 2015-08-28T17:33
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

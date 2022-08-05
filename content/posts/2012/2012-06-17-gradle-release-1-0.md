@@ -3,8 +3,6 @@ title: "Gradle Release 1.0"
 date: 2012-06-17T12:25:24
 lastmod: 2012-06-17T12:25:24
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Gradle
 ---

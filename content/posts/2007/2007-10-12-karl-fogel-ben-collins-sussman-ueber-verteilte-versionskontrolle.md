@@ -4,7 +4,6 @@ date: 2007-10-12T09:50:53
 lastmod: 2007-10-12T09:50:53
 categories:
   - SKM
-  - Neuigkeiten
 ---
 Einige interessnate Meinungen der Subversion Entwickler, Karl Fogel und Ben Collins-Sussman.
 

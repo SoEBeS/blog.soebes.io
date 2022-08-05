@@ -3,7 +3,6 @@ title: "Apache Maven Doxia Version 2.0.0-M1 Released"
 date: 2022-01-21T13:29:29
 lastmod: 2022-01-21T13:29:29
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Components

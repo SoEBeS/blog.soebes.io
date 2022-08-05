@@ -4,8 +4,6 @@ date: 2007-08-01T21:38:53
 lastmod: 2007-08-01T21:38:53
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
 ---
 Es gibt eine neue Release von [Subversive, dem Eclipse PlugIn](http://www.polarion.org/index.php?page=overview&project=subversive). Die 
 neue Release behebt einige Probleme mit dem SVN Kit client, [NPE](http://c2.com/cgi/wiki?NullPointerException), einfrieren von Eclipse bei der 

@@ -3,7 +3,6 @@ title: "Apache Maven Assembly Plugin Version 2.5.4 Released"
 date: 2015-04-27T20:53:00
 lastmod: 2015-04-27T20:53
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

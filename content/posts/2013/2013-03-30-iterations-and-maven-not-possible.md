@@ -3,7 +3,6 @@ title: "Iterations and Maven? Not Possible?"
 date: 2013-03-30T11:16:26
 lastmod: 2013-03-30T11:16:26
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -4,8 +4,6 @@ date: 2008-06-07T15:03:24
 lastmod: 2008-06-07T15:03:24
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Es wurde ein weiterer [Release Candidate von Subversion 1.5](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2124 "Release Candidate von Subversion 1.5") 

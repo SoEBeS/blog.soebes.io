@@ -3,7 +3,6 @@ title: "Apache Maven Fluido Skin Version 1.9 Released"
 date: 2020-04-16T23:54:12
 lastmod: 2020-04-16T23:54:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

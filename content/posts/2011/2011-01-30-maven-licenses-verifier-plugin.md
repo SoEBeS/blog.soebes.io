@@ -4,8 +4,6 @@ date: 2011-01-30T19:41:00
 lastmod: 2011-01-30T19:41
 categories:
   - Java
-  - Neuigkeiten
-  - Neue Versionen
   - PlugIn
   - Maven
   - Maven-Plugins

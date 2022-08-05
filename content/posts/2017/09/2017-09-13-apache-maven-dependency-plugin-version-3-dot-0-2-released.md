@@ -3,7 +3,6 @@ title: "Apache Maven Dependency Plugin Version 3.0.2 Released"
 date: 2017-09-19T19:15:03
 lastmod: 2017-09-19T19:15:03
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

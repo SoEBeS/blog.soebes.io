@@ -4,8 +4,6 @@ date: 2010-08-29T18:55:46
 lastmod: 2010-08-29T18:55:46
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Mercurial
 ---
 Es gibt eine neue <a href="http://mercurial.selenic.com/about/">Release von Mercurial</a> und eine neue <a href="http://tortoisehg.bitbucket.org/">Release von TortoiseHG</a>. </br>

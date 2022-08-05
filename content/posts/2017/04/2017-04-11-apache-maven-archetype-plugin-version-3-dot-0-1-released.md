@@ -3,7 +3,6 @@ title: "Apache Maven Archetype Plugin 3.0.1 Released"
 date: 2017-04-11T15:45:23
 lastmod: 2017-04-11T15:45:23
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

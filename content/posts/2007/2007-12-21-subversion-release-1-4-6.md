@@ -4,7 +4,6 @@ date: 2007-12-21T12:46:59
 lastmod: 2007-12-21T12:46:59
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Gestern abend, wurde eine neue Release von [Subversion](http://subversion.tigris.org "Subversion") veröffentlicht. 

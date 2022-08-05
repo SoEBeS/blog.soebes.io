@@ -3,7 +3,6 @@ title: "Apache Maven Source Plugin Version 3.2.0 Released"
 date: 2019-11-03T16:50:12
 lastmod: 2019-11-03T16:50:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

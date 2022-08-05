@@ -4,7 +4,6 @@ date: 2008-07-26T13:13:24
 lastmod: 2008-07-26T13:13:24
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Das [Subversion Team](http://subversion.tigris.org "Subversion Team") gibt 

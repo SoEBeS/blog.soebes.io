@@ -4,7 +4,6 @@ date: 2007-07-03T21:02:57
 lastmod: 2007-07-03T21:02:57
 categories:
   - Java
-  - Neue Versionen
   - Bug/Issue Tracking
 ---
 Es gibt nun  wieder ein Update. Einige neuen Funktionen, das Build System wurde überarbeitet (Maven 2 als auch Ant). Die Übersicht 

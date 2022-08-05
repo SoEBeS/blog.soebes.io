@@ -3,7 +3,6 @@ title: "Mojo Animal Sniffer Version 1.14 Released"
 date: 2015-03-03T21:10:00
 lastmod: 2015-03-03T21:10
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

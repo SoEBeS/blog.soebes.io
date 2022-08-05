@@ -3,7 +3,6 @@ title: "Apache Common POM Version 16 Released"
 date: 2014-11-17T21:00:00
 lastmod: 2014-11-17T21:00
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - POM-Releases

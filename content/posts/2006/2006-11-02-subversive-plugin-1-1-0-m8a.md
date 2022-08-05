@@ -4,8 +4,6 @@ date: 2006-11-02T19:00:32
 lastmod: 2006-11-02T19:00:32
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - PlugIn
 ---
 Ein neuer Milestone des Subversive PlugIn''s für Eclipse liegt seit gestern in der Release 1.1.0M8a vor. 

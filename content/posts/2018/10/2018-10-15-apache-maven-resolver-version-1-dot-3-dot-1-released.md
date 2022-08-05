@@ -3,7 +3,6 @@ title: "Apache Maven Artifact Resolver 1.3.1 Released"
 date: 2018-10-15T20:25:15
 lastmod: 2018-10-15T20:25:15
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

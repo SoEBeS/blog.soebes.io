@@ -5,8 +5,6 @@ lastmod: 2006-12-23T17:02:31
 categories:
   - Java
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - PlugIn
 ---
 Ein zweiter Release Candidate des Subversive PlugIn''s für Eclipse liegt in der Release 1.1.0RC2 vor. Das PlugIn kann 

@@ -3,7 +3,6 @@ title: "Ruby on Rails mit Apache / Mongrels Cluster "
 date: 2009-04-03T12:49:00
 lastmod: 2009-04-03T12:49
 categories:
-  - Neuigkeiten
   - Redmine
 ---
 Tja, nachdem ich nun beobachtet habe, wie es zu häufigeren Ausssetzern kommen, habe ich mich nun entschieden die Kombination Apache / Mongrels 

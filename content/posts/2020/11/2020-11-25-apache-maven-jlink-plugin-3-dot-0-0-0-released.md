@@ -3,7 +3,6 @@ title: "Apache Maven JLink Plugin Version 3.0.0 Released"
 date: 2020-11-25T20:30:12
 lastmod: 2020-11-25T20:30:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

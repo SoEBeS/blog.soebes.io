@@ -3,8 +3,6 @@ title: "Appassembler - Maven Plugin - Release 1.3"
 date: 2012-09-15T19:41:07
 lastmod: 2012-09-15T19:41:07
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

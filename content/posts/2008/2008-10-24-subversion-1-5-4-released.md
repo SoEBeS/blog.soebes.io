@@ -4,8 +4,6 @@ date: 2008-10-24T19:47:05
 lastmod: 2008-10-24T19:47:05
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Heute hat Hyrum K. Wright  der Release Manager von Subversion auf den [Mailing Listen](http://subversion.tigris.org/servlets/ReadMsg?list=users&msgNo=83597) 

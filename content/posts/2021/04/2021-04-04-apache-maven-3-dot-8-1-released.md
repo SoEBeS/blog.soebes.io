@@ -3,7 +3,6 @@ title: "Apache Maven 3.8.1 Released"
 date: 2021-04-04T21:15:05
 lastmod: 2021-04-04T21:15:05
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Releases

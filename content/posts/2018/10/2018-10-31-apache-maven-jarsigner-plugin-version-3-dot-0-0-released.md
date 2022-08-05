@@ -3,7 +3,6 @@ title: "Apache Maven Jarsigner Version 3.0.0 Released"
 date: 2018-10-31T20:58:10
 lastmod: 2018-10-31T20:58:10
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Shared

@@ -4,7 +4,6 @@ date: 2008-03-04T18:37:02
 lastmod: 2008-03-04T18:37:02
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Das [Sventon Team](http://www.sventon.org/index.php?page=news#0 "Sventon Team") hat eine neue Release heraus gebracht. Sventon ist ein 

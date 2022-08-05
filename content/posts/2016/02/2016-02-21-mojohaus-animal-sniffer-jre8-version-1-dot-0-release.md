@@ -3,7 +3,6 @@ title: "MojoHaus Animal Sniffer JRE8 signature version 1.0 Released"
 date: 2016-02-21T12:43:00
 lastmod: 2016-02-21T12:43
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

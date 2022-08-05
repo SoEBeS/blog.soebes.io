@@ -3,7 +3,6 @@ title: "Apache Maven GPG Plugin Version 1.6 Released"
 date: 2015-01-20T19:34:00
 lastmod: 2015-01-20T19:34
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

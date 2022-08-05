@@ -3,7 +3,6 @@ title: "Mojo License Maven Plugin Version 1.8 Released"
 date: 2014-12-09T10:58:00
 lastmod: 2014-12-09T10:58
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

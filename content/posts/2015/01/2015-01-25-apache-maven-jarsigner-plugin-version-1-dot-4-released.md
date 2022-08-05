@@ -3,7 +3,6 @@ title: "Apache Maven JarSigner Plugin Version 1.4 Released"
 date: 2015-01-25T13:40:00
 lastmod: 2015-01-25T13:40
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

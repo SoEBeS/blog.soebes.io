@@ -3,8 +3,6 @@ title: "Redmine 0.8.3 erschienen"
 date: 2009-04-09T21:45:13
 lastmod: 2009-04-09T21:45:13
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Bug/Issue Tracking
   - Redmine
 ---

@@ -4,7 +4,6 @@ date: 2010-02-19T19:59:00
 lastmod: 2010-02-19T19:59
 categories:
   - Java
-  - Neuigkeiten
   - Maven
 ---
 Basierend auf einer Ankündigung in den <a href="http://old.nabble.com/RFC%3A-Maven-License-Verifier-Plugin-tt27445231.html#a27445231">Maven Mailing Listen</a> habe ich vor längerer Zeit angefangen ein Plugin für Maven zu entwickeln, dass es ermöglicht die Lizenzen die Artefakte in einem Projekt haben zu prüfen. Da ich oft in Firmen etc. beobachte, dass dort nur bestimmte Lizenzen (License Policy) erlaubt bzw. erwünscht sind. Nun habe ich in der Zwischenzeit einige Schritte implementieren können. Die ersten Ergebnisse sind unter <a href="http://site.supose.org/maven-licenses-verifier-plugin/">http://site.supose.org/maven-licenses-verifier-plugin/</a> zu finden. Wer anregungen etc. hat bitte unbedingt melden.

@@ -3,7 +3,6 @@ title: "Apache Maven Archetype Plugin 3.2.0 Released"
 date: 2020-07-21T12:30:35
 lastmod: 2020-07-21T12:30:35
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

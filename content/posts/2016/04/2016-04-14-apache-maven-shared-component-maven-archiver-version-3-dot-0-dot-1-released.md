@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component - Maven Archiver Version 3.0.1 Released"
 date: 2016-04-14T11:01:22
 lastmod: 2016-04-14T11:01:22
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

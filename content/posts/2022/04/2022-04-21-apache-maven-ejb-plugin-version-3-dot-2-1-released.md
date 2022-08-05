@@ -3,7 +3,6 @@ title: "Apache Maven EJB Plugin Version 3.2.1 Released"
 date: 2022-04-21T22:50:42
 lastmod: 2022-04-21T22:50:42
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting API Version 4.0.0-M1 Rele
 date: 2022-04-20T21:05:05
 lastmod: 2022-04-20T21:05:05
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

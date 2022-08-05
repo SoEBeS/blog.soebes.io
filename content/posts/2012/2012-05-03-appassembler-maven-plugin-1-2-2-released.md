@@ -3,8 +3,6 @@ title: "Appassembler-Maven-Plugin 1.2.2 - Released"
 date: 2012-05-03T21:42:45
 lastmod: 2012-05-03T21:42:45
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

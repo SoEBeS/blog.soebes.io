@@ -4,8 +4,6 @@ date: 2011-06-02T12:14:40
 lastmod: 2011-06-02T12:14:40
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Es gibt nun eine neue [Release von Subversion](http://old.nabble.com/Subversion-1.6.17-Released-td31752751.html). 

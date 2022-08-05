@@ -4,7 +4,6 @@ date: 2010-05-16T12:04:41
 lastmod: 2010-05-16T12:04:41
 categories:
   - SKM
-  - Neuigkeiten
   - SupoSE
 ---
 Nach der Beurteilung der Test Ergebnisse insbesondere der Laufzeiten habe ich mir [einige optimierungen für SupoSE überlegt](http://www.supose.org/repositories/revision/supose/479) 

@@ -4,7 +4,6 @@ date: 2008-10-11T11:08:00
 lastmod: 2008-10-11T11:08
 categories:
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Nun ist es so weit, es gibt einen neue Release von [Subversion 1.5.3](http://subversion.tigris.org/servlets/NewsItemView?newsItemID=2164 "Subversion 1.5.3").

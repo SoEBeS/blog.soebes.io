@@ -3,8 +3,6 @@ title: "Maven 3 - Beta 2 Verfügbar"
 date: 2010-08-11T09:53:58
 lastmod: 2010-08-11T09:53:58
 categories:
-  - Neuigkeiten
-  - Neue Versionen
   - BM
   - Maven
 ---

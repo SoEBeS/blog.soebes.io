@@ -4,7 +4,6 @@ date: 2011-04-16T20:43:00
 lastmod: 2011-04-16T20:43
 categories:
   - SKM
-  - Neuigkeiten
   - BM
   - CI
 ---

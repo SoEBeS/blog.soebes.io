@@ -3,7 +3,6 @@ title: "Announcement: End Of Life of Maven 2.2.1 - Plugins / JDK Roadmap"
 date: 2015-03-20T22:40:00
 lastmod: 2015-03-20T22:40
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

@@ -4,8 +4,6 @@ date: 2008-10-23T09:46:14
 lastmod: 2008-10-23T09:46:14
 categories:
   - SKM
-  - Neuigkeiten
-  - Neue Versionen
   - Subversion
 ---
 Auf der Entwickler Liste hat [Hyrum K. Wright (Release Manager von Subversion)](http://subversion.tigris.org/servlets/ReadMsg?list=dev&msgNo=144435) bekannt gegeben, 

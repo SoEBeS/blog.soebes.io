@@ -3,7 +3,6 @@ title: "Asciidoctor Maven Plugin Version 1.5.5 Released"
 date: 2017-03-18T11:28:00
 lastmod: 2017-03-18T11:28
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

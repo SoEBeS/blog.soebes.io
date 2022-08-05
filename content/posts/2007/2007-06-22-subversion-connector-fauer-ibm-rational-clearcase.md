@@ -4,7 +4,6 @@ date: 2007-06-22T00:05:01
 lastmod: 2007-06-22T00:05:01
 categories:
   - SKM
-  - Neuigkeiten
   - Subversion
   - ClearCase
 ---

@@ -5,7 +5,6 @@ lastmod: 2007-07-25T09:30:28
 categories:
   - Java
   - SKM
-  - Neue Versionen
   - Subversion
 ---
 Es gibt wieder ein Update des [SVNKit](http://www.svnkit.com). Der Connection Pool wurde neu implementiert. 

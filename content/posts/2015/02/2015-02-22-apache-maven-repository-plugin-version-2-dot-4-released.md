@@ -3,7 +3,6 @@ title: "Apache Maven Repository Plugin Version 2.4 Released"
 date: 2015-02-22T15:34:00
 lastmod: 2015-02-22T15:34
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

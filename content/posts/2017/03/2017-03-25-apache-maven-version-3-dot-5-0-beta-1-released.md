@@ -3,7 +3,6 @@ title: "Apache Maven Version 3.5.0-beta-1 Released"
 date: 2017-03-25T11:00:25
 lastmod: 2017-03-25T11:00:25
 categories:
-  - Neuigkeiten
   - BM
   - Maven
 ---

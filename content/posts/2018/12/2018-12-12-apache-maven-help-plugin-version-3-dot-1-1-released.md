@@ -3,7 +3,6 @@ title: "Apache Maven Help Plugin Version 3.1.1 Released"
 date: 2018-12-12T19:45:37
 lastmod: 2018-12-12T19:45:37
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

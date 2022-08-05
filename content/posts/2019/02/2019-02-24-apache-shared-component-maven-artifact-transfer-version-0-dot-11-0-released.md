@@ -3,7 +3,6 @@ title: "Apache Shared Component: Maven Artifact Transfer Version 0.11.0 Released
 date: 2019-02-28T22:31:12
 lastmod: 2019-02-28T22:31:12
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Shared

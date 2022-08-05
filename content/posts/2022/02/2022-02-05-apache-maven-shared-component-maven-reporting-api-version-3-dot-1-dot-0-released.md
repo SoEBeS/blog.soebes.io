@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting API Version 3.1.0 Release
 date: 2022-02-05T11:50:50
 lastmod: 2022-02-05T11:50:50
 categories:
-  - Neuigkeiten
   - BM
   - Maven
   - Maven-Plugins

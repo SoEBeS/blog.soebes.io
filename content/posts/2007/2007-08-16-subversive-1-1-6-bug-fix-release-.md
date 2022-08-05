@@ -5,7 +5,6 @@ lastmod: 2007-08-16T21:35:34
 categories:
   - Java
   - SKM
-  - Neue Versionen
   - PlugIn
 ---
 Es gibt eine neue Release von 
