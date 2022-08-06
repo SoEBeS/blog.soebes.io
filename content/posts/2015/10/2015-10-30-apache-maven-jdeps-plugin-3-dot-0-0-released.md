@@ -3,7 +3,6 @@ title: "Apache Maven JDeps Plugin 3.0.0 Released"
 date: 2015-10-30T18:57:00
 lastmod: 2015-10-30T18:57
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

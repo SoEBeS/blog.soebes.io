@@ -3,7 +3,6 @@ title: "Apache Doxia Site Tools Version 1.9 Released"
 date: 2019-06-02T23:45:32
 lastmod: 2019-06-02T23:45:32
 categories:
-  - BM
   - Maven
   - Maven-Components
 ---

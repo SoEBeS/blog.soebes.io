@@ -3,7 +3,6 @@ title: "Apache Maven Site Plugin Version 4.0.0-M1 Released"
 date: 2022-05-01T12:30:21
 lastmod: 2022-05-01T12:30:21
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

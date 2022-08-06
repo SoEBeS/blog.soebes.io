@@ -3,7 +3,6 @@ title: "Apache Maven Project Info Reports Plugin Version 3.2.1 Released"
 date: 2022-02-05T11:50:50
 lastmod: 2022-02-05T11:50:50
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

@@ -3,7 +3,6 @@ title: "Apache Maven 3.3.1 Features"
 date: 2015-03-17T01:15:00
 lastmod: 2015-03-17T01:15
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

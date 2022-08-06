@@ -3,7 +3,6 @@ title: "Apache Maven Site Plugin Version 3.4 Released"
 date: 2014-07-10T21:32:00
 lastmod: 2014-07-10T21:32
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

@@ -3,7 +3,6 @@ title: "Apache Maven Stage Plugin Version 1.0 Released"
 date: 2015-03-04T19:01:00
 lastmod: 2015-03-04T19:01
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

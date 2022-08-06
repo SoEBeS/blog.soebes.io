@@ -3,7 +3,6 @@ title: "Apache Maven ACR Plugin Version 3.1.0 Released"
 date: 2018-06-23T21:30:35
 lastmod: 2018-06-23T21:30:35
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

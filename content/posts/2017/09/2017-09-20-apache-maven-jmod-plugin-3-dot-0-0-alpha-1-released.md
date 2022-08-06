@@ -3,7 +3,6 @@ title: "Apache Maven JMod Plugin Version 3.0.0-alpha-1 Released"
 date: 2017-09-20T20:23:00
 lastmod: 2017-09-20T20:23
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

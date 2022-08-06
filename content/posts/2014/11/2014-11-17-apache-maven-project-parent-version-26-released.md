@@ -3,7 +3,6 @@ title: "Apache Maven Project Parent Version 26 Released"
 date: 2014-11-17T21:17:00
 lastmod: 2014-11-17T21:17
 categories:
-  - BM
   - Maven
   - POM-Releases
 ---

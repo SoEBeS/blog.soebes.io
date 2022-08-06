@@ -3,7 +3,6 @@ title: "Maven: POM files without a version in it?"
 date: 2017-04-02T00:15:12
 lastmod: 2017-04-02T00:15:12
 categories:
-  - BM
   - Maven
   - Maven Best Practice
 ---

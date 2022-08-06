@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component - Maven Verifier Version 1.7.1 Released"
 date: 2020-04-07T15:31:53
 lastmod: 2020-04-07T15:31:53
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

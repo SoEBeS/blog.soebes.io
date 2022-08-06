@@ -3,7 +3,6 @@ title: "Mojo Tidy Maven Plugin Version 1.0-beta-1 Released"
 date: 2015-02-11T18:38:00
 lastmod: 2015-02-11T18:38
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

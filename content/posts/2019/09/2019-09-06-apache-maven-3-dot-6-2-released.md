@@ -3,7 +3,6 @@ title: "Apache Maven 3.6.2 Released"
 date: 2019-09-06T16:31:02
 lastmod: 2019-09-06T16:31:02
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

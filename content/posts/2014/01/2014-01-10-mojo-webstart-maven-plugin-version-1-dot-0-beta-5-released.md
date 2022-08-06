@@ -3,7 +3,6 @@ title: "Mojo Webstart Maven Plugin - Version 1.0-beta-5 Released"
 date: 2014-01-10T18:50:00
 lastmod: 2014-01-10T18:50
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

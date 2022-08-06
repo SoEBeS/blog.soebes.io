@@ -4,7 +4,6 @@ date: 2007-12-17T20:58:37
 lastmod: 2007-12-17T20:58:37
 categories:
   - Java
-  - BM
   - Ivy
 ---
 Das [Apache Ivy Projekt](http://ant.apache.org/ivy/ "Apache Ivy Projekt") hat bekannt gegeben, dass die Release 2.0.0 Beta 1 verfügbar ist. 

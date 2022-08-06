@@ -3,7 +3,6 @@ title: "Apache Software Foundation Parent POM Version 26 Released"
 date: 2022-04-14T01:48:48
 lastmod: 2022-04-14T01:48:48
 categories:
-  - BM
   - Maven
   - Maven-Shared
   - parent-poms

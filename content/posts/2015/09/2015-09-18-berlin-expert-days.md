@@ -3,7 +3,6 @@ title: "Berlin Expert Days"
 date: 2015-09-18T15:26:00
 lastmod: 2015-09-18T15:26
 categories:
-  - BM
   - Maven
 ---
 I had the pleasure to do a talk on the [Berlin Expert Days][bedcon] about [Maven 3 and

@@ -3,7 +3,6 @@ title: "Mojo's SonarQube Maven Plugin Version 2.5 Released"
 date: 2015-01-12T23:20:00
 lastmod: 2015-01-12T23:20
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

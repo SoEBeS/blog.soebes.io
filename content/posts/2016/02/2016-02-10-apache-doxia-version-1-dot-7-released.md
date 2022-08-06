@@ -3,7 +3,6 @@ title: "Apache Doxia Version 1.7 Released"
 date: 2016-02-10T19:00:00
 lastmod: 2016-02-10T19:00
 categories:
-  - BM
   - Maven
   - Maven-Components
 ---

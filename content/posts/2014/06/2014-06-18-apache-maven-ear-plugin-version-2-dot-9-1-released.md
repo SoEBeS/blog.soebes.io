@@ -3,7 +3,6 @@ title: "Apache Maven EAR Plugin Version 2.9.1 Released"
 date: 2014-06-18T23:39:00
 lastmod: 2014-06-18T23:39
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

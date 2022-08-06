@@ -3,7 +3,6 @@ title: "Apache Maven Dependency Plugin Version 3.1.2 Released"
 date: 2020-03-12T21:30:45
 lastmod: 2020-03-12T21:30:45
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

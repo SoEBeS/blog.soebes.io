@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: File Management 3.0.0 Released"
 date: 2015-12-29T17:01:34
 lastmod: 2015-12-29T17:01:34
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

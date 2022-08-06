@@ -3,7 +3,6 @@ title: "Maven 2.2.0 RC1 Release erschienen"
 date: 2009-05-02T12:36:04
 lastmod: 2009-05-02T12:36:04
 categories:
-  - BM
   - Maven
 ---
 Es liegt einen neue Release 2.2.0 RC1 von Maven vor. 

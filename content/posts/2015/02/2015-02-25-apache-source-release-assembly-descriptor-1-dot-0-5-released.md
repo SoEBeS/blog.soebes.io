@@ -3,7 +3,6 @@ title: "Apache Source Release Assembly Descriptor 1.0.5 Released"
 date: 2015-02-25T20:29:00
 lastmod: 2015-02-25T20:29
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

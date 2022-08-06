@@ -3,7 +3,6 @@ title: "Maven Release 3.1 released"
 date: 2013-07-15T19:45:00
 lastmod: 2013-07-15T19:45
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

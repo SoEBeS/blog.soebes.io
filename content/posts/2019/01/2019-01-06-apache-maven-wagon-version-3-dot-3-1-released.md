@@ -3,7 +3,6 @@ title: "Apache Maven Wagon Version 3.3.1 Released"
 date: 2019-01-06T23:37:00
 lastmod: 2019-01-06T23:37
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

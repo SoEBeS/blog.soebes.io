@@ -3,7 +3,6 @@ title: "Mojo AspectJ Maven Plugin Version 1.7 Released"
 date: 2014-09-14T10:37:00
 lastmod: 2014-09-14T10:37
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

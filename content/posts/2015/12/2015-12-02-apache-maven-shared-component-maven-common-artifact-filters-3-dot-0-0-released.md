@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Common Artifact Filters 3.0.0 Relea
 date: 2015-12-02T08:00:00
 lastmod: 2015-12-02T08:00
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting Impl. Version 3.0.0 Relea
 date: 2017-06-25T17:01:33
 lastmod: 2017-06-25T17:01:33
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

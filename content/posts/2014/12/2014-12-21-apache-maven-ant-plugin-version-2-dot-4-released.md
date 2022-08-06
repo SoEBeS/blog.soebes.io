@@ -3,7 +3,6 @@ title: "Apache Maven Ant Plugin Version 2.4 Released"
 date: 2014-12-21T14:57:00
 lastmod: 2014-12-21T14:57
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

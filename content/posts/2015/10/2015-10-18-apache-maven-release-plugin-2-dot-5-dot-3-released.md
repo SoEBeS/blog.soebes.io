@@ -3,7 +3,6 @@ title: "Apache Maven Release Plugin Version 2.5.3 Released"
 date: 2015-10-18T11:00:00
 lastmod: 2015-10-18T11:00
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

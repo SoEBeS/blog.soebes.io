@@ -3,7 +3,6 @@ title: "Apache Maven Invoker Plugin Version 3.2.0 Released"
 date: 2019-01-21T19:45:57
 lastmod: 2019-01-21T19:45:57
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

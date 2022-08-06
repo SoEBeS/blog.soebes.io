@@ -3,7 +3,6 @@ title: "Apache Maven SCM Version 1.9.5 Released"
 date: 2016-07-06T20:05:00
 lastmod: 2016-07-06T20:05
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

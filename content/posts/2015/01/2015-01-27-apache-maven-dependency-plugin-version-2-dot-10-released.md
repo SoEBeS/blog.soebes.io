@@ -3,7 +3,6 @@ title: "Apache Maven Dependency Plugin Version 2.10 Released"
 date: 2015-01-27T22:59:00
 lastmod: 2015-01-27T22:59
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

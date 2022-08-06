@@ -5,7 +5,6 @@ lastmod: 2015-06-12T08:09
 categories:
   - MojoHaus
   - Github
-  - BM
   - Maven
   - Maven-Plugins
 ---

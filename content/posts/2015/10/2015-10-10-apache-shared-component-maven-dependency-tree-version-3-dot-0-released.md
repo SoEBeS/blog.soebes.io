@@ -3,7 +3,6 @@ title: "Apache Shared Component: Maven Dependency Tree Version 3.0 Released"
 date: 2015-10-10T21:10:00
 lastmod: 2015-10-10T21:10
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

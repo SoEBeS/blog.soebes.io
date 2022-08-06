@@ -3,7 +3,6 @@ title: "Apache Maven AntRun Plugin Version 3.0.0 Released"
 date: 2020-04-15T23:47:12
 lastmod: 2020-04-15T23:47:12
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

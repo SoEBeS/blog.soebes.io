@@ -3,7 +3,6 @@ title: "Apache Maven Indexer Version 6.1.1 Released"
 date: 2022-02-17T15:36:45
 lastmod: 2022-02-17T15:36:45
 categories:
-  - BM
   - Maven
   - Maven-Indexer
 ---

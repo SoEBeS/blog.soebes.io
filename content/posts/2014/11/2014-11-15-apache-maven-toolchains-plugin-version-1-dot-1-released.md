@@ -3,7 +3,6 @@ title: "Apache Maven Toolchains Plugin Version 1.1 Released"
 date: 2014-11-15T12:23:00
 lastmod: 2014-11-15T12:23
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

@@ -3,7 +3,6 @@ title: "Maven 2 und Delivery Problem mit Tomcat"
 date: 2008-09-08T21:12:24
 lastmod: 2008-09-08T21:12:24
 categories:
-  - BM
   - Maven
 ---
 Mein Problem war, eine Lieferung in Form einer oder mehrerer Dateien aus einem Maven 2 getriebenen Projekt zu erstellen, dass eine Web-Applikation bzw. genauer gesagt ein Web-Service darstellt.<br/>

@@ -3,7 +3,6 @@ title: "Apache Maven Version 3.3.3 Released"
 date: 2015-04-28T20:20:00
 lastmod: 2015-04-28T20:20
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

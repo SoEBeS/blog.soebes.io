@@ -3,7 +3,6 @@ title: "Apache Maven Dependency Plugin Version 2.9 Released"
 date: 2014-09-21T23:01:00
 lastmod: 2014-09-21T23:01
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

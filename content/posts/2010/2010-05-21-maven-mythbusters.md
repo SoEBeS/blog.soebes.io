@@ -3,7 +3,6 @@ title: "Maven - Mythbusters"
 date: 2010-05-21T17:35:38
 lastmod: 2010-05-21T17:35:38
 categories:
-  - BM
   - Maven
 ---
 Hier gibt es einige Mythbusters zu Maven, also beispielsweise das 

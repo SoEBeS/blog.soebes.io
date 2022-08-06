@@ -3,7 +3,6 @@ title: "Apache Maven Resolver Ant Task Version 1.2.0 Released"
 date: 2019-04-12T17:31:22
 lastmod: 2019-04-12T17:31:22
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

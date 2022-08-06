@@ -3,7 +3,6 @@ title: "Apache Maven Shared Invoker Version 2.2 Released"
 date: 2015-03-25T20:03:00
 lastmod: 2015-03-25T20:03
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

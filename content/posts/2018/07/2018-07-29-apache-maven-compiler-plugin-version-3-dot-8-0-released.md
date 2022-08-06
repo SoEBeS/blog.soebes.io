@@ -3,7 +3,6 @@ title: "Apache Maven Compiler Plugin Version 3.8.0 Released"
 date: 2018-07-29T22:45:15
 lastmod: 2018-07-29T22:45:15
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

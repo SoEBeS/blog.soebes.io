@@ -3,7 +3,6 @@ title: "Apache Maven JavaDoc Plugin Version 2.10.4 Released"
 date: 2016-06-10T22:30:00
 lastmod: 2016-06-10T22:30
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

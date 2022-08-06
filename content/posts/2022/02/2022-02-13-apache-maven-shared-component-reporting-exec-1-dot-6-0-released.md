@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component: Maven Reporting Exec Version 1.6.0"
 date: 2022-02-13T13:36:36
 lastmod: 2022-02-13T13:36:36
 categories:
-  - BM
   - Maven
   - Maven-Shared
 ---

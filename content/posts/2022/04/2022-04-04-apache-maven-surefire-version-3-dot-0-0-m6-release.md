@@ -3,7 +3,6 @@ title: "Apache Maven Surefire Plugin Version 3.0.0-M6 Released"
 date: 2022-04-04T17:33:33
 lastmod: 2022-04-04T17:33:33
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

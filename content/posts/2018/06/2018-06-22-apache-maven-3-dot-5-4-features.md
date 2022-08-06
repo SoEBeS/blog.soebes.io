@@ -3,7 +3,6 @@ title: "Apache Maven 3.5.4 Released"
 date: 2018-06-22T11:45:00
 lastmod: 2018-06-22T11:45
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

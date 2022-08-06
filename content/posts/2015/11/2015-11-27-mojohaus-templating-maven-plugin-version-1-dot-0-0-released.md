@@ -3,7 +3,6 @@ title: "MojoHaus Templating Maven Plugin Version 1.0.0 Released"
 date: 2015-11-27T14:46:00
 lastmod: 2015-11-27T14:46
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

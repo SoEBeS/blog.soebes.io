@@ -3,7 +3,6 @@ title: "Apache Maven JLink / JMod Plugin VOTE for first Public Release started"
 date: 2017-09-09T16:15:20
 lastmod: 2017-09-09T16:15:20
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

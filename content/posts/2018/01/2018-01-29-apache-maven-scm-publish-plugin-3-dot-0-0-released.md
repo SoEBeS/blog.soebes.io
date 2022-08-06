@@ -3,7 +3,6 @@ title: "Apache Maven SCM Publish Plugin 3.0.0 Released"
 date: 2018-01-29T23:30:00
 lastmod: 2018-01-29T23:30
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

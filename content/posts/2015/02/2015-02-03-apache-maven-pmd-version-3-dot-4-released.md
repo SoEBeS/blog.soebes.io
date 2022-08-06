@@ -3,7 +3,6 @@ title: "Apache Maven PMD Version 3.4 Released"
 date: 2015-02-03T21:43:00
 lastmod: 2015-02-03T21:43
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

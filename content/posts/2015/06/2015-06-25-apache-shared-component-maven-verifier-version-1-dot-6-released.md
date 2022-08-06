@@ -3,7 +3,6 @@ title: "Apache Shared Component Maven Verifier Version 1.6 Released"
 date: 2015-06-25T19:35:00
 lastmod: 2015-06-25T19:35
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

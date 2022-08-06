@@ -3,7 +3,6 @@ title: "Apache Maven Resolver 1.4.0 Released"
 date: 2019-06-12T23:45:07
 lastmod: 2019-06-12T23:45:07
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

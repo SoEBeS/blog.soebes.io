@@ -3,7 +3,6 @@ title: "Apache Maven Shared Utils Version 3.2.1 Released"
 date: 2018-02-10T15:15:00
 lastmod: 2018-02-10T15:15
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

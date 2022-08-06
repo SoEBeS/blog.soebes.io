@@ -3,7 +3,6 @@ title: "NAR Plugin For Maven 3.2.0"
 date: 2014-10-03T21:04:00
 lastmod: 2014-10-03T21:04
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

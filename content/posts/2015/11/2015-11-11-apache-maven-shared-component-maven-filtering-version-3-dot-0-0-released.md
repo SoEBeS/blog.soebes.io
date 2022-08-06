@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component - Maven Filtering Version 3.0.0 Released"
 date: 2015-11-11T13:31:45
 lastmod: 2015-11-11T13:31:45
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

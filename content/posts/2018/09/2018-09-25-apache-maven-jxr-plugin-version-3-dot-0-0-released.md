@@ -3,7 +3,6 @@ title: "Apache Maven JXR Plugin Version 3.0.0 Released"
 date: 2018-09-25T22:15:12
 lastmod: 2018-09-25T22:15:12
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

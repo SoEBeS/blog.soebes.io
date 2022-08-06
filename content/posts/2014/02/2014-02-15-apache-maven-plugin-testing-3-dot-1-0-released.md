@@ -3,7 +3,6 @@ title: "Apache Maven Plugin Testing 3.1.0 Released"
 date: 2014-02-15T17:30:00
 lastmod: 2014-02-15T17:30
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

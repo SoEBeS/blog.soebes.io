@@ -3,7 +3,6 @@ title: "Maven Incremental Module Build"
 date: 2016-08-12T16:30:34
 lastmod: 2016-08-12T16:30:34
 categories:
-  - BM
   - Maven
   - Maven Best Practice
 ---

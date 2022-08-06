@@ -3,7 +3,6 @@ title: "Apache Maven PMD Plugin Version 3.13.0 Released"
 date: 2020-02-03T21:57:12
 lastmod: 2020-02-03T21:57:12
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

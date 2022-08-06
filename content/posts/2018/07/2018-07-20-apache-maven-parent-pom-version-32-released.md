@@ -3,7 +3,6 @@ title: "Apache Maven Parent POM Version 32 Released"
 date: 2018-07-20T10:00:00
 lastmod: 2018-07-20T10:00
 categories:
-  - BM
   - Maven
   - Maven-Shared
   - parent-poms

@@ -3,7 +3,6 @@ title: "MojoHaus Properties Maven Plugin Version 1.0.0 Released"
 date: 2015-11-14T23:31:00
 lastmod: 2015-11-14T23:31
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

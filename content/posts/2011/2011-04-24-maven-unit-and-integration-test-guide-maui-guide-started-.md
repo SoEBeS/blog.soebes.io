@@ -3,7 +3,6 @@ title: "Maven Unit and Integration Test Guide (MaUI Guide) started."
 date: 2011-04-24T12:26:17
 lastmod: 2011-04-24T12:26:17
 categories:
-  - BM
   - Maven
   - Unit Tests
   - Integrations Tests

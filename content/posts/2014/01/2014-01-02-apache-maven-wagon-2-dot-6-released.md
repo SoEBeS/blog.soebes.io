@@ -4,7 +4,6 @@ date: 2014-01-02T19:44:00
 lastmod: 2014-01-02T19:44
 categories:
   - News
-  - BM
   - Maven
   - Maven-Releases
 ---

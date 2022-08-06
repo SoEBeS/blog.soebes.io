@@ -3,7 +3,6 @@ title: "Apache Maven Parent POM Version 35 Released"
 date: 2022-03-03T15:36:22
 lastmod: 2022-03-03T15:36:22
 categories:
-  - BM
   - Maven
   - Maven-Shared
   - parent-poms

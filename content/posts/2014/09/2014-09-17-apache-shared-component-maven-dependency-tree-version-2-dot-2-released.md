@@ -3,7 +3,6 @@ title: "Apache Shared Component: Maven Dependency Tree Version 2.2 Released"
 date: 2014-09-17T22:10:00
 lastmod: 2014-09-17T22:10
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

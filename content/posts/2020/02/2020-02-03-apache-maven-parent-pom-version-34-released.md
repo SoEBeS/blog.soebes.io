@@ -3,7 +3,6 @@ title: "Apache Maven Parent POM Version 34 Released"
 date: 2020-02-03T20:12:13
 lastmod: 2020-02-03T20:12:13
 categories:
-  - BM
   - Maven
   - Maven-Shared
   - parent-poms

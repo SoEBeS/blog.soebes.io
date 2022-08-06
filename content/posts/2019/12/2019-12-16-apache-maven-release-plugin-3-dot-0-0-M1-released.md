@@ -3,7 +3,6 @@ title: "Apache Maven Release Plugin Version 3.0.0-M1 Released"
 date: 2019-12-16T10:35:59
 lastmod: 2019-12-16T10:35:59
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

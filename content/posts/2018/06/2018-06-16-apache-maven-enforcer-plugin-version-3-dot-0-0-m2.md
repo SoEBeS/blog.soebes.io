@@ -3,7 +3,6 @@ title: "Apache Maven Enforcer Plugin Version 3.0.0-M2 Released"
 date: 2018-06-16T13:15:23
 lastmod: 2018-06-16T13:15:23
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

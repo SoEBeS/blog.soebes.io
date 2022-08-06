@@ -3,7 +3,6 @@ title: "Spoiler Alert: Upcoming Maven 3.4.0 - Changes - III"
 date: 2016-08-08T07:30:00
 lastmod: 2016-08-08T07:30
 categories:
-  - BM
   - Maven
   - Maven Release
 ---

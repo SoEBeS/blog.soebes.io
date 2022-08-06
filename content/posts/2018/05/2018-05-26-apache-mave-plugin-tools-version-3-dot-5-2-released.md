@@ -3,7 +3,6 @@ title: "Apache Maven Plugin Tools Version 3.5.2 Released"
 date: 2018-05-26T18:16:45
 lastmod: 2018-05-26T18:16:45
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

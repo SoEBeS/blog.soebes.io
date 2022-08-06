@@ -3,7 +3,6 @@ title: "Maven Anti Patterns: Build Helper Maven Plugin"
 date: 2016-06-11T13:26:00
 lastmod: 2016-06-11T13:26
 categories:
-  - BM
   - Maven
   - Maven Best Practice
 ---

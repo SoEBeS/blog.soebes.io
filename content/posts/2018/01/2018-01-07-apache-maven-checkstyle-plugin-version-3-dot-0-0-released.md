@@ -3,7 +3,6 @@ title: "Apache Maven Checkstyle Plugin Version 3.0.0 Released"
 date: 2018-01-07T23:38:00
 lastmod: 2018-01-07T23:38
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

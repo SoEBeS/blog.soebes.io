@@ -3,7 +3,6 @@ title: "Apache Doxia Site Tools Version 1.7.1 Released"
 date: 2016-04-10T08:30:22
 lastmod: 2016-04-10T08:30:22
 categories:
-  - BM
   - Maven
   - Maven-Components
 ---

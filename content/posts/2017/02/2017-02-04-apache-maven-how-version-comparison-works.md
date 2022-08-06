@@ -3,7 +3,6 @@ title: "Maven 3: How Version Comparison Works?"
 date: 2017-02-04T14:23:00
 lastmod: 2017-02-04T14:23
 categories:
-  - bm
   - Maven
   - Maven Best Practice
 ---

@@ -3,7 +3,6 @@ title: "Apache Maven ChangeLog Plugin 2.3 Released"
 date: 2014-06-27T23:19:00
 lastmod: 2014-06-27T23:19
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

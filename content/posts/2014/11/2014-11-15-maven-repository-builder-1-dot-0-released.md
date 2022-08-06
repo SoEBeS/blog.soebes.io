@@ -3,7 +3,6 @@ title: "Apache Maven Shared Component - Maven Repository Builder 1.0 Released"
 date: 2014-11-15T18:50:00
 lastmod: 2014-11-15T18:50
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Shared

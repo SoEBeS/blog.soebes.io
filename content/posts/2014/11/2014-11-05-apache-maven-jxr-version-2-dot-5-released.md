@@ -3,7 +3,6 @@ title: "Apache Maven JXR Version 2.5 Released"
 date: 2014-11-05T22:22:00
 lastmod: 2014-11-05T22:22
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

@@ -3,7 +3,6 @@ title: "Apache Maven 3.5.2 Released"
 date: 2017-10-25T12:34:00
 lastmod: 2017-10-25T12:34
 categories:
-  - BM
   - Maven
   - Maven Best Practice
 ---

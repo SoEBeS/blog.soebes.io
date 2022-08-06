@@ -3,7 +3,6 @@ title: "Tidy Maven Plugin 1.0-alpha-2 Released"
 date: 2013-12-19T19:00:05
 lastmod: 2013-12-19T19:00:05
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases

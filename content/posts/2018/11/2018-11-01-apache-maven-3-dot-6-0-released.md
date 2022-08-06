@@ -3,7 +3,6 @@ title: "Apache Maven 3.6.0 Released"
 date: 2018-11-01T13:15:12
 lastmod: 2018-11-01T13:15:12
 categories:
-  - BM
   - Maven
   - Maven-Releases
 ---

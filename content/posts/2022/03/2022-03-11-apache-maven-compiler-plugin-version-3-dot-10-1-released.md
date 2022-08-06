@@ -3,7 +3,6 @@ title: "Apache Maven Compiler Plugin Version 3.10.1 Released"
 date: 2022-03-11T12:13:43
 lastmod: 2022-03-11T12:13:43
 categories:
-  - BM
   - Maven
   - Maven-Plugins
   - Maven-Plugin-Releases
