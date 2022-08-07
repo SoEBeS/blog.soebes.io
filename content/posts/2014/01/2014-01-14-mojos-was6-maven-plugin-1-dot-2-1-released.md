@@ -4,7 +4,6 @@ date: 2014-01-14T22:56:00
 lastmod: 2014-01-14T22:56
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the [release of the WAS6 Maven Plugin version 1.2.1](http://mojo.codehaus.org/was6-maven-plugin/).

@@ -5,7 +5,6 @@ lastmod: 2015-06-16T18:48
 categories:
   - Android
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Android Maven Plugin team is pleased to announce the release of 

@@ -4,7 +4,6 @@ date: 2013-12-18T21:19:00
 lastmod: 2013-12-18T21:19
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the release 2.0.0-1 of [Cassandra

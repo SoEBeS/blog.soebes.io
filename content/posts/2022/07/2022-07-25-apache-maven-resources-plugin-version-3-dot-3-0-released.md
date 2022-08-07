@@ -3,7 +3,6 @@ title: "Apache Maven Resources Plugin Version 3.3.0 Released"
 date: 2022-07-25T22:52:52
 lastmod: 2022-07-25T22:52:52
 categories:
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team is pleased to announce the release of the 

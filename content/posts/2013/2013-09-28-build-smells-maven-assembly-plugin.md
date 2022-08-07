@@ -5,7 +5,6 @@ lastmod: 2013-09-28T14:00
 categories:
   - Maven
   - News
-  - Maven-Plugins
   - Maven Best Practice
 ---
 If you are a software developer (for example in Java) you might have heard about 

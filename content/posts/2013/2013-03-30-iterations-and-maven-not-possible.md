@@ -4,7 +4,6 @@ date: 2013-03-30T11:16:26
 lastmod: 2013-03-30T11:16:26
 categories:
   - Maven
-  - Maven-Plugins
 ---
 During my experiences with Maven I had a few moments where I wished having some kind of iterations to 
 go over a list of whatever (servers, environments etc.). 

@@ -4,7 +4,6 @@ date: 2014-01-10T18:50:00
 lastmod: 2014-01-10T18:50
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the release of the [Webstart

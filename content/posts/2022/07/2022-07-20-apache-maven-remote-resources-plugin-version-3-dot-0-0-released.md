@@ -3,7 +3,6 @@ title: "Apache Maven Remote Resources Plugin Version 3.0.0 Released"
 date: 2022-07-20T10:39:39
 lastmod: 2022-07-20T10:39:39
 categories:
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team is pleased to announce the release of the 

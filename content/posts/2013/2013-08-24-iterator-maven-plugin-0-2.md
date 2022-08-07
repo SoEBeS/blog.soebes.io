@@ -4,7 +4,6 @@ date: 2013-08-24T11:16:26
 lastmod: 2013-08-24T11:16:26
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 

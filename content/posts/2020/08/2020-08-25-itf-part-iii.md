@@ -8,7 +8,6 @@ categories:
   - Java
   - JDK
   - Maven
-  - Maven-Plugins
   - Integration Testing Framework
 ---
 In the [second part of the series - Maven Plugin Testing - In a Modern way - Part II](https://blog.soebes.de/blog/2020/08/21/itf-part-ii/) 

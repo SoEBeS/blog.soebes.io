@@ -5,7 +5,6 @@ lastmod: 2013-09-14T20:02
 categories:
   - Maven
   - News
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The new release of the [Appassembler Maven Plugin 1.5](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/)

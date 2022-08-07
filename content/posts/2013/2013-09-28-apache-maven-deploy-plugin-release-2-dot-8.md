@@ -5,7 +5,6 @@ lastmod: 2013-09-28T12:25
 categories:
   - News
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The new release of the [Apache Maven Deploy Plugin 2.8](http://maven.apache.org/plugins/maven-deploy-plugin/) is available.

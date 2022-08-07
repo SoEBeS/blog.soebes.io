@@ -4,7 +4,6 @@ date: 2015-11-10T21:50:00
 lastmod: 2015-11-10T21:50
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Extra Enforcer Rules team is pleased to announce the release of the 

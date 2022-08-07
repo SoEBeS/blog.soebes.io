@@ -5,7 +5,6 @@ lastmod: 2011-08-11T09:41:32
 categories:
   - Maven
   - News
-  - Maven-Plugins
   - Maven Best Practice
 ---
 Based on a comment on my 

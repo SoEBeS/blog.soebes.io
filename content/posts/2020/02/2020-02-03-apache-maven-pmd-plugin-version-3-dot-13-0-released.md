@@ -4,7 +4,6 @@ date: 2020-02-03T21:57:12
 lastmod: 2020-02-03T21:57:12
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Maven team is pleased to announce the release of the 

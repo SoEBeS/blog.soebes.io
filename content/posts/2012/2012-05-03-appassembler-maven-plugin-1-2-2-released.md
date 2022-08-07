@@ -4,7 +4,6 @@ date: 2012-05-03T21:42:45
 lastmod: 2012-05-03T21:42:45
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 There is a new release of the [appassembler-maven-plugin](http://maven.40175.n5.nabble.com/ANN-Appassembler-Maven-Plugin-1-2-2-Released-td5684091.html) available. 

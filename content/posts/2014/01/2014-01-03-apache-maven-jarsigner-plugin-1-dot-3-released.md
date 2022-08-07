@@ -5,7 +5,6 @@ lastmod: 2014-01-03T13:15
 categories:
   - News
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
   - Maven-Shared
 ---

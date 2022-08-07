@@ -4,7 +4,6 @@ date: 2017-09-09T16:15:20
 lastmod: 2017-09-09T16:15:20
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team has started the VOTE for the first public releases 

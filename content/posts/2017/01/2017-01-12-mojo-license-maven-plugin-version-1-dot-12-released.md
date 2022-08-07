@@ -4,7 +4,6 @@ date: 2017-01-12T18:12:00
 lastmod: 2017-01-12T18:12
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the release of the [License Maven Plugin,

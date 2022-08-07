@@ -4,7 +4,6 @@ date: 2014-06-09T13:01:00
 lastmod: 2014-06-09T13:01
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 There is a new release of the [Nar Maven Plugin 3.1.0 Released](http://maven-nar.github.io/)

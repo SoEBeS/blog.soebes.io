@@ -4,7 +4,6 @@ date: 2011-05-07T21:36:13
 lastmod: 2011-05-07T21:36:13
 categories:
   - Maven
-  - Maven-Plugins
 ---
 Das <a href="http://khmarbaise.github.com/Maven-License-Verifier-Plugin"  title="Maven License Verifier Plugin Site">Maven-License-Verifier Plugin</a> steht nun in der Release 0.4 zur Verfügung. Ein <a href="http://khmarbaise.github.com/mlvp-example/licenseverifierreport.html">Beispiel Report</a> gibt es auch zu sehen. Das Plugin ist nun auch über <a href="http://repo2.maven.org/maven2/com/soebes/maven/plugins/mlv/maven-license-verifier-plugin/0.4/">Maven Central</a> unter den folgenden Koordinaten verfügbar:<br/>
 <pre>

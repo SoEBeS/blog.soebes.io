@@ -4,7 +4,6 @@ date: 2022-03-24T22:16:16
 lastmod: 2022-03-24T22:16:16
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Shared
 ---
 The Apache Maven team is pleased to announce the release of the 

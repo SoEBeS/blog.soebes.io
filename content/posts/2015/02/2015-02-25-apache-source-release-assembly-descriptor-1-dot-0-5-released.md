@@ -4,7 +4,6 @@ date: 2015-02-25T20:29:00
 lastmod: 2015-02-25T20:29
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Source Release Assembly Descriptor team is pleased to

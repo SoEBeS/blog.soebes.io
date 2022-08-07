@@ -4,7 +4,6 @@ date: 2012-01-19T22:37:45
 lastmod: 2012-01-19T22:37:45
 categories:
   - Maven
-  - Maven-Plugins
 ---
 Tja nach einiger Arbeit ist es nun so weit, dass ich die Release 1.2 des 
 [Appassembler-Maven-Plugin](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/) nun als 

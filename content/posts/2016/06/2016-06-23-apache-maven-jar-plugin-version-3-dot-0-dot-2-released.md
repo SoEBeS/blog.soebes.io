@@ -4,7 +4,6 @@ date: 2016-06-23T19:09:00
 lastmod: 2016-06-23T19:09
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team is pleased to announce the release of the 

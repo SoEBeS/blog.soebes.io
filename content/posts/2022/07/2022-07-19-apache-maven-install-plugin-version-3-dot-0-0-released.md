@@ -3,7 +3,6 @@ title: "Apache Maven Install Plugin Version 3.0.0 Released"
 date: 2022-07-19T14:14:14
 lastmod: 2022-07-19T14:14:14
 categories:
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team is pleased to announce the release of the 

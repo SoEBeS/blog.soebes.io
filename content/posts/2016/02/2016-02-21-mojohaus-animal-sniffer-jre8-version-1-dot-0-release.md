@@ -4,7 +4,6 @@ date: 2016-02-21T12:43:00
 lastmod: 2016-02-21T12:43
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the release of the Animal Sniffer JRE8

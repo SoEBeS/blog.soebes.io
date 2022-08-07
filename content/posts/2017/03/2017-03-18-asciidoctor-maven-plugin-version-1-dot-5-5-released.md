@@ -4,7 +4,6 @@ date: 2017-03-18T11:28:00
 lastmod: 2017-03-18T11:28
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 This release aligns the [maven plugin version to the latest version of AsciidoctorJ v1.5.5, and in turn Asciidoctor v1.5.5](https://github.com/asciidoctor/asciidoctor-maven-plugin).

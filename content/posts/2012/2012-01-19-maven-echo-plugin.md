@@ -4,7 +4,6 @@ date: 2012-01-19T22:47:01
 lastmod: 2012-01-19T22:47:01
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 A small problem, but always the suggestion to use Maven-AntRun plugin...But i changed it and created a small simple 

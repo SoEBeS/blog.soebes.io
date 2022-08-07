@@ -4,7 +4,6 @@ date: 2012-09-15T19:41:07
 lastmod: 2012-09-15T19:41:07
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 A new release of the [appassembler-maven-plugin](http://mojo.codehaus.org/appassembler/appassembler-maven-plugin/ "appassembler-maven-plugin") 

@@ -6,7 +6,6 @@ categories:
   - MojoHaus
   - Github
   - Maven
-  - Maven-Plugins
 ---
 Manual Site Deployment to GitHub
 --------------------------------

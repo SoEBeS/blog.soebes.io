@@ -4,7 +4,6 @@ date: 2014-06-10T18:20:00
 lastmod: 2014-06-10T18:20
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Mojo team is pleased to announce the release of the

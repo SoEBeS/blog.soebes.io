@@ -4,7 +4,6 @@ date: 2018-06-09T16:30:00
 lastmod: 2018-06-09T16:30
 categories:
   - Maven
-  - Maven-Plugins
   - Usage
 ---
 I bet you have been faced with the situation to get the version of your Maven

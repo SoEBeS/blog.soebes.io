@@ -4,7 +4,6 @@ date: 2015-11-14T23:31:00
 lastmod: 2015-11-14T23:31
 categories:
   - Maven
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The MojoHaus Team is pleased to announce of the

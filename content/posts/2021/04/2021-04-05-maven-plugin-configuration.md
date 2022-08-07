@@ -4,7 +4,6 @@ date: 2021-04-05T21:23:17
 lastmod: 2021-04-05T21:23:17
 categories:
   - Maven
-  - Maven-Plugins
   - DevOps
   - Programming
 ---

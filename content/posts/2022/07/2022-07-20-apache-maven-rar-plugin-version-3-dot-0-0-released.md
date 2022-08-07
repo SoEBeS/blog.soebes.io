@@ -3,7 +3,6 @@ title: "Apache Maven RAR Plugin Version 3.0.0 Released"
 date: 2022-07-20T10:35:35
 lastmod: 2022-07-20T10:35:35
 categories:
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The Apache Maven team is pleased to announce the release of the 

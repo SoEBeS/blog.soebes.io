@@ -5,7 +5,6 @@ lastmod: 2013-10-28T20:35
 categories:
   - Maven
   - News
-  - Maven-Plugins
   - Maven-Plugin-Releases
 ---
 The new release of the [Apache Maven Release Plugin 2.4.2](http://maven.apache.org/plugins/maven-release-plugin/)
