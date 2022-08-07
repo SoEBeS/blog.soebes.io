@@ -16,7 +16,7 @@ projects. This is usually done in an integration or release environment.
 Important Note since 3.0.0:
 
  * Maven 3.2.5+ only
- * Minimum JDK 7+
+ * Minimum JDK 7
 
 ```xml
 <plugin>
