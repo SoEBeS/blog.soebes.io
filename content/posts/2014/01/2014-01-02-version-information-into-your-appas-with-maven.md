@@ -4,7 +4,6 @@ date: 2014-01-02T19:08:00
 lastmod: 2014-01-02T19:08
 categories:
   - Maven
-  - News
   - Maven Best Practice
 ---
 It often happens having an application and you want to show a version information in

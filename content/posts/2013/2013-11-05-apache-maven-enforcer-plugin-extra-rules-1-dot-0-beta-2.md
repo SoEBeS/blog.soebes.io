@@ -4,7 +4,6 @@ date: 2013-11-05T19:37:00
 lastmod: 2013-11-05T19:37
 categories:
   - Maven
-  - News
   - Maven-Plugin-Releases
 ---
 The new release of the [Apache Maven Enforcer Plugin - Extra Rules](http://mojo.codehaus.org/extra-enforcer-rules/)

@@ -3,7 +3,6 @@ title: "Animal Sniffer Version 1.11 Released"
 date: 2014-03-25T19:20:00
 lastmod: 2014-03-25T19:20
 categories:
-  - News
   - Maven
   - Maven-Plugin-Releases
 ---

@@ -3,7 +3,6 @@ title: "End Of Life Apache Maven 2.x"
 date: 2014-02-19T22:17:00
 lastmod: 2014-02-19T22:17
 categories:
-  - News
   - Maven
 ---
 The [Apache Maven Project Team](http://maven.apache.org/team-list.html) would like to inform you 

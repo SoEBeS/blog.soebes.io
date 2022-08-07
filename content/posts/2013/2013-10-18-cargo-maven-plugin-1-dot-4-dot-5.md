@@ -5,7 +5,6 @@ lastmod: 2013-10-18T21:00
 categories:
   - Maven
   - Maven-Plugin-Releases
-  - News
 ---
 
 After a really short while a new bug fix release 1.4.5 for [Cargo](http://cargo.codehaus.org) has been released.

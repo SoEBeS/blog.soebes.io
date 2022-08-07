@@ -3,7 +3,6 @@ title: "Apache Maven Deploy Plugin - Release 2.8"
 date: 2013-09-28T12:25:00
 lastmod: 2013-09-28T12:25
 categories:
-  - News
   - Maven
   - Maven-Plugin-Releases
 ---

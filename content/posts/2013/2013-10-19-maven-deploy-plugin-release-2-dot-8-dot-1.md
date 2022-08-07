@@ -4,7 +4,6 @@ date: 2013-10-19T15:30:00
 lastmod: 2013-10-19T15:30
 categories:
   - Maven
-  - News
   - Maven-Plugin-Releases
 ---
 The new release of the [Apache Maven Deploy Plugin 2.8.1](http://maven.apache.org/plugins/maven-deploy-plugin/)

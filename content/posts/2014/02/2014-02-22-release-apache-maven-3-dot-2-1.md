@@ -3,7 +3,6 @@ title: "Release Apache Maven 3.2.1"
 date: 2014-02-22T12:43:00
 lastmod: 2014-02-22T12:43
 categories:
-  - News
   - Maven
   - Maven Releases
 ---

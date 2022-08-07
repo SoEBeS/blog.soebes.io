@@ -4,7 +4,6 @@ date: 2013-10-05T14:22:00
 lastmod: 2013-10-05T14:22
 categories:
   - Maven
-  - News
   - Maven-Releases
 ---
 

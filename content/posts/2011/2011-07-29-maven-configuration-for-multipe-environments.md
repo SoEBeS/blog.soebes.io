@@ -4,7 +4,6 @@ date: 2011-07-29T09:20:00
 lastmod: 2011-07-29T09:20
 categories:
   - Maven
-  - News
   - Maven Best Practice
 ---
 I have often heard that it is not possible to create a number of artifacts out of a single Maven module with different configurations. 

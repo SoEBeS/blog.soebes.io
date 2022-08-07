@@ -4,7 +4,6 @@ date: 2013-10-19T15:25:00
 lastmod: 2013-10-19T15:25
 categories:
   - Maven
-  - News
   - Maven-Plugin-Releases
 ---
 The new release of the [Apache Maven Install Plugin 2.5.1](http://maven.apache.org/plugins/maven-install-plugin/)

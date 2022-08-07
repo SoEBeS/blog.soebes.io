@@ -3,7 +3,6 @@ title: "Mojo's License Maven Plugin Version 1.6 Released"
 date: 2014-01-16T17:44:00
 lastmod: 2014-01-16T17:44
 categories:
-  - News
   - Maven
   - Maven-Plugin-Releases
 ---
