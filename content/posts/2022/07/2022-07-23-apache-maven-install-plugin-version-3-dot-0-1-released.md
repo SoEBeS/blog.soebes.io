@@ -36,5 +36,3 @@ You can download the appropriate sources etc. from the [download page](https://m
 Enjoy,
 
 -The Apache Maven team
-
-Karl-Heinz Marbaise
