@@ -3,8 +3,7 @@ title: "Apache Software Foundation Parent POM Version 17 Released"
 date: 2015-04-29T20:57:00
 lastmod: 2015-04-29T20:57
 categories:
-  - Maven
-  - Maven-Shared
+  - asf-poms
   - parent-poms
 ---
 The Apache Maven team is pleased to announce the release of the 

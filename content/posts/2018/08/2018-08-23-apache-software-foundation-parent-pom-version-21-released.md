@@ -3,8 +3,7 @@ title: "Apache Software Foundation Parent POM Version 21 Released"
 date: 2018-08-23T09:23:00
 lastmod: 2018-08-23T09:23
 categories:
-  - Maven
-  - Maven-Shared
+  - asf-poms
   - parent-poms
 ---
 The Apache Maven team is pleased to announce the release of the 
