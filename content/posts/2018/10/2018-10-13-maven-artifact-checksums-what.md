@@ -85,7 +85,7 @@ this into your `settings.xml` which will look like this:
   ...
 </settings>
 ```
-Furthermore you have to configure this for all of your repositories in your
+Furthermore, you have to configure this for all of your repositories in your
 `settings.xml`. If you are using a repository manager either locally or within
 a corporate environment. You have to check your repository manager as well if it
 is correctly configured to check the checksums. You should of course not forget
