@@ -3,7 +3,7 @@ title: "Apache Common POM Version 16 Released"
 date: 2014-11-17T21:00:00
 lastmod: 2014-11-17T21:00
 categories:
-  - Maven
+  - asf-poms
   - parent-poms
 ---
 The Apache Maven team is pleased to announce the release of the 
