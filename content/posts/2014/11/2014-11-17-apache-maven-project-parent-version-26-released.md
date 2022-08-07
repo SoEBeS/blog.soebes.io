@@ -4,7 +4,7 @@ date: 2014-11-17T21:17:00
 lastmod: 2014-11-17T21:17
 categories:
   - Maven
-  - POM-Releases
+  - parent-poms
 ---
 The Apache Maven team is pleased to announce the release of the
 [Apache Maven Project Parent, version 26](http://maven.apache.org/pom/maven/).

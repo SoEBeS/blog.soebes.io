@@ -4,7 +4,7 @@ date: 2014-11-17T21:00:00
 lastmod: 2014-11-17T21:00
 categories:
   - Maven
-  - POM-Releases
+  - parent-poms
 ---
 The Apache Maven team is pleased to announce the release of the 
 [Apache Common POM, version 16](http://maven.apache.org/poms/asf).
