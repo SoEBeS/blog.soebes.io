@@ -36,6 +36,4 @@ Abstract classes to manage report generation, which can be run both:
 
 Enjoy,
 
--The Apache Maven Team
-
-Karl-Heinz Marbaise
+- The Apache Maven Team
