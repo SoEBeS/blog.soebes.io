@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Component: Maven Reporting Impl. Version 3.2.0 Released"
-date: 2022-07-09T21:01:01
-lastmod: 2022-07-09T21:01:01
+date: 2022-08-09T21:01:01
+lastmod: 2022-08-09T21:01:01
 categories:
   - Maven
   - Maven-Shared
