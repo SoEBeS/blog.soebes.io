@@ -23,7 +23,7 @@ Abstract classes to manage report generation, which can be run both:
 </plugin>
 ```
 
-[Release Notes](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317922&version=12352179)
+[Release Notes Maven Reporting Impl. Version 3.2.0 Released](https://issues.apache.org/jira/secure/ReleaseNote.jspa?projectId=12317922&version=12352179)
 
 * Improvement:
  
