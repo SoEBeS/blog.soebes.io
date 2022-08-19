@@ -56,7 +56,7 @@ You can download the appropriate [sources etc. from the download page](https://m
   * [MPH-174](https://issues.apache.org/jira/browse/MPH-174) - Upgrade XStream to 1.4.17
   * [MPH-179](https://issues.apache.org/jira/browse/MPH-179) - Upgrade XStream to 1.4.18
   * [MPH-186](https://issues.apache.org/jira/browse/MPH-186) - maven-parent to 37
-  * [MPH-190](https://issues.apache.org/jira/browse/MPH-190) - Upgrade Maven Reporting API to 3.1.1
+  * [MPH-190](https://issues.apache.org/jira/browse/MPH-190) -¡ Upgrade Maven Reporting API to 3.1.1
  
 Enjoy,
 
