@@ -40,11 +40,3 @@ You should specify the version in your project's plugin configuration:
 Enjoy,
 
 -The Maven team
-
-
-
-
-
-Enjoy,
-
--The Maven team
