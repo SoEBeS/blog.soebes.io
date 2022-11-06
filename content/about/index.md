@@ -70,5 +70,8 @@ Apache Software Foundation Member and finally become the Apache Maven Chairman.
 I've done a lot of trainings (Git, Maven, Jenkins, Nexus, CI/CD consultancy and other things) over the time and 
 also made lectures on different conferences like BaselOne, JAX, FOSDEM, CyberJug, UGDarmstadt etc.
 
-I've started with a few [YouTube videos](https://www.youtube.com/channel/UCIZzIp6FiUaxFVOz1LGF7jQ) about Apache Maven
+I've started with a few [YouTube videos](https://www.youtube.com/@khmarbaise) about Apache Maven
 and Junit Jupiter.
+
+I'm also reachable via <a rel="me" href="https://mastodon.social/@khmarbaise">Mastodon</a>.
+
