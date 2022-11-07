@@ -32,9 +32,9 @@ Release Notes - Maven Doxia - Version 2.0.0-M4
 
 * Sub-tasks:
  
-  * [DOXIA-599](https://issues.apache.org/jira/browse/DOXIA-599) - Replace <a /> element's name attribute with id attribute
+  * [DOXIA-599](https://issues.apache.org/jira/browse/DOXIA-599) - Replace `<a />` element's name attribute with id attribute
   * [DOXIA-668](https://issues.apache.org/jira/browse/DOXIA-668) - Remove all obsolete attributes in HTML5
-  * [DOXIA-672](https://issues.apache.org/jira/browse/DOXIA-672) - Parse id attribute only on <a /> elements by default
+  * [DOXIA-672](https://issues.apache.org/jira/browse/DOXIA-672) - Parse id attribute only on `<a />` elements by default
   * [DOXIA-674](https://issues.apache.org/jira/browse/DOXIA-674) - Replace table border handling with new CSS class
   * [DOXIA-675](https://issues.apache.org/jira/browse/DOXIA-675) - Replace table alignment attributes with CSS styles
 
@@ -47,7 +47,7 @@ Release Notes - Maven Doxia - Version 2.0.0-M4
 * Improvements:
  
   * [DOXIA-665](https://issues.apache.org/jira/browse/DOXIA-665) - Add anchors around FML parts
-  * [DOXIA-667](https://issues.apache.org/jira/browse/DOXIA-667) - Add <summary> and <details> to recognized tag list
+  * [DOXIA-667](https://issues.apache.org/jira/browse/DOXIA-667) - Add `<summary>` and `<details>` to recognized tag list
   * [DOXIA-669](https://issues.apache.org/jira/browse/DOXIA-669) - Improve/rework CachedFileEntityResolver
   * [DOXIA-676](https://issues.apache.org/jira/browse/DOXIA-676) - Remove all obsolete elements in HTML5 and add new ones
 
