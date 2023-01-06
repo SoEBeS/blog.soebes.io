@@ -157,8 +157,8 @@ So the ip address `61.177.173.11` has tried to attack my system 1132 times etc.
 Some explanations about the usage of `uniq -c` that automatically counts the unique lines and prints out something
 like this:
 ```text
-    688 218.92.0.190
+   1132 61.177.173.11
 ```
-The `688` means the ip address has been occurred 688 times within the file. The final part `sort -nr` is
+The `1132` means the ip address has been occurred 1132 times within the file. The final part `sort -nr` is
 needed to sort based on that number and the `r` reverses the result meaning the largest number is at the 
 beginning and `head -10` prints out the first `10` lines.
