@@ -58,12 +58,14 @@ You can download the appropriate [sources etc. from the download page](https://m
   * [SUREFIRE-2117](https://issues.apache.org/jira/browse/SUREFIRE-2117) - XML report omits package and outer class name for tests in @Nested inner class if testset reporter is configured to use phrased naming
   * [SUREFIRE-2135](https://issues.apache.org/jira/browse/SUREFIRE-2135) - On Unix-like OS and JDK 18+ Surefire kills the forked JVM if PpidChecker is active and argLine is set to -Dfile.encoding=UTF-16
 
+
 * New Feature
- 
+
 * [SUREFIRE-2139](https://issues.apache.org/jira/browse/SUREFIRE-2139) - Fully support Java 19 byte code
 
+
 * Improvements:
- 
+
   * [SUREFIRE-1654](https://issues.apache.org/jira/browse/SUREFIRE-1654) - Remove deprecated parameter 'forkMode' and use only 'forkCount'
   * [SUREFIRE-1962](https://issues.apache.org/jira/browse/SUREFIRE-1962) - Unit test for ProviderInfo#isApplicable
   * [SUREFIRE-2100](https://issues.apache.org/jira/browse/SUREFIRE-2100) - Improve behaviour for surefire-report goal with aggregate parameter
@@ -71,11 +73,13 @@ You can download the appropriate [sources etc. from the download page](https://m
   * [SUREFIRE-2136](https://issues.apache.org/jira/browse/SUREFIRE-2136) - UmlautDirIT: Revert special paths with colon in it to regular ones after test
   * [SUREFIRE-2138](https://issues.apache.org/jira/browse/SUREFIRE-2138) - Update JUnit versions used in docs/ITs
 
+
 * Tasks:
  
   * [SUREFIRE-2122](https://issues.apache.org/jira/browse/SUREFIRE-2122) - Document how to develop on Surefire using IntelliJ
   * [SUREFIRE-2126](https://issues.apache.org/jira/browse/SUREFIRE-2126) - Use the latest surefire version 3.0.0-M7 with self testing
   * [SUREFIRE-2137](https://issues.apache.org/jira/browse/SUREFIRE-2137) - Run junit jupiter platform ITs with latest 5.8.x and 5.9.x as well
+
 
 * Dependency upgrade
  
