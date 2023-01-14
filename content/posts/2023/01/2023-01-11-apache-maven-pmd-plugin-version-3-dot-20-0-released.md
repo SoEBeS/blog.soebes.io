@@ -6,7 +6,7 @@ categories:
   - Maven
   - Maven-Plugin-Releases
 ---
-The Maven team is pleased to announce the release of the 
+The Apache Maven team is pleased to announce the release of the 
 [Apache Maven PMD Plugin, version 3.20.0](https://maven.apache.org/plugins/maven-pmd-plugin/)
 
 A Maven plugin for the PMD toolkit, that produces a report on both code rule
