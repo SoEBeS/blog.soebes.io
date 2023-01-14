@@ -1,4 +1,4 @@
-¡---
+---
 title: "Apache Maven Dependency Plugin Version 3.5.0 Released"
 date: 2023-01-11T21:58:58
 lastmod: 2023-01-11T21:58:58
