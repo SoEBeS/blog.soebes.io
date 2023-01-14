@@ -61,7 +61,7 @@ You can download the appropriate [sources etc. from the download page](https://m
 
 * New Feature
 
-* [SUREFIRE-2139](https://issues.apache.org/jira/browse/SUREFIRE-2139) - Fully support Java 19 byte code
+  * [SUREFIRE-2139](https://issues.apache.org/jira/browse/SUREFIRE-2139) - Fully support Java 19 byte code
 
 
 * Improvements:
