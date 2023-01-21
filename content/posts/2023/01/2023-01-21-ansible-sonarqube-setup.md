@@ -191,8 +191,7 @@ external sources or read them via encrypted file (Ansible vault).
 So now the vital part of that setup. Starting the SonarQube container. It's necessary to mentioned that
 I've been using the variable for the JDBC connection (username, password and DB as well.). The name 
 `postgresql-sonarqube` is the hostname based on the previous name definition for the PostgreSQL database which
-can simply being used because both containers are on the same network. Of course given the mapping for 
-the volumes.
+can simply being used because both containers are on the same network.
 ```yaml
 - name: Start SonarQube container
   community.docker.docker_container:
