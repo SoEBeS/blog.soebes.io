@@ -10,7 +10,7 @@ categories:
   - Maven
   - Integration Testing Framework
 ---
-In the [first part of the series - Maven Plugin Testing - In a Modern way - Part I](https://blog.soebes.de/blog/2020/08/18/itf-part-i/) 
+In the [first part of the series - Maven Plugin Testing - In a Modern way - Part I](https://blog.soebes.io/posts/2020/08/2020-08-17-itf-part-i/) 
 we have seen how to make the basic setup with [The Integration Testing Framework][itf] and run very basic
 integration test. 
 

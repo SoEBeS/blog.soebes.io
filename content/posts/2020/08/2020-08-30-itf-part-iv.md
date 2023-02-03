@@ -10,7 +10,7 @@ categories:
   - Maven
   - Integration Testing Framework
 ---
-In the [prevous part of the series - Maven Plugin Testing - In a Modern way - Part III](https://blog.soebes.de/blog/2020/08/26/itf-part-iii/)
+In the [prevous part of the series - Maven Plugin Testing - In a Modern way - Part III](https://blog.soebes.io/posts/2020/08/2020-08-25-itf-part-iii/)
 we have seen how to define command line options. In this part we will take a 
 deeper look which goals will run for each test case and how we can change that.
 

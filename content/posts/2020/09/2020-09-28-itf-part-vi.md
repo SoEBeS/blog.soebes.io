@@ -10,7 +10,7 @@ categories:
   - Maven
   - Integration Testing Framework
 ---
-In the [previous part of the series - Maven Plugin Testing - In a Modern way - Part V](https://blog.soebes.de/blog/2020/09/10/itf-part-v/)
+In the [previous part of the series - Maven Plugin Testing - In a Modern way - Part V](https://blog.soebes.io/posts/2020/09/2020-09-10-itf-part-v/)
 we have seen how to define system properties to run Maven. In this part we will take a 
 deeper look how we can define profile(s) for a Maven call to be used.
 
