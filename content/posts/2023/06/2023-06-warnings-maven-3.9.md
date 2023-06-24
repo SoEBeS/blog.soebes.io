@@ -27,7 +27,7 @@ are intended for the plugin maintainers/authors, because that means those plugin
 are using old API's or out-of-date artifacts or missing other things. The reason
 for that is that those old API's etc. are not supported in future Apache Maven Versions.
 This means starting with Maven 4 those plugins will not work anymore. Currently only
-alpha versions are available (https://maven.apache.org/docs/history.html#maven-4-0), but
+[alpha versions are available](https://maven.apache.org/docs/history.html#maven-4-0), but
 that would mean those plugins will not continue to work.
 
 To reassure you as a user, the maintainers and authors of the plugins are required to bring 
