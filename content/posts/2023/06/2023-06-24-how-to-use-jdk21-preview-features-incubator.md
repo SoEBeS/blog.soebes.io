@@ -184,17 +184,17 @@ WARNING: Dynamic loading of agents will be disallowed by default in a future rel
 This makes it necessary to add the supplemental configuration `-XX:+EnableDynamicAgentLoading` to your 
 maven-surefire-plugin configuration like this:
 ```xml
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-surefire-plugin</artifactId>
-        <configuration>
-          <argLine>
-            --enable-preview
-            --add-modules jdk.incubator.vector
-            -XX:+EnableDynamicAgentLoading
-          </argLine>
-        </configuration>
-      </plugin>
+<plugin>
+  <groupId>org.apache.maven.plugins</groupId>
+  <artifactId>maven-surefire-plugin</artifactId>
+  <configuration>
+    <argLine>
+      --enable-preview
+      --add-modules jdk.incubator.vector
+      -XX:+EnableDynamicAgentLoading
+    </argLine>
+  </configuration>
+</plugin>
 ```
 
 A full working example which obviously requires JDK21 most recent EA build can be found here:
