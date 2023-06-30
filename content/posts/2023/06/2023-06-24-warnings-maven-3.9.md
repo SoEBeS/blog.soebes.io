@@ -140,14 +140,13 @@ Ok, the last plugin reported is the `exec-maven-plugin`:
 The `exec-maven-plugin` uses "only" the wrong scope for some dependencies fortunately there
 exists a newer version (3.1.0) of the [exec-maven-plugin](https://www.mojohaus.org/exec-maven-plugin/).
 
-So if you see such warning you might help the whole community by reporting such issues to the
-plugin maintainer/author if not yet reported to make them aware about the issue. That makes 
-sure that those plugins continue to work with Apache Maven 4.
-
 *Update*: 
-* Starting with Maven 3.9.3 you should activate those warning if you are interested in checking
+Starting with Maven 3.9.3 you should activate those warning if you are interested in checking
 the plugins in your build. You can simply achieve that by using the following command line execution:
-+
+
 ```bash
 mvn verify -Dmaven.plugin.validation=VERBOSE
 ```
+So if you see such warning you might help the whole community by reporting such issues to the
+plugin maintainer/author if not yet reported to make them aware about the issue. That makes
+sure that those plugins continue to work with Apache Maven 4.
