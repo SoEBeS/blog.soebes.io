@@ -7,7 +7,7 @@ categories:
   - maven-plugins
 ---
 You might be surprised that all of a sudden that some WARNINGs are being emitted by your Maven
-build (at the end) like the following:
+build (at the end; Starting with Maven 3.9.1 and 3.9.2) like the following:
 ```
 ...
 [INFO] Finished at: 2023-06-24T20:14:18+02:00
@@ -143,3 +143,11 @@ exists a newer version (3.1.0) of the [exec-maven-plugin](https://www.mojohaus.o
 So if you see such warning you might help the whole community by reporting such issues to the
 plugin maintainer/author if not yet reported to make them aware about the issue. That makes 
 sure that those plugins continue to work with Apache Maven 4.
+
+*Update*: 
+* Starting with Maven 3.9.3 you should activate those warning if you are interested in checking
+the plugins in your build. You can simply achieve that by using the following command line execution:
++
+```bash
+mvn verify -Dmaven.plugin.validation=VERBOSE
+```
