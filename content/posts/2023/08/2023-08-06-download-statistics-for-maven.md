@@ -1,7 +1,7 @@
 ---
 title: "Analysing Download Statistics for Apache Maven"
-date: 2023-08-06T13:20:30
-lastmod: 2023-08-06T13:20:30
+date: 2023-08-06T12:20:30
+lastmod: 2023-08-06T12:20:30
 categories:
   - maven-core
   - maven-plugins
