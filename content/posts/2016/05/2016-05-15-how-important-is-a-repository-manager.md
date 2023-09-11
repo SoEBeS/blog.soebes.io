@@ -34,14 +34,14 @@ The following chart gives you an impression of the trend over the last year.
 | 10.2015 | 16,477,754|
 | 11.2015 | 16,404,231|
 | 12.2015 | 19,106,721|
-| 01.2016 | 19,607,497|
+| 01.2016 | 19,607,497|
 | 02.2016 | 21,419,699|
-| 03.2016 | 27,469,986| 
+| 03.2016 | 27,469,986| 
 | 04.2016 | 28,933,147|
 ```
 
 What are the consequences for you as a consumer of Maven Central? You should
-think about the load you are continously producing on the infrastructure of 
+think about the load you are continuously producing on the infrastructure of 
 [Maven Central][maven-central-infrastructure].
 
 But now the question arises what can you do? The simple answer is: 
@@ -62,7 +62,7 @@ A long time ago in a galaxy far far away...
 ```
 
 What does this mean? Simply if Maven Central might be down or vanishes away some time
-in the furture you have your own repository manager with all the artifacts needed 
+in the future you have your own repository manager with all the artifacts needed 
 to build your own artifacts within your network.
 
 There are [a few rules to use Maven Central to keep the stability of Maven Central][central-faq].
