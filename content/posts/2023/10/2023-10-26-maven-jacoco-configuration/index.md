@@ -383,7 +383,7 @@ I will emphasize the `@{argLine}` in the above configuration. I would suggest to
 the beginning of the configuration parts.
 
 So if you like to look into a real project setup I can recommend the example project which I have created on
-Github
+[Github](https://github.com/khmarbaise/example-jacoco)
 
 
 [maven-surefire-plugin]: https://maven.apache.org/plugins/maven-surefire-plugin/
