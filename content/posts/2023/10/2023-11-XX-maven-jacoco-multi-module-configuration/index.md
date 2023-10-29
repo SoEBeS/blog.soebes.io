@@ -16,5 +16,16 @@ article will goto the configuration for a multi module build.
 
 # Solutions
 ## Separate Report Module
+
+* Pros 
+  * It works
+* Cons
+  * You have to maintain the dependencies
+    * If you have a larger number of modules it could become a challenge
+
 ## Using existing Module
+
+
 # Another?
+* Check for https://www.jacoco.org/jacoco/trunk/doc/report-aggregate-mojo.html
+  * Might that be a solution?
