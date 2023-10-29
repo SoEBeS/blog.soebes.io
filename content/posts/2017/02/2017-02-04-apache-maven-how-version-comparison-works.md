@@ -178,4 +178,4 @@ Display parameters as parsed by Maven (in canonical form) and comparison result:
 
 
 [history]: https://maven.apache.org/docs/history.html#Maven_2
-[maven-release-325]: https://maven.apache.org/docs/ Release 3.2.5
+[maven-release-325]: https://maven.apache.org/docs/3.2.5/release-notes.html
