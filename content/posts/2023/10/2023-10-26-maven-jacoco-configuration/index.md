@@ -82,7 +82,7 @@ executed by the [maven-failsafe-plugin][maven-failsafe-plugin].
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-surefire-plugin</artifactId>
-          <version>3.1.2</version>
+          <version>3.2.2</version>
           <configuration>
             <skipTests>${skipUTs}</skipTests>
           </configuration>
@@ -90,7 +90,7 @@ executed by the [maven-failsafe-plugin][maven-failsafe-plugin].
         <plugin>
           <groupId>org.apache.maven.plugins</groupId>
           <artifactId>maven-failsafe-plugin</artifactId>
-          <version>3.1.2</version>
+          <version>3.2.2</version>
           <configuration>
             <skipTests>${skipITs}</skipTests>
           </configuration>
