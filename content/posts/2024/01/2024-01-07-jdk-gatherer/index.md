@@ -16,8 +16,8 @@ already cover a lot of things, but sometimes there are situations, where it's no
 produce code, which is hard to read (more accurate hard to understand). The first thought could be to request an enhancement 
 of the Collectors in the JDK itself, but that would mean to add more methods on the collectors which already has 44 
 methods (If I have counted correctly). Apart from having a problem, which is so specific so it's worth to add that to the
-JDK itself. So it might be a better solution to give the users a way to enhance the Stream API based on the their own 
-needs. That is also the summary of the [JEP 461][jep-461]:
+JDK itself(I have my doubts about that). So it might be a better solution to give the users a way to enhance the Stream 
+API based on the their own needs. That is also the summary of the [JEP 461][jep-461]:
 
 > Enhance the Stream API to support custom intermediate operations.
 > This will allow stream pipelines to transform data in ways that are not easily achievable
@@ -199,7 +199,7 @@ that's when the `initializer` comes into the play. Or the `state` within the `in
 thing to *remember* is exactly the intention of the `initializer`, which creates such memory while the `state` is the
 access to that memory. The implementation looks like this:
 ```java
-private static <T, A> Gatherer<T, ?, T> distinctBy(Function<? super T, ? extends A> classifier) {
+static <T, A> Gatherer<T, ?, T> distinctBy(Function<? super T, ? extends A> classifier) {
   Supplier<HashMap<A, List<T>>> initializer = HashMap::new;
   //
   Gatherer.Integrator<HashMap<A, List<T>>, T, T> integrator = (state, element, downstream) -> {
