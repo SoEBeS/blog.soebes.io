@@ -14,17 +14,15 @@ practice to fix such [code smells](http://www.codinghorror.com/blog/2006/05/code
 But sometimes if I take a deeper look into a [Maven](http://maven.apache.org/) build I can observe things 
 like *Build Smells* which could produce problems in future but not need to. 
 
-<!-- more -->
-
 So the best practice for *Code Smells* as well as *Build Smells* is to fix such things as soon as possible. Let us start
 with simple example on the first glance.
 
-#The Distribution#
+# The Distribution
 
 It´s often the case that you like to create a kind of distribution package which contains the created artifacts. Apart 
-from that it is sometimes also usefull having supplemental files into such distribution packages as well.
+from that it is sometimes also useful having supplemental files into such distribution packages as well.
 
-#The Obvious Solution#
+# The Obvious Solution
 
 Let us assume having two modules which you like to package into the final zip distribution archive.
 This will bring you to use the [maven-assembly-plugin](http://maven.apache.org/plugins/maven-assembly-plugin) with
@@ -116,7 +114,7 @@ If you have the right pom file in the parent which will look like this then your
   <parent>
     <groupId>com.soebes.smpp</groupId>
     <artifactId>smpp</artifactId>
-    <version>0.6.2</version>
+    <version>6.0.5</version>
   </parent>
 
   <groupId>org.test.parent</groupId>
@@ -124,10 +122,6 @@ If you have the right pom file in the parent which will look like this then your
   <version>1.0.0-SNAPSHOT</version>
 
   <packaging>pom</packaging>
-
-  <properties>
-    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-  </properties>
 
   <name>Packaging Test</name>
 
@@ -142,11 +136,11 @@ If you have the right pom file in the parent which will look like this then your
 The full code of the example can be found on [github](https://github.com/khmarbaise/assembly-examples) in the folder `assemblies-with-files`.
 
 
-#The Build Smells#
+# The Build Smells
 
 Let us dive into the build and see if we find some kind of *Build Smells*. 
 
-##The Order Smell##
+## The Order Smell
 
 The first smell can be found if you change the order of the modules in the parent pom file from this:
 
@@ -220,7 +214,7 @@ modules you would like to pack into your distribution package like this:
 With this change it does not matter in which order you have defined the modules in your parent pom. Maven will calculate the reactor build order
 automatically.
 
-##The Assembly Descriptor File Smell##
+## The Assembly Descriptor File Smell
 
 If we remember back to the maven-assembly-plugin descriptor which looks like this:
 
