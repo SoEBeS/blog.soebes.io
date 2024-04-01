@@ -421,10 +421,10 @@ And exemplified by a child module (`domain`):
 ## Different Properties
 Some will ask themself, could we use other properties than the used `revision` in the previous examples?
 Technically there are three properties available `revision` (already mentioned), `sha1` and `changelist`. The usage
-and rules are the same as for `revision`. So you can create a combination like this  
-`<version>${revision}${sha1}${changelist}</version>`. My recommendation is, use only a single one and that is the `revision`
-property. In the end it's your decision, which way you go with that. But to make things clear, you can **NOT** use
-other properties except the mentioned `revision`, `sha1` and `changelist`.
+and rules are the same as for `revision`. So you can create a combination like this `<version>${revision}${sha1}${changelist}</version>`. 
+My recommendation is, use only a single one and that is the `revision` property. In the end it's your decision, which way
+you go with that. But to make things clear, you can **NOT** use other properties except the mentioned `revision`, `sha1` 
+and `changelist`.
 
 ## Maven Configuration File
 In contradiction to the previous approach, you can define the `${revision}` in a different manner. You have to create
