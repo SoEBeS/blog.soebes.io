@@ -8,9 +8,9 @@ categories:
   - Maven4
 ---
 # Overview
-This is the first article in this series about Apache Maven 4. Currently Apache Maven 4 is in alpha state (alpha-13). 
-You can already download it and of course use it (I recommend to test things to see, if something strange happens. If 
-you find problems, please report them) but I would not recommend to use it in production in the current stage.
+This is the first article in this series about Apache Maven 4. Currently Apache Maven 4 is in alpha state (alpha-13). You
+can already [download][mvn-download] it and of course use it (I recommend to test things to see, if something strange happens. If 
+you find problems, [please report them][[jira-apache]]) but I would not recommend to use it in production in the current stage.
 
 Let us start with a basic example of a Maven POM file which looks similar like this (For the sake of clarity no 
 dependencies defined):
@@ -462,6 +462,7 @@ file, is not needed anymore. One of the things missing here, is the support of t
 Git during the release creation, but that can be accomplished by adding some steps in your CI/CD pipeline.
 
 
+[mvn-download]: https://maven.apache.org/download.cgi
 [mvn-config]: https://maven.apache.org/docs/3.3.1/release-notes.html
 [maven-plugins]: https://maven.apache.org/plugins/
 [maven-install-plugin]: https://maven.apache.org/plugins/maven-install-plugin/
@@ -471,5 +472,4 @@ Git during the release creation, but that can be accomplished by adding some ste
 [flatten-maven-plugin]: https://www.mojohaus.org/flatten-maven-plugin/
 [ci-friendly]: https://maven.apache.org/maven-ci-friendly.html
 [versions-maven-plugin]: https://www.mojohaus.org/versions/versions-maven-plugin
-
 [jira-apache]: https://selfserve.apache.org/jira-account.html
