@@ -10,7 +10,7 @@ categories:
 # Overview
 This is the first article in this series about Apache Maven 4. Currently Apache Maven 4 is in alpha state (alpha-13). You
 can already [download][mvn-download] it and of course use it (I recommend to test things to see, if something strange happens. If 
-you find problems, [please report them][[jira-apache]]) but I would not recommend to use it in production in the current stage.
+you find problems, [please report them][jira-apache]) but I would not recommend to use it in production in the current stage.
 
 Let us start with a basic example of a Maven POM file which looks similar like this (For the sake of clarity no 
 dependencies defined):
