@@ -39,17 +39,34 @@ weight = -107
   weight = 1
   url = "https://github.com/khmarbaise"
 [[social]]
-  name = "twitter"
+  name = "mastodon"
   weight = 2
-  url = "https://twitter.com/khmarbaise"
+  url = "https://mastodon.social/@khmarbaise"
+[[social]]
+  name = "youtube"
+  weight = 3
+  url = "https://youtube.com/@khmarbaise"
+[[social]]
+  name = "bluesky"
+  url = "https://bsky.app/profile/khmarbaise.bsky.social"
+  weight = 4
 [[social]]
   name = "linkedin"
-  weight = 3
-  url = "https://www.linkedin.com/in/#"
+  weight = 5
+  url = "https://www.linkedin.com/in/karl-heinz-marbaise-17a15614"
+[[social]]
+  name = "instagram"
+  weight = 6
+  url = "https://www.instagram.com/khmarbaise/"
 [[social]]
   name = "rss"
-  weight = 4
+  weight = 7
   url = "index.xml"
+#[[social]]
+#  name = "twitter"
+#  weight = 10
+#  url = "https://twitter.com/khmarbaise"
+
 
 
 # other supported social links
