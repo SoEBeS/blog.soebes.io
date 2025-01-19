@@ -1,7 +1,7 @@
 ---
 title: "How Important is a Repository Manager?"
 date: 2016-05-15T15:14:00
-lastmod: 2016-05-15T15:14
+lastmod: 2016-05-15T15:14:00
 categories:
   - Maven
   - Repository Manager

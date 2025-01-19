@@ -1,7 +1,7 @@
 ---
 title: "Clirr Maven Plugin Version 2.6.1 Released"
 date: 2013-11-25T20:05:00
-lastmod: 2013-11-25T20:05
+lastmod: 2013-11-25T20:05:00
 categories:
   - Maven
   - Maven-Plugin-Releases

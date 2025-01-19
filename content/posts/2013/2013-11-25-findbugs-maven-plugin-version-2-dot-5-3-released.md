@@ -1,7 +1,7 @@
 ---
 title: "FindBugs Maven Plugin Version 2.5.3 released"
 date: 2013-11-25T20:31:00
-lastmod: 2013-11-25T20:31
+lastmod: 2013-11-25T20:31:00
 categories:
   - Maven
   - Maven-Plugin-Releases

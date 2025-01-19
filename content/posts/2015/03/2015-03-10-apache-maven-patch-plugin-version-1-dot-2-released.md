@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Patch Plugin Version 1.2 Released"
 date: 2015-03-10T11:04:00
-lastmod: 2015-03-10T11:04
+lastmod: 2015-03-10T11:04:00
 categories:
   - Maven
   - Maven-Plugin-Releases

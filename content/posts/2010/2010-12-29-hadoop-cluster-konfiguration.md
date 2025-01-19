@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Cluster Konfiguration"
 date: 2010-12-29T17:07:00
-lastmod: 2010-12-29T17:07
+lastmod: 2010-12-29T17:07:00
 categories:
   - 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Version 3.3.9 Released"
 date: 2015-11-18T18:47:00
-lastmod: 2015-11-18T18:47
+lastmod: 2015-11-18T18:47:00
 categories:
   - Maven
   - Maven-Releases

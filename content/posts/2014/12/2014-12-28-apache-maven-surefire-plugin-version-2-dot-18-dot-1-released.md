@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Surefire Plugin Version 2.18.1 Released"
 date: 2014-12-28T21:44:00
-lastmod: 2014-12-28T21:44
+lastmod: 2014-12-28T21:44:00
 categories:
   - Maven
   - Maven-Plugin-Releases

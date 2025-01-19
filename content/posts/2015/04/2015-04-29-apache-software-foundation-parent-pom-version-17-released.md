@@ -1,7 +1,7 @@
 ---
 title: "Apache Software Foundation Parent POM Version 17 Released"
 date: 2015-04-29T20:57:00
-lastmod: 2015-04-29T20:57
+lastmod: 2015-04-29T20:57:00
 categories:
   - asf-poms
   - parent-poms

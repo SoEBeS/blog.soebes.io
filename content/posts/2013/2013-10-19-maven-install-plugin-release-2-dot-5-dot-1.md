@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Install Plugin - Release 2.5.1"
 date: 2013-10-19T15:25:00
-lastmod: 2013-10-19T15:25
+lastmod: 2013-10-19T15:25:00
 categories:
   - Maven
   - Maven-Plugin-Releases

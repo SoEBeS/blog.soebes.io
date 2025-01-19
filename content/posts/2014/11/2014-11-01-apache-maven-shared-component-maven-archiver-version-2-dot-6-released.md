@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Component - Maven Archiver Version 2.6 Released"
 date: 2014-11-01T13:44:00
-lastmod: 2014-11-01T13:44
+lastmod: 2014-11-01T13:44:00
 categories:
   - Maven
   - Maven-Shared

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Fluido Skin Version 1.4 Released"
 date: 2015-05-07T20:08:00
-lastmod: 2015-05-07T20:08
+lastmod: 2015-05-07T20:08:00
 categories:
   - Maven
   - Maven-Plugin-Releases

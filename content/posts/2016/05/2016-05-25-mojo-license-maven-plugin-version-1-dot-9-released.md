@@ -1,7 +1,7 @@
 ---
 title: "MojoHaus License Maven Plugin Version 1.9 Released"
 date: 2016-05-25T10:58:00
-lastmod: 2016-05-25T10:58
+lastmod: 2016-05-25T10:58:00
 categories:
   - Maven
   - Maven-Plugin-Releases

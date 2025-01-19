@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Wagon Version 2.6 Released"
 date: 2014-01-02T19:44:00
-lastmod: 2014-01-02T19:44
+lastmod: 2014-01-02T19:44:00
 categories:
   - Maven
   - Maven-Releases

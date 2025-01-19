@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Resources Plugin Version 2.7 Released"
 date: 2014-10-02T19:52:00
-lastmod: 2014-10-02T19:52
+lastmod: 2014-10-02T19:52:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,7 @@
 ---
 title: "Mojo's Build Number Maven Plugin Version 1.3 Released"
 date: 2014-05-02T10:35:00
-lastmod: 2014-05-02T10:35
+lastmod: 2014-05-02T10:35:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,6 @@
 ---
 title: "JDK22 - Gatherer"
 date: 2024-01-06T17:53:30
-lastmod: 2024-01-06T17:53:30
 categories:
   - Java
   - JDK22

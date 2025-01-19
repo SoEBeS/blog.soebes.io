@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Plugin Tools Version 3.6.0 Released"
 date: 2018-11-01T13:30:00
-lastmod: 2018-11-01T13:30
+lastmod: 2018-11-01T13:30:00
 categories:
   - Maven
   - Maven-Plugin-Releases

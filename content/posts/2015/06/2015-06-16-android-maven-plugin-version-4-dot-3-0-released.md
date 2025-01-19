@@ -1,7 +1,7 @@
 ---
 title: "Android Maven Plugin Version 4.3.0 Released"
 date: 2015-06-16T18:48:00
-lastmod: 2015-06-16T18:48
+lastmod: 2015-06-16T18:48:00
 categories:
   - Android
   - Maven

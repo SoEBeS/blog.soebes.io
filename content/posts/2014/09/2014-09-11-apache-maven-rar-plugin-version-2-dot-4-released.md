@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven RAR Plugin Version 2.4 Released"
 date: 2014-09-11T22:32:00
-lastmod: 2014-09-11T22:32
+lastmod: 2014-09-11T22:32:00
 categories:
   - Maven
   - Maven-Plugin-Releases

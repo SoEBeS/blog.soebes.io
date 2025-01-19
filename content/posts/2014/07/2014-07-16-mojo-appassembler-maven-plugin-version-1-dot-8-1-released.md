@@ -1,7 +1,7 @@
 ---
 title: "Mojo Appassembler Maven Plugin Version 1.8.1 - Released"
 date: 2014-07-16T19:30:00
-lastmod: 2014-07-16T19:30
+lastmod: 2014-07-16T19:30:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,7 @@
 ---
 title: "Automate it - Be Lazy - Part I"
 date: 2018-07-21T10:00:00
-lastmod: 2018-07-21T10:00
+lastmod: 2018-07-21T10:00:00
 categories:
   - Maven
   - Automation

@@ -1,7 +1,7 @@
 ---
 title: "Java GForge SOAP Interface Release 0.0.7"
 date: 2007-07-08T12:57:00
-lastmod: 2007-07-08T12:57
+lastmod: 2007-07-08T12:57:00
 categories:
   - Java
   - Bug/Issue Tracking

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Jar Plugin Version 3.0.1 Released"
 date: 2016-06-10T22:15:00
-lastmod: 2016-06-10T22:15
+lastmod: 2016-06-10T22:15:00
 categories:
   - Maven
   - Maven-Plugin-Releases

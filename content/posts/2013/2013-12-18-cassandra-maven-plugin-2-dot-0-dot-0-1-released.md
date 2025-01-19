@@ -1,7 +1,7 @@
 ---
 title: "Cassandra Maven plugin 2.0.0-1 released"
 date: 2013-12-18T21:19:00
-lastmod: 2013-12-18T21:19
+lastmod: 2013-12-18T21:19:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven EJB Plugin Version 2.5 Released"
 date: 2015-01-16T09:08:00
-lastmod: 2015-01-16T09:08
+lastmod: 2015-01-16T09:08:00
 categories:
   - Maven
   - Maven-Plugin-Releases

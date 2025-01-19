@@ -1,7 +1,7 @@
 ---
 title: "Release 1.5 von GIT"
 date: 2007-02-28T07:22:00
-lastmod: 2007-02-28T07:22
+lastmod: 2007-02-28T07:22:00
 categories:
   - SKM
   - GIT

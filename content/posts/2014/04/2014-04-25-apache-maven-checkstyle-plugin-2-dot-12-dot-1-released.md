@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Checkstyle Plugin 2.12.1 Released"
 date: 2014-04-25T18:14:00
-lastmod: 2014-04-25T18:14
+lastmod: 2014-04-25T18:14:00
 categories:
   - Maven
   - Maven-Plugin-Releases

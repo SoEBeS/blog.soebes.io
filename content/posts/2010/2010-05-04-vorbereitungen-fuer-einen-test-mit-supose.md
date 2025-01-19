@@ -1,7 +1,7 @@
 ---
 title: "Vorbereitungen für einen Test mit SupoSE"
 date: 2010-05-04T21:41:00
-lastmod: 2010-05-04T21:41
+lastmod: 2010-05-04T21:41:00
 categories:
   - SKM
   - Subversion

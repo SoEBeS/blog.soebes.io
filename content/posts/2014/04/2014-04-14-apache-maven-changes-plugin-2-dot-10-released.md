@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Changes Plugin 2.10 Released"
 date: 2014-04-14T21:56:00
-lastmod: 2014-04-14T21:56
+lastmod: 2014-04-14T21:56:00
 categories:
   - Maven
   - Maven-Plugin-Releases

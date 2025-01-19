@@ -1,7 +1,7 @@
 ---
 title: "JDK9: Howto Create A Java Run-Time Image With Maven?"
 date: 2017-06-06T20:15:00
-lastmod: 2017-06-06T20:15
+lastmod: 2017-06-06T20:15:00
 categories:
   - Maven
   - JDK9

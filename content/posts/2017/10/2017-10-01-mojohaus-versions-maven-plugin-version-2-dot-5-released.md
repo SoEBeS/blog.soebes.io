@@ -1,7 +1,7 @@
 ---
 title: "MojoHaus Version Maven Plugin Version 2.5 Released"
 date: 2017-10-01T12:30:00
-lastmod: 2017-10-01T12:30
+lastmod: 2017-10-01T12:30:00
 categories:
   - Maven
   - Maven-Plugin-Releases

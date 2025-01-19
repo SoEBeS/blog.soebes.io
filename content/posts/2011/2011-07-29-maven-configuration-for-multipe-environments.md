@@ -1,7 +1,7 @@
 ---
 title: "Maven: Configuration For Multipe Environments"
 date: 2011-07-29T09:20:00
-lastmod: 2011-07-29T09:20
+lastmod: 2011-07-29T09:20:00
 categories:
   - Maven
   - Maven Best Practice

@@ -1,7 +1,7 @@
 ---
 title: "Bazaar Release 1.2 erschienen"
 date: 2008-03-17T01:11:00
-lastmod: 2008-03-17T01:11
+lastmod: 2008-03-17T01:11:00
 categories:
   - SKM
   - Bazaar

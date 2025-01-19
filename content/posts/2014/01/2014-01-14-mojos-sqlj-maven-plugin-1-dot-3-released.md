@@ -1,7 +1,7 @@
 ---
 title: "Mojo's SQLJ Maven Plugin 1.3 - Released"
 date: 2014-01-14T22:51:00
-lastmod: 2014-01-14T22:51
+lastmod: 2014-01-14T22:51:00
 categories:
   - Maven
   - Maven-Plugin-Releases

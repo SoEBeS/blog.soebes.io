@@ -1,7 +1,7 @@
 ---
 title: "Maven: How To Create a Release"
 date: 2016-08-08T08:15:00
-lastmod: 2016-08-08T08:15
+lastmod: 2016-08-08T08:15:00
 categories:
   - Maven
   - Maven Best Practice

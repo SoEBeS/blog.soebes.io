@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Utils Version 0.9 Released"
 date: 2015-09-21T08:22:00
-lastmod: 2015-09-21T08:22
+lastmod: 2015-09-21T08:22:00
 categories:
   - Maven
   - Maven-Shared

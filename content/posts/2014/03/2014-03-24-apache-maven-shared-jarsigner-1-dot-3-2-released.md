@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared JarSigner 1.3.2 - Released"
 date: 2014-03-24T09:06:00
-lastmod: 2014-03-24T09:06
+lastmod: 2014-03-24T09:06:00
 categories:
   - Maven
   - Maven-Shared

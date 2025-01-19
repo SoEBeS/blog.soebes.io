@@ -1,7 +1,7 @@
 ---
 title: "Maven 3.0.4 auf dem Weg..."
 date: 2011-12-06T19:58:00
-lastmod: 2011-12-06T19:58
+lastmod: 2011-12-06T19:58:00
 categories:
   - Maven
 ---

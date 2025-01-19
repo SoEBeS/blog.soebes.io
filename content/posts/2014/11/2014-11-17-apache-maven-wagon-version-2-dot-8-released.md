@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Wagon Version 2.8 Released"
 date: 2014-11-17T19:23:00
-lastmod: 2014-11-17T19:23
+lastmod: 2014-11-17T19:23:00
 categories:
   - Maven
   - Maven-Plugin-Releases

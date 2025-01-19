@@ -1,7 +1,7 @@
 ---
 title: "Iterator Maven Plugin Version 0.3 Released"
 date: 2014-07-23T12:51:00
-lastmod: 2014-07-23T12:51
+lastmod: 2014-07-23T12:51:00
 categories:
   - Maven
   - Maven-Plugin-Releases

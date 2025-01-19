@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared JarSigner Version 1.4 Released"
 date: 2015-01-21T21:01:00
-lastmod: 2015-01-21T21:01
+lastmod: 2015-01-21T21:01:00
 categories:
   - Maven
   - Maven-Shared

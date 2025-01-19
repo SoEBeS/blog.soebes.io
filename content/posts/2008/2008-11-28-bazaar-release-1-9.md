@@ -1,7 +1,7 @@
 ---
 title: "Bazaar Release 1.9"
 date: 2008-11-28T16:31:00
-lastmod: 2008-11-28T16:31
+lastmod: 2008-11-28T16:31:00
 categories:
   - SKM
   - DVCS

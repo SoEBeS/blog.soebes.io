@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven EJB Plugin Version 3.0.1 Released"
 date: 2018-05-09T21:12:00
-lastmod: 2018-05-09T21:12
+lastmod: 2018-05-09T21:12:00
 categories:
   - Maven
   - Maven-Plugin-Releases

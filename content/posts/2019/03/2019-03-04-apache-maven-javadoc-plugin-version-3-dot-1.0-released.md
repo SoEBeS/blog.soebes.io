@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven JavaDoc Plugin Version 3.1.0 Released"
 date: 2019-03-04T22:45:00
-lastmod: 2019-03-04T22:45
+lastmod: 2019-03-04T22:45:00
 categories:
   - Maven
   - Maven-Plugin-Releases

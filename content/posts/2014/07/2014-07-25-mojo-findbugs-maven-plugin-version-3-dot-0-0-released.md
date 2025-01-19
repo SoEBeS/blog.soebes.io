@@ -1,7 +1,7 @@
 ---
 title: "Mojo FindBugs Maven Plugin Version 3.0.0 Released"
 date: 2014-07-25T19:41:00
-lastmod: 2014-07-25T19:41
+lastmod: 2014-07-25T19:41:00
 categories:
   - Maven
   - Maven-Plugin-Releases

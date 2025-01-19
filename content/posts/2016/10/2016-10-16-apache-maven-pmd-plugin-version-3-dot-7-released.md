@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven PMD Plugin Version 3.7 Released"
 date: 2016-10-16T19:33:00
-lastmod: 2016-10-16T19:33
+lastmod: 2016-10-16T19:33:00
 categories:
   - Maven
   - Maven-Plugin-Releases

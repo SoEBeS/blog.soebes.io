@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Release Plugin - Release 2.4.2"
 date: 2013-10-28T20:35:00
-lastmod: 2013-10-28T20:35
+lastmod: 2013-10-28T20:35:00
 categories:
   - Maven
   - Maven-Plugin-Releases

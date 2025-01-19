@@ -1,7 +1,7 @@
 ---
 title: "Apache Software Foundation Parent POM Version 18 Released"
 date: 2016-05-19T23:30:00
-lastmod: 2016-05-19T23:30
+lastmod: 2016-05-19T23:30:00
 categories:
   - asf-poms
   - parent-poms

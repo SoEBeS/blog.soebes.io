@@ -1,7 +1,7 @@
 ---
 title: "Cargo Maven Plugin 1.4.5 Released"
 date: 2013-10-18T21:00:00
-lastmod: 2013-10-18T21:00
+lastmod: 2013-10-18T21:00:00
 categories:
   - Maven
   - Maven-Plugin-Releases

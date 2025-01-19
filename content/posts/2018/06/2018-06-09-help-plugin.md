@@ -1,7 +1,7 @@
 ---
 title: "Get the version of your Maven project on command line?"
 date: 2018-06-09T16:30:00
-lastmod: 2018-06-09T16:30
+lastmod: 2018-06-09T16:30:00
 categories:
   - Maven
   - Usage

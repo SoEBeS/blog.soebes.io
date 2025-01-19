@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven CheckStyle Plugin Version 2.15 Released"
 date: 2015-03-20T22:11:00
-lastmod: 2015-03-20T22:11
+lastmod: 2015-03-20T22:11:00
 categories:
   - Maven
   - Maven-Plugin-Releases

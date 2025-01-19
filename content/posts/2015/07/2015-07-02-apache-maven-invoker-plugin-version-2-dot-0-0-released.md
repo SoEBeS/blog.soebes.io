@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Invoker Plugin Version 2.0.0 Released"
 date: 2015-07-02T07:51:00
-lastmod: 2015-07-02T07:51
+lastmod: 2015-07-02T07:51:00
 categories:
   - Maven
   - Maven-Plugin-Releases

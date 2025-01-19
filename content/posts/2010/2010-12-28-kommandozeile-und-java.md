@@ -1,7 +1,7 @@
 ---
 title: "Kommandozeile und Java?"
 date: 2010-12-28T09:58:00
-lastmod: 2010-12-28T09:58
+lastmod: 2010-12-28T09:58:00
 categories:
   - Java
 ---

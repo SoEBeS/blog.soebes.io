@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Dependency Analyzer Version 1.9 Released"
 date: 2018-03-28T21:45:00
-lastmod: 2018-03-28T21:45
+lastmod: 2018-03-28T21:45:00
 categories:
   - Maven
   - Maven-Shared

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Wagon Version 2.10 Released"
 date: 2015-09-12T22:18:00
-lastmod: 2015-09-12T22:18
+lastmod: 2015-09-12T22:18:00
 categories:
   - Maven
   - Maven-Plugin-Releases

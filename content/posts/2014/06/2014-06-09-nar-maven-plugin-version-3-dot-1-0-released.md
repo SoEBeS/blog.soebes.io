@@ -1,7 +1,7 @@
 ---
 title: "Nar Maven Plugin Version 3.1.0 Released"
 date: 2014-06-09T13:01:00
-lastmod: 2014-06-09T13:01
+lastmod: 2014-06-09T13:01:00
 categories:
   - Maven
   - Maven-Plugin-Releases

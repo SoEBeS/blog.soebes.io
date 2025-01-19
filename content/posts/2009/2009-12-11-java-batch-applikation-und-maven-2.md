@@ -1,7 +1,7 @@
 ---
 title: "Java Batch Applikation und Maven 2"
 date: 2009-12-11T21:23:00
-lastmod: 2009-12-11T21:23
+lastmod: 2009-12-11T21:23:00
 categories:
   - Java
   - Maven

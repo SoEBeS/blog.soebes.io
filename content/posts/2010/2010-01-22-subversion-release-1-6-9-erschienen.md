@@ -1,7 +1,7 @@
 ---
 title: "Subversion Release 1.6.9 erschienen"
 date: 2010-01-22T09:29:00
-lastmod: 2010-01-22T09:29
+lastmod: 2010-01-22T09:29:00
 categories:
   - SKM
   - Subversion

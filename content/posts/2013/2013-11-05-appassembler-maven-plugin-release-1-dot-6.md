@@ -1,7 +1,7 @@
 ---
 title: "Appassembler Maven Plugin 1.6 released"
 date: 2013-11-05T20:02:00
-lastmod: 2013-11-05T20:02
+lastmod: 2013-11-05T20:02:00
 categories:
   - Maven
   - Maven-Plugin-Releases

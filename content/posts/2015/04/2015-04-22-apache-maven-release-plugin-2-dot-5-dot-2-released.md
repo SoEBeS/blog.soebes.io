@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Release Plugin Version 2.5.2 Released"
 date: 2015-04-22T23:00:00
-lastmod: 2015-04-22T23:00
+lastmod: 2015-04-22T23:00:00
 categories:
   - Maven
   - Maven-Plugin-Releases

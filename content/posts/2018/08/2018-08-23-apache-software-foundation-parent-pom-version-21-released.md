@@ -1,7 +1,7 @@
 ---
 title: "Apache Software Foundation Parent POM Version 21 Released"
 date: 2018-08-23T09:23:00
-lastmod: 2018-08-23T09:23
+lastmod: 2018-08-23T09:23:00
 categories:
   - asf-poms
   - parent-poms

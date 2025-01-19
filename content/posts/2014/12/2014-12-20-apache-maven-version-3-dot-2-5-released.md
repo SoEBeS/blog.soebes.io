@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Version 3.2.5 Released"
 date: 2014-12-20T12:06:00
-lastmod: 2014-12-20T12:06
+lastmod: 2014-12-20T12:06:00
 categories:
   - Maven
   - Maven-Release

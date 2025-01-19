@@ -1,7 +1,7 @@
 ---
 title: "End Of Life Apache Maven 2.x"
 date: 2014-02-19T22:17:00
-lastmod: 2014-02-19T22:17
+lastmod: 2014-02-19T22:17:00
 categories:
   - Maven
 ---

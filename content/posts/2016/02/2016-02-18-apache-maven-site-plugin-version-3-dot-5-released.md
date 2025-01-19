@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Site Plugin Version 3.5 Released"
 date: 2016-02-18T08:01:00
-lastmod: 2016-02-18T08:01
+lastmod: 2016-02-18T08:01:00
 categories:
   - Maven
   - Maven-Plugin-Releases

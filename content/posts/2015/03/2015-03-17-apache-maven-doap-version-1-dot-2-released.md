@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven DOAP Version 1.2 Released"
 date: 2015-03-17T20:44:00
-lastmod: 2015-03-17T20:44
+lastmod: 2015-03-17T20:44:00
 categories:
   - Maven
   - Maven-Plugin-Releases

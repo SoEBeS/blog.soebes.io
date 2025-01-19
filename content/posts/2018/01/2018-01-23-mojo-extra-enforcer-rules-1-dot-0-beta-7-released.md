@@ -1,7 +1,7 @@
 ---
 title: "MojoHaus Extra Enforcer Rules 1.0-beta-7 Released"
 date: 2018-01-23T20:35:00
-lastmod: 2018-01-23T20:35
+lastmod: 2018-01-23T20:35:00
 categories:
   - Maven
   - Maven-Plugin-Releases

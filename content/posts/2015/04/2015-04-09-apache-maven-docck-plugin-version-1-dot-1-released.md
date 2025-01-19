@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven DOCCK Plugin Version 1.1 Released"
 date: 2015-04-09T09:43:00
-lastmod: 2015-04-09T09:43
+lastmod: 2015-04-09T09:43:00
 categories:
 ---
 The Apache Maven team is pleased to announce the release of the 

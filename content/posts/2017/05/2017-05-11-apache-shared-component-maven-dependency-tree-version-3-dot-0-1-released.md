@@ -1,7 +1,7 @@
 ---
 title: "Apache Shared Component: Maven Dependency Tree Version 3.0.1 Released"
 date: 2017-05-11T21:10:00
-lastmod: 2017-05-11T21:10
+lastmod: 2017-05-11T21:10:00
 categories:
   - Maven
   - Maven-Shared

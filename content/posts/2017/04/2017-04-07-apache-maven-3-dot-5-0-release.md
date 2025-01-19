@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven 3.5.0 Release"
 date: 2017-04-07T23:34:00
-lastmod: 2017-04-07T23:34
+lastmod: 2017-04-07T23:34:00
 categories:
   - Maven
   - Maven Best Practice

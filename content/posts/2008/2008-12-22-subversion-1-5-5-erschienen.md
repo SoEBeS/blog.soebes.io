@@ -1,7 +1,7 @@
 ---
 title: "Subversion 1.5.5 - Erschienen"
 date: 2008-12-22T22:34:00
-lastmod: 2008-12-22T22:34
+lastmod: 2008-12-22T22:34:00
 categories:
   - SKM
   - Subversion

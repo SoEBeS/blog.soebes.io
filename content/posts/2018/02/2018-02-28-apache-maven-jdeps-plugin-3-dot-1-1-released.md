@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven JDeps Plugin 3.1.1 Released"
 date: 2018-02-28T23:15:00
-lastmod: 2018-02-28T23:15
+lastmod: 2018-02-28T23:15:00
 categories:
   - Maven
   - Maven-Plugin-Releases

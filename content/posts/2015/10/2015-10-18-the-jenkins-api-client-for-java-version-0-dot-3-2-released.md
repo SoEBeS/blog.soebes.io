@@ -1,7 +1,7 @@
 ---
 title: "The Jenkins API Client for Java Version 0.3.2 Released"
 date: 2015-10-18T19:31:00
-lastmod: 2015-10-18T19:31
+lastmod: 2015-10-18T19:31:00
 categories:
 ---
 We have released a new version of the [`The Jenkins API client for Java`][1].

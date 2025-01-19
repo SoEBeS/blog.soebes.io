@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Component - Maven Archiver Version 3.2.0 Released"
 date: 2017-08-13T12:15:00
-lastmod: 2017-08-13T12:15
+lastmod: 2017-08-13T12:15:00
 categories:
   - Maven
   - Maven-Shared

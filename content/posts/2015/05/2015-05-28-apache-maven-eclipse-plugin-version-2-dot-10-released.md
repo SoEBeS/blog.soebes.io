@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Eclipse Plugin Version 2.10 Released"
 date: 2015-05-28T08:01:00
-lastmod: 2015-05-28T08:01
+lastmod: 2015-05-28T08:01:00
 categories:
   - Maven
   - Maven-Plugin-Releases

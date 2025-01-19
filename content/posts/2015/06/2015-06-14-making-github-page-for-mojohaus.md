@@ -1,7 +1,7 @@
 ---
 title: "Making GitHub Page for MojoHaus Plugins"
 date: 2015-06-12T08:09:00
-lastmod: 2015-06-12T08:09
+lastmod: 2015-06-12T08:09:00
 categories:
   - MojoHaus
   - Github

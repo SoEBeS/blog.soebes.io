@@ -1,7 +1,7 @@
 ---
 title: "Mojo flatten-maven-plugin Version 1.0.0-beta-3 Released"
 date: 2014-11-20T22:34:00
-lastmod: 2014-11-20T22:34
+lastmod: 2014-11-20T22:34:00
 categories:
   - Maven
   - Maven-Plugin-Releases

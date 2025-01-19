@@ -1,7 +1,7 @@
 ---
 title: "Apache Common POM Version 15 Released"
 date: 2014-09-28T13:22:00
-lastmod: 2014-09-28T13:22
+lastmod: 2014-09-28T13:22:00
 categories:
   - asf-poms
   - parent-poms

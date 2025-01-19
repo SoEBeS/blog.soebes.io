@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Compiler Plugin Version 3.2 Released"
 date: 2014-10-13T20:19:00
-lastmod: 2014-10-13T20:19
+lastmod: 2014-10-13T20:19:00
 categories:
   - Maven
   - Maven-Plugin-Releases

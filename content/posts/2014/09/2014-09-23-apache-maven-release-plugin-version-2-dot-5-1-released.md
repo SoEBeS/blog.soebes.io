@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Release Plugin Version 2.5.1 Released"
 date: 2014-09-23T06:59:00
-lastmod: 2014-09-23T06:59
+lastmod: 2014-09-23T06:59:00
 categories:
   - Maven
   - Maven-Plugin-Releases

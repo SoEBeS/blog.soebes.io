@@ -1,7 +1,7 @@
 ---
 title: "Version Informations Into Your Apps With Maven"
 date: 2014-01-02T19:08:00
-lastmod: 2014-01-02T19:08
+lastmod: 2014-01-02T19:08:00
 categories:
   - Maven
   - Maven Best Practice

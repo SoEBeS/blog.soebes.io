@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Version 3.2.3 Released"
 date: 2014-08-17T22:30:00
-lastmod: 2014-08-17T22:30
+lastmod: 2014-08-17T22:30:00
 categories:
 ---
 Hi!

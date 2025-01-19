@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Plugin Tools (including Maven Plugin) Version 3.3 Released"
 date: 2014-05-11T18:05:00
-lastmod: 2014-05-11T18:05
+lastmod: 2014-05-11T18:05:00
 categories:
   - Maven
   - Maven-Plugin-Releases

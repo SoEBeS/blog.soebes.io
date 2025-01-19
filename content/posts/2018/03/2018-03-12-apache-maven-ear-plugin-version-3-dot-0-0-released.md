@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven EAR Plugin Version 3.0.0 Released"
 date: 2018-03-09T22:00:00
-lastmod: 2018-03-09T22:00
+lastmod: 2018-03-09T22:00:00
 categories:
   - Maven
   - Maven-Plugin-Releases

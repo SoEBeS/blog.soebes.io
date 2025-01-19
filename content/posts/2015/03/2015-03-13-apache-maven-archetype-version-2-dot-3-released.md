@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Archetype 2.3 Released"
 date: 2015-03-13T23:47:00
-lastmod: 2015-03-13T23:47
+lastmod: 2015-03-13T23:47:00
 categories:
   - Maven
   - Maven-Plugin-Releases

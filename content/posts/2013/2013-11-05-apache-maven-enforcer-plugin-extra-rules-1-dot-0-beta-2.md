@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Enforcer Plugin - Extra Rules 1.0-beta-2"
 date: 2013-11-05T19:37:00
-lastmod: 2013-11-05T19:37
+lastmod: 2013-11-05T19:37:00
 categories:
   - Maven
   - Maven-Plugin-Releases

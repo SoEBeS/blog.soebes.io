@@ -1,7 +1,7 @@
 ---
 title: "Maven 3.1.1 Released"
 date: 2013-10-05T14:22:00
-lastmod: 2013-10-05T14:22
+lastmod: 2013-10-05T14:22:00
 categories:
   - Maven
   - Maven-Releases

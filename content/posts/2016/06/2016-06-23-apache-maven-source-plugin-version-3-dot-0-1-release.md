@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Source Plugin Version 3.0.1 Released"
 date: 2016-06-23T19:14:00
-lastmod: 2016-06-23T19:14
+lastmod: 2016-06-23T19:14:00
 categories:
   - Maven
   - Maven-Plugin-Releases

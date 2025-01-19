@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Surefire Version 2.18 Released"
 date: 2014-11-08T13:15:00
-lastmod: 2014-11-08T13:15
+lastmod: 2014-11-08T13:15:00
 categories:
   - Maven
   - Maven-Plugin-Releases

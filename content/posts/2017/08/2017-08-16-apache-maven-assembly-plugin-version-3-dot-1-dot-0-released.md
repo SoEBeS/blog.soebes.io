@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Assembly Plugin Version 3.1.0 Released"
 date: 2017-08-16T21:02:00
-lastmod: 2017-08-16T21:02
+lastmod: 2017-08-16T21:02:00
 categories:
   - Maven
   - Maven-Plugin-Releases

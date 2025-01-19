@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Enforcer Version 1.4 Released"
 date: 2015-01-29T21:09:00
-lastmod: 2015-01-29T21:09
+lastmod: 2015-01-29T21:09:00
 categories:
   - Maven
   - Maven-Plugin-Releases

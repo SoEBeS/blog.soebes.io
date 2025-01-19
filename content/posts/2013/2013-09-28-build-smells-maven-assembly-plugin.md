@@ -1,7 +1,7 @@
 ---
 title: "Build Smells - Maven Assembly Plugin"
 date: 2013-09-28T14:00:00
-lastmod: 2013-09-28T14:00
+lastmod: 2013-09-28T14:00:00
 categories:
   - Maven
   - Maven Best Practice

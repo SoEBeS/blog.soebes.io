@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Verifier Plugin Version 1.1 Released"
 date: 2015-04-15T07:55:00
-lastmod: 2015-04-15T07:55
+lastmod: 2015-04-15T07:55:00
 categories:
   - Maven
   - Maven-Plugin-Releases

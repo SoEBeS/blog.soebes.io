@@ -1,7 +1,7 @@
 ---
 title: "Apache Shared Component: Maven Dependency Analyzer version 1.5 Released"
 date: 2014-09-14T19:02:00
-lastmod: 2014-09-14T19:02
+lastmod: 2014-09-14T19:02:00
 categories:
   - Maven
   - Maven-Shared

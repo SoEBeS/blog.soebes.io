@@ -1,7 +1,7 @@
 ---
 title: "Mojo's RPM Maven Plugin Version 2.1-alpha-4 Released"
 date: 2014-05-01T10:41:00
-lastmod: 2014-05-01T10:41
+lastmod: 2014-05-01T10:41:00
 categories:
   - Maven
   - Maven-Plugin-Releases

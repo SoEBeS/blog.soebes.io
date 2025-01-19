@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Compiler Plugin Version 3.5.1 Released"
 date: 2016-02-09T20:48:00
-lastmod: 2016-02-09T20:48
+lastmod: 2016-02-09T20:48:00
 categories:
   - Maven
   - Maven-Plugin-Releases

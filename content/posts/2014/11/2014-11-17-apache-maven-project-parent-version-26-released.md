@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Project Parent Version 26 Released"
 date: 2014-11-17T21:17:00
-lastmod: 2014-11-17T21:17
+lastmod: 2014-11-17T21:17:00
 categories:
   - Maven
   - parent-poms

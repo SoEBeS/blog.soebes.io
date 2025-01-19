@@ -1,7 +1,7 @@
 ---
 title: "Ruby on Rails mit Apache / Mongrels Cluster "
 date: 2009-04-03T12:49:00
-lastmod: 2009-04-03T12:49
+lastmod: 2009-04-03T12:49:00
 categories:
   - Redmine
 ---

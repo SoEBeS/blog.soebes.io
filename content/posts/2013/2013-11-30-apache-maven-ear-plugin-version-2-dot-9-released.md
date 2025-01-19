@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven EAR Plugin Version 2.9 Released"
 date: 2013-11-30T18:17:00
-lastmod: 2013-11-30T18:17
+lastmod: 2013-11-30T18:17:00
 categories:
   - Maven
   - Maven-Plugin-Releases

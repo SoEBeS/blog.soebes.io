@@ -1,7 +1,7 @@
 ---
 title: "Bazaar Release 1.18"
 date: 2009-08-22T21:01:00
-lastmod: 2009-08-22T21:01
+lastmod: 2009-08-22T21:01:00
 categories:
   - SKM
   - Bazaar

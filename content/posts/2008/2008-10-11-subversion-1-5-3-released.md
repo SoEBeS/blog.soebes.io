@@ -1,7 +1,7 @@
 ---
 title: "Subversion 1.5.3 - Released"
 date: 2008-10-11T11:08:00
-lastmod: 2008-10-11T11:08
+lastmod: 2008-10-11T11:08:00
 categories:
   - SKM
   - Subversion

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Remote Resources Plugin Version 1.6.0 Released"
 date: 2018-11-01T13:45:00
-lastmod: 2018-11-01T13:45
+lastmod: 2018-11-01T13:45:00
 categories:
   - Maven
   - Maven-Plugin-Releases

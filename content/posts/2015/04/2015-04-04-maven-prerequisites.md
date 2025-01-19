@@ -1,7 +1,7 @@
 ---
 title: "Maven Prerequisites?"
 date: 2015-04-04T12:10:00
-lastmod: 2015-04-04T12:10
+lastmod: 2015-04-04T12:10:00
 categories:
   - Maven
   - Maven Best Practice

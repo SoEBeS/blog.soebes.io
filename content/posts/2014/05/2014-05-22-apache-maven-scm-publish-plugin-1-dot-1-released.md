@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven SCM Publish Plugin 1.1 Released"
 date: 2014-05-22T18:49:00
-lastmod: 2014-05-22T18:49
+lastmod: 2014-05-22T18:49:00
 categories:
   - Maven
   - Maven-Plugin-Releases

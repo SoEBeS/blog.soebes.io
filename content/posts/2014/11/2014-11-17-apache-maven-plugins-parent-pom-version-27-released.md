@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Plugins Parent POM Version 27 Released"
 date: 2014-11-17T22:02:00
-lastmod: 2014-11-17T22:02
+lastmod: 2014-11-17T22:02:00
 categories:
   - Maven
   - Maven-Shared

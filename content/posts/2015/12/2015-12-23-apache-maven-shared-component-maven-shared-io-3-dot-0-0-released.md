@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Component: Maven Shared IO 3.0.0 Released"
 date: 2015-12-23T20:58:00
-lastmod: 2015-12-23T20:58
+lastmod: 2015-12-23T20:58:00
 categories:
   - Maven
   - Maven-Shared

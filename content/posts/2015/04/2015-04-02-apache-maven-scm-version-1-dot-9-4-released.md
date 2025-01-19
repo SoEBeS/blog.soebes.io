@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven SCM Version 1.9.4 Released"
 date: 2015-04-02T08:36:00
-lastmod: 2015-04-02T08:36
+lastmod: 2015-04-02T08:36:00
 categories:
   - Maven
   - Maven-Plugin-Releases

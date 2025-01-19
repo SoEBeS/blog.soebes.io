@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Install Plugin Version 3.0.0-M1 Released"
 date: 2018-10-01T17:45:00
-lastmod: 2018-10-01T17:45
+lastmod: 2018-10-01T17:45:00
 categories:
   - Maven
   - Maven-Plugin-Releases

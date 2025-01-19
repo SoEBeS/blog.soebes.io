@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven GPG Plugin - Release 1.5"
 date: 2014-02-25T23:35:00
-lastmod: 2014-02-25T23:35
+lastmod: 2014-02-25T23:35:00
 categories:
   - Maven
   - Maven-Plugin-Releases

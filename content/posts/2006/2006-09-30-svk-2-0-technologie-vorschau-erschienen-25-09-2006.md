@@ -1,7 +1,7 @@
 ---
 title: "SVK 2.0 Technologie Vorschau erschienen (25.09.2006)"
 date: 2006-09-30T12:35:00
-lastmod: 2006-09-30T12:35
+lastmod: 2006-09-30T12:35:00
 categories:
   - SKM
 ---

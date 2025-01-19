@@ -1,7 +1,7 @@
 ---
 title: "Apache Archiva 2.1.0"
 date: 2014-07-20T11:26:00
-lastmod: 2014-07-20T11:26
+lastmod: 2014-07-20T11:26:00
 categories:
   - Maven
 ---

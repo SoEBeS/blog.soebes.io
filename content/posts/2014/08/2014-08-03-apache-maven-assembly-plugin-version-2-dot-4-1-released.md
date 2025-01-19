@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Assembly Plugin Version 2.4.1 Released"
 date: 2014-08-03T21:08:00
-lastmod: 2014-08-03T21:08
+lastmod: 2014-08-03T21:08:00
 categories:
   - Maven
   - Maven-Plugin-Releases

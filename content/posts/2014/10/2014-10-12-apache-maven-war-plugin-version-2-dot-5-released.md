@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven WAR Plugin Version 2.5 Released"
 date: 2014-10-12T15:28:00
-lastmod: 2014-10-12T15:28
+lastmod: 2014-10-12T15:28:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven Shared Component - Maven Filtering Version 1.3 Released"
 date: 2014-10-19T17:00:00
-lastmod: 2014-10-19T17:00
+lastmod: 2014-10-19T17:00:00
 categories:
   - Maven
   - Maven-Shared

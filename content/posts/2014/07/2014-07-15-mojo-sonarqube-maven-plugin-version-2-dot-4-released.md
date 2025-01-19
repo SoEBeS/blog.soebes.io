@@ -1,7 +1,7 @@
 ---
 title: "Mojo SonarQube Maven Plugin Version 2.4 Released"
 date: 2014-07-15T18:38:00
-lastmod: 2014-07-15T18:38
+lastmod: 2014-07-15T18:38:00
 categories:
   - Maven
   - Maven-Plugin-Releases

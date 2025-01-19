@@ -1,7 +1,7 @@
 ---
 title: "Mojo License Maven Plugin Version 1.7 Released"
 date: 2014-05-08T19:31:00
-lastmod: 2014-05-08T19:31
+lastmod: 2014-05-08T19:31:00
 categories:
   - Maven
   - Maven-Plugin-Releases

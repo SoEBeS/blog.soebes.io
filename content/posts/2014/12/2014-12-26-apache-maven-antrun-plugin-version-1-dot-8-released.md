@@ -1,7 +1,7 @@
 ---
 title: "Apache Maven AntRun Plugin Version 1.8 Released"
 date: 2014-12-26T13:13:00
-lastmod: 2014-12-26T13:13
+lastmod: 2014-12-26T13:13:00
 categories:
   - Maven
   - Maven-Plugin-Releases

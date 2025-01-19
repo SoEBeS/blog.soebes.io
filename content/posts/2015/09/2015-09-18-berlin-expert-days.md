@@ -1,7 +1,7 @@
 ---
 title: "Berlin Expert Days"
 date: 2015-09-18T15:26:00
-lastmod: 2015-09-18T15:26
+lastmod: 2015-09-18T15:26:00
 categories:
   - Maven
 ---

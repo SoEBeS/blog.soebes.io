@@ -1,7 +1,7 @@
 ---
 title: "UpToDate Maven Plugin Version 0.1.0 Released"
 date: 2014-08-18T08:30:00
-lastmod: 2014-08-18T08:30
+lastmod: 2014-08-18T08:30:00
 categories:
   - Maven
   - Maven-Plugin-Releases

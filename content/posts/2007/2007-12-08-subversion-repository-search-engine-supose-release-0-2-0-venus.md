@@ -1,7 +1,7 @@
 ---
 title: "Subversion Repository Search Engine (SupoSE) Release 0.2.0 (Venus)"
 date: 2007-12-08T23:00:00
-lastmod: 2007-12-08T23:00
+lastmod: 2007-12-08T23:00:00
 categories:
   - Java
   - Subversion

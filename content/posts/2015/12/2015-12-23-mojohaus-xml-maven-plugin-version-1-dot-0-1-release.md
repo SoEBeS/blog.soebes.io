@@ -1,7 +1,7 @@
 ---
 title: "MojoHaus XML Maven Plugin Version 1.0.1 Released"
 date: 2015-12-23T21:15:00
-lastmod: 2015-12-23T21:15
+lastmod: 2015-12-23T21:15:00
 categories:
   - Maven
   - Maven-Plugin-Releases

@@ -1,7 +1,7 @@
 ---
 title: "MojoHaus JAX-WS Maven Plugin version 2.4 Released"
 date: 2015-11-14T20:05:00
-lastmod: 2015-11-14T20:05
+lastmod: 2015-11-14T20:05:00
 categories:
   - Maven
   - Maven-Plugin-Releases

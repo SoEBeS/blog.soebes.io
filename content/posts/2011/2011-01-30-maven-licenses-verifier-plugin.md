@@ -1,7 +1,7 @@
 ---
 title: "Maven Licenses Verifier Plugin"
 date: 2011-01-30T19:41:00
-lastmod: 2011-01-30T19:41
+lastmod: 2011-01-30T19:41:00
 categories:
   - Java
   - PlugIn

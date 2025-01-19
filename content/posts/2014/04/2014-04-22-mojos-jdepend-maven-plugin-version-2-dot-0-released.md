@@ -1,7 +1,7 @@
 ---
 title: "Mojo's JDepend Maven Plugin Version 2.0 - Released"
 date: 2014-04-22T21:33:00
-lastmod: 2014-04-22T21:33
+lastmod: 2014-04-22T21:33:00
 categories:
   - Maven
   - Maven-Plugin-Releases

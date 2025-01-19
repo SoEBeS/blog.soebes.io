@@ -1,7 +1,7 @@
 ---
 title: "Mojo RPM Maven Plugin Version 2.1.5 Released"
 date: 2016-02-21T16:01:00
-lastmod: 2016-02-21T16:01
+lastmod: 2016-02-21T16:01:00
 categories:
   - Maven
   - Maven-Plugin-Releases

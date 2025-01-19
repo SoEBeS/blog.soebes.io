@@ -1,7 +1,7 @@
 ---
 title: "Maven License Verifier Plugin - es wird langsam - 0.2 SNAPSHOT Verfügbar"
 date: 2010-02-19T19:59:00
-lastmod: 2010-02-19T19:59
+lastmod: 2010-02-19T19:59:00
 categories:
   - Java
   - Maven
