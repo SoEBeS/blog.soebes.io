@@ -2,16 +2,19 @@
 title: "About me"
 date: 2022-07-22T20:14:03
 ---
-My name is Karl Heinz Marbaise currently I am the [Chairman of the Apache Maven Project](https://maven.apache.org/team.html), 
+My name is Karl Heinz Marbaise and I am a [Java Champion](https://javachampions.org/members.html),
+[Apache Maven Project PMC Member](https://maven.apache.org/team.html), 
 [Apache Software Foundation Member](https://people.apache.org/phonebook.html?uid=khmarbaise), [Mojo Haus Member](https://www.mojohaus.org/team.html), 
+
 Java Developer, CI / CD Fan, and working as a Freelancer.
 
 I started programming ca. 1980 while I got in contact with BASIC programming on a 
 [PET 2001](https://en.wikipedia.org/wiki/Commodore_PET). After a time it became to slow 
 and changed to assembly language ([6502](https://en.wikipedia.org/wiki/MOS_Technology_6502#Example_code)).
 
-Afterwards I started studying electrical engineering on the University of applied science(specializing in communications
-engineering)  and started working as a student assistant and implemented in different assembly languages like 
+Afterwards I started studying electrical engineering at the [University of Applied Science](https://www.fh-aachen.de/en/) 
+(specializing in communications engineering)  and started working as a student assistant and implemented different
+things in different assembly languages like [6502](https://en.wikipedia.org/wiki/MOS_Technology_6502), 
 [80286](https://en.wikipedia.org/wiki/Intel_80286) at that time under [MS-DOS](https://en.wikipedia.org/wiki/MS-DOS).
 Also worked with a lot of other things like [Turbo Pascal](https://en.wikipedia.org/wiki/Turbo_Pascal), Borland Pascal.
 
@@ -24,7 +27,7 @@ Also got more in contact with versions control tools like [CVS](https://en.wikip
 Now started to use [C++](https://en.wikipedia.org/wiki/C%2B%2B), [Bison](https://en.wikipedia.org/wiki/GNU_Bison), 
 [Flex](https://en.wikipedia.org/wiki/Flex_(lexical_analyser_generator)), [OS/2](https://en.wikipedia.org/wiki/OS/2), 
 [OS/9](https://en.wikipedia.org/wiki/OS-9), different communications protocols like 
-[V24](https://en.wikipedia.org/wiki/RS-232), [RS-485](https://en.wikipedia.org/wiki/RS-485), 3964R protocol,
+[V24](https://en.wikipedia.org/wiki/RS-232), [RS-485](https://en.wikipedia.org/wiki/RS-485), [3964R protocol](https://doc.ipesoft.com/pages/viewpage.action?pageId=17282514),
 
 I continued with a lot of assembly programming, C, C++ and started with object-oriented programming with 
 [Turbo Vision](https://en.wikipedia.org/wiki/Turbo_Vision), [dBase database](https://en.wikipedia.org/wiki/DBase), 
@@ -42,12 +45,12 @@ Worked on an implementation of a basic like language, [GNU-Make](https://en.wiki
 I continued my career after graduating and continued to work with VBA, Rexx(OS/2), RCS, CVS, 
 [PHP](https://en.wikipedia.org/wiki/PHP), [ClearCase](https://en.wikipedia.org/wiki/Rational_ClearCase), and
 got in contact with [Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) the first time. Also got working
-with more databases like PostGreSQL, MySQL etc. Started to work with PHP using a framework like phpmvc (Java Struts).
+with more databases like PostGreSQL, MySQL etc. Started to work with PHP using a framework like phpmvc (a bit like Java Struts).
 
 In 2004/2005 I continued my work with PHP ([PHPDocumentor](https://phpdoc.org/)) and got more involvement with Java
 to do testing of a SOAP interface and started to use Java for that. Enhanced my knowledge of using version control
 systems(CVS) to decouple development and deployment. Started to use things like J2EE, JWebUnit, HTTPUnit, JavaDoc,
-Hibernate etc. During that time we have migrated from PHP to Java.
+Hibernate(first versions with Generics) etc. During that time we have migrated from PHP to Java.
 
 I kept working in Java area and used [Maven](https://maven.apache.org) for building the software. 
 Also using [JUnit](https://junit.org/junit4/), [JUnit Jupiter](https://https://junit.org/junit5/), 
