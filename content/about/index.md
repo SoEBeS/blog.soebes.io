@@ -3,6 +3,7 @@ title: "About me"
 date: 2025-06-07T11:14:03
 ---
 My name is Karl Heinz Marbaise and I am a [Java Champion](https://javachampions.org/members.html),
+[Testcontainers Community Champion](https://testcontainers.com/community-champions/karl-heinz-marbaise/),
 [Apache Maven Project PMC Member](https://maven.apache.org/team.html), 
 [Apache Software Foundation Member](https://people.apache.org/phonebook.html?uid=khmarbaise), [Mojo Haus Member](https://www.mojohaus.org/team.html), 
 
