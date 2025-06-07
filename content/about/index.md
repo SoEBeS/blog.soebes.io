@@ -76,5 +76,6 @@ also made lectures on different conferences like BaselOne, JAX, FOSDEM, CyberJug
 I've started with a few [YouTube videos](https://www.youtube.com/@khmarbaise) about Apache Maven
 and Junit Jupiter.
 
-I'm also reachable via <a rel="me" href="https://mastodon.social/@khmarbaise">Mastodon</a>.
+I'm also reachable via <a rel="me" href="https://mastodon.social/@khmarbaise">Mastodon</a> or 
+<a href="https://bsky.app/profile/khmarbaise.bsky.social">https://bsky.app/profile/khmarbaise.bsky.social</a>. 
 
